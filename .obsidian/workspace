@@ -9,11 +9,25 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "History/WWII/Untitled.md",
+            "file": "Social Studies/Healthcare SRQ.md",
+            "mode": "source",
+            "source": true
+          }
+        },
+        "group": "0862ffd7a0ce9adb"
+      },
+      {
+        "id": "71acbda67fc4d749",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Social Studies/Healthcare SRQ.md",
             "mode": "preview",
             "source": true
           }
-        }
+        },
+        "group": "0862ffd7a0ce9adb"
       }
     ],
     "direction": "vertical"
@@ -73,6 +87,7 @@
   },
   "active": "b243909ec4f6f82c",
   "lastOpenFiles": [
+    "Social Studies/Healthcare SRQ.md",
     "History/WWII/Untitled.md",
     "Computing+/Untitled.md",
     "Computing+/Chapter 11.md",
@@ -81,7 +96,6 @@
     "Computing+/Chapter 6.1.md",
     "Computing+/Discovery Week/Computing .md",
     "Computing+/Discovery Week/monte carlo.png",
-    "uhhh how do I explain this.md",
-    "Social Studies/SBQ/Suprise.md"
+    "uhhh how do I explain this.md"
   ]
 }

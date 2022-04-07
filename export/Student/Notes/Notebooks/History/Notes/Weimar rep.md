@@ -110,9 +110,9 @@ Frequent attempts to overthrow the Weimar Republic by the left & right wing poli
 - Sentenced to 5 years jail for treason
 - Served 9 months in jail before he was released
 
-![[Untitled]]
+![[export/Student/Notes/Notebooks/History/Notes/Untitled]]
 
-![[Untitled]]
+![[export/Student/Notes/Notebooks/History/Notes/Untitled]]
 
 # Stressman?
 
