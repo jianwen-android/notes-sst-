@@ -1,0 +1,10 @@
+|Name|Computing|IB|Property|
+|---|---|---|---|
+|Anglo-Chinese Junior College|Yes|No,|
+|Dunman High School|Yes|No,|
+|Hwa Chong Institution|Yes|Yes,|
+|Jurong Pioneer Junior College|Yes|No,|
+|Nanyang Junior College|Yes|No,|
+|National Junior College|Yes|No,|
+|River Valley Junior College|Yes|No,|
+|Yishun Innova Junior College|Yes|No||

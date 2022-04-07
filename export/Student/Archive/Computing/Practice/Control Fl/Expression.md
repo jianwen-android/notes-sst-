@@ -1,0 +1,8 @@
+|Symbol|Explanation|
+|---|---|
+|>|Greater than|
+|>=|Greater than or equal to|
+|<|Less than|
+|<=|Less than or equal to|
+|==|Equivalence|
+|!=|Not equal|

@@ -1,0 +1,10 @@
+|Name|Psuedocode|
+|---|---|
+|IF ELSE statement|"IF [] THEN|
+|ELSEIF|
+|ELSE|
+|ENDIF"|
+|INPUT and PRINT statements|"INPUT|
+|OUTPUT"|
+|while loop|WHILE....ENDWHILE|
+|for loop|FOR...NEXT|

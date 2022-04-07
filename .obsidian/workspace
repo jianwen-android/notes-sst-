@@ -1,0 +1,87 @@
+{
+  "main": {
+    "id": "8f99b4f9985c04f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "b243909ec4f6f82c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "History/WWII/Untitled.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6e3c4ce06d3b70ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "3372ac3f08e52114",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cef37112d307c9ef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5089b0fdc5f2ebee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cbf447a3a94aaa52",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "af641243059a20af",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b243909ec4f6f82c",
+  "lastOpenFiles": [
+    "History/WWII/Untitled.md",
+    "Computing+/Untitled.md",
+    "Computing+/Chapter 11.md",
+    "Computing+/Chapter 7.md",
+    "Computing+/computer s.md",
+    "Computing+/Chapter 6.1.md",
+    "Computing+/Discovery Week/Computing .md",
+    "Computing+/Discovery Week/monte carlo.png",
+    "uhhh how do I explain this.md",
+    "Social Studies/SBQ/Suprise.md"
+  ]
+}

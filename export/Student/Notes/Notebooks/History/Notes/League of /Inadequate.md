@@ -1,0 +1,7 @@
+|Measure|Reasons for ineffectiveness|
+|---|---|
+|Moral persuasion|Ineffective against strong offending nations (ignored the League's criticisms and condemnation|
+|Military sanctions|"- LON lacked an army to enforce its will|
+|- Members unwilling to get involved militarily"|
+|Economic sanctions|"- Members did not want their economies to be affected|
+|- Offending members could withdraw from the League"|

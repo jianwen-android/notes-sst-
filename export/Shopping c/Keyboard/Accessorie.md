@@ -1,0 +1,8 @@
+|Name|Brand|Modding?|Link|Price|
+|---|---|---|---|---|
+|Keyboard shroud for Phantom 87|tecware|yes|https://www.lazada.sg/products/tecware-phantom-shroud-classic-magnetic-top-cover-for-phantom-104-keys-keyboard-2-color-options-i1459876658-s6767534517.html|12|
+|Keyboard dust cover|unbranded|no|https://www.aliexpress.com/item/1005001497753168.html|37.51|
+|Rubber WASD Arrow keycaps|taihao|no|https://www.aliexpress.com/item/32863199203.html|21.12|
+|Switch opener|unbranded|no|https://www.thingiverse.com/thing:2685653|0|
+|O Rings|unbranded|yes|https://shopee.sg/-SG-Seller-120-Keyboard-Silencing-O-Rings-O-Rings-i.34872941.489116141|3.99|
+|,|,,|
