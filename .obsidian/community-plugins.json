@@ -4,5 +4,12 @@
   "theme-picker",
   "number-headings-obsidian",
   "obsidian-git",
-  "recent-files-obsidian"
+  "recent-files-obsidian",
+  "obsidian-admonition",
+  "table-editor-obsidian",
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-linter",
+  "sliding-panes-obsidian",
+  "obsidian-mind-map",
+  "nldates-obsidian"
 ]
