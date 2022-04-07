@@ -4,30 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "b243909ec4f6f82c",
+        "id": "8d3346861a8c5ca5",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Social Studies/Healthcare SRQ.md",
-            "mode": "source",
-            "source": true
+            "file": "Screenshot 2022-04-07 at 1.14.27 PM.png"
           }
-        },
-        "group": "0862ffd7a0ce9adb"
-      },
-      {
-        "id": "71acbda67fc4d749",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Social Studies/Healthcare SRQ.md",
-            "mode": "preview",
-            "source": true
-          }
-        },
-        "group": "0862ffd7a0ce9adb"
+        }
       }
     ],
     "direction": "vertical"
@@ -80,22 +64,46 @@
   "right": {
     "id": "af641243059a20af",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "252ff0017e2811c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59ccb003b77b8e2c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Screenshot 2022-04-07 at 1.14.27 PM.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "b243909ec4f6f82c",
+  "active": "8d3346861a8c5ca5",
   "lastOpenFiles": [
-    "Social Studies/Healthcare SRQ.md",
+    "Screenshot 2022-04-07 at 1.14.27 PM.png",
+    "Social Studies/Key principles.md",
+    "Screenshot 2022-04-07 at 1.16.05 PM 1.png",
+    "Screenshot 2022-04-07 at 1.16.05 PM.png",
+    "Social Studies/Globalisation.md",
     "History/WWII/Untitled.md",
     "Computing+/Untitled.md",
     "Computing+/Chapter 11.md",
     "Computing+/Chapter 7.md",
-    "Computing+/computer s.md",
-    "Computing+/Chapter 6.1.md",
-    "Computing+/Discovery Week/Computing .md",
-    "Computing+/Discovery Week/monte carlo.png",
-    "uhhh how do I explain this.md"
+    "Computing+/computer s.md"
   ]
 }
