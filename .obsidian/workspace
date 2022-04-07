@@ -66,10 +66,24 @@
   "right": {
     "id": "af641243059a20af",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "f9b5f6b588738a6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09ec4fa273ce134b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "b243909ec4f6f82c",
   "lastOpenFiles": [
