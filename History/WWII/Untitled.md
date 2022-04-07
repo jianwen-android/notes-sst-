@@ -34,3 +34,5 @@
 ### Direct Involvment
 1. COntributions of vast resources & manpower
 2. Collaboration with the Allies in military strategies
+
+- [ ] Todo 

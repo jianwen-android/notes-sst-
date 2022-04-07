@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Biases",
+      "path": "English/Biases.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "History/WWII/Untitled.md"
+    },
+    {
       "basename": "Key principles",
       "path": "Social Studies/Key principles.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "Globalisation",
       "path": "Social Studies/Globalisation.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "History/WWII/Untitled.md"
     }
   ],
   "omittedPaths": [],
