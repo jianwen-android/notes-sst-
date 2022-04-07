@@ -7,9 +7,11 @@
         "id": "8d3346861a8c5ca5",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Screenshot 2022-04-07 at 1.14.27 PM.png"
+            "file": "Social Studies/Key principles.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -75,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Screenshot 2022-04-07 at 1.14.27 PM.png",
+                "file": "Social Studies/Key principles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,10 +97,10 @@
   },
   "active": "8d3346861a8c5ca5",
   "lastOpenFiles": [
-    "Screenshot 2022-04-07 at 1.14.27 PM.png",
     "Social Studies/Key principles.md",
+    "Social Studies/Screenshot 2022-04-07 at 1.14.27 PM.png",
     "Screenshot 2022-04-07 at 1.16.05 PM 1.png",
-    "Screenshot 2022-04-07 at 1.16.05 PM.png",
+    "Social Studies/Screenshot 2022-04-07 at 1.16.05 PM.png",
     "Social Studies/Globalisation.md",
     "History/WWII/Untitled.md",
     "Computing+/Untitled.md",
