@@ -5,6 +5,7 @@
 2. Lend lease Act
 3. Escort roles
 4. Economic sanctions
+
 *Helped kept Britain & USSR in the war but...*
 
 #### Cash and carry
