@@ -4,30 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8d3346861a8c5ca5",
+        "id": "b38287df7723d10f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "English/Biases.md",
+            "file": "Computing+/Chapter 7.md",
             "mode": "source",
             "source": false
           }
-        },
-        "group": "02ea063aa733a049"
-      },
-      {
-        "id": "1290e5b45dac2b23",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "English/Biases.md",
-            "mode": "preview",
-            "source": false
-          }
-        },
-        "group": "02ea063aa733a049"
+        }
       }
     ],
     "direction": "vertical"
@@ -75,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 352.49999809265137
   },
   "right": {
     "id": "af641243059a20af",
@@ -91,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Biases.md",
+                "file": "Computing+/Chapter 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,25 +87,33 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "38dd09b1cc0ed41f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "8d3346861a8c5ca5",
+  "active": "b38287df7723d10f",
   "lastOpenFiles": [
-    "English/Biases.md",
-    "History/WWII/Untitled.md",
-    "Social Studies/Key principles.md",
-    "Social Studies/Screenshot 2022-04-07 at 1.14.27 PM.png",
-    "Screenshot 2022-04-07 at 1.16.05 PM 1.png",
-    "Social Studies/Screenshot 2022-04-07 at 1.16.05 PM.png",
-    "Social Studies/Globalisation.md",
-    "Computing+/Untitled.md",
+    "Computing+/Chapter 7.md",
+    "Computing+/Chapter 6.1.md",
     "Computing+/Chapter 11.md",
-    "Computing+/Chapter 7.md"
+    "Excalidraw/Drawing 2022-04-08 15.26.07.excalidraw.md",
+    "English/Biases.md",
+    "Excalidraw/Drawing 2022-04-08 15.22.47.excalidraw.md",
+    "History/Notes/Hitler/Chancellor to Dictator.md",
+    "History/Notes.md",
+    "History/Notes/WWII (Part 2)/Germany’s Defeat/Germany’s Defeat.md",
+    "History/Notes/WWII (Part 2)/Early Axis successes.md"
   ]
 }

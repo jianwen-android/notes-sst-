@@ -11,7 +11,7 @@
 
 [[Exam mark tally]]
 
-[[Notes]]
+[[export/Student/Notes]]
 
 [[Archive]]
 

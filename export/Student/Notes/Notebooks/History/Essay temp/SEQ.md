@@ -1,4 +1,0 @@
-|Note Title|Created|Marks|URL|Updated|
-|---|---|---|---|---|
-|Evaluation Essay|"February 9, 2021 8:57 PM"|8 Marks|,"April 15, 2021 10:02 AM"|
-|Explanation Essay|"February 9, 2021 8:56 PM"|12 Marks|,"April 15, 2021 10:02 AM"|

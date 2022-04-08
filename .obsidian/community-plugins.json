@@ -3,7 +3,6 @@
   "obsidian-minimal-settings",
   "theme-picker",
   "number-headings-obsidian",
-  "obsidian-git",
   "recent-files-obsidian",
   "obsidian-admonition",
   "table-editor-obsidian",
@@ -11,5 +10,6 @@
   "obsidian-linter",
   "sliding-panes-obsidian",
   "obsidian-mind-map",
-  "nldates-obsidian"
+  "nldates-obsidian",
+  "remotely-save"
 ]
