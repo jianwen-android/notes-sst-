@@ -1,15 +1,12 @@
 [
   "obsidian-excalidraw-plugin",
-  "obsidian-minimal-settings",
   "theme-picker",
   "number-headings-obsidian",
   "recent-files-obsidian",
   "obsidian-admonition",
   "table-editor-obsidian",
-  "cm-editor-syntax-highlight-obsidian",
   "obsidian-linter",
   "sliding-panes-obsidian",
-  "obsidian-mind-map",
   "nldates-obsidian",
   "obsidian-git"
 ]
