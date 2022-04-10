@@ -4,156 +4,110 @@
     "type": "split",
     "children": [
       {
-        "id": "b579c36e5db06183",
+        "id": "f5cc7a11b7e1fee8",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Computing+/Chapter 7/A. Ethical and Social Issues of Computing.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6e3c4ce06d3b70ce",
-    "type": "split",
+    "id": "9364c07a49281de4",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "3372ac3f08e52114",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cef37112d307c9ef",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "5089b0fdc5f2ebee",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "weaknesses of the league",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "cbf447a3a94aaa52",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 313
-  },
-  "right": {
-    "id": "af641243059a20af",
-    "type": "split",
-    "children": [
-      {
-        "id": "252ff0017e2811c0",
-        "type": "tabs",
-        "dimension": 37.06896551724138,
-        "children": [
-          {
-            "id": "59ccb003b77b8e2c",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Computing+/Chapter 7/A. Ethical and Social Issues of Computing.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "d2ad76659b5d68a5",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "861b54f5bbd63d1f",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Computing+/Chapter 7/A. Ethical and Social Issues of Computing.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "049130f70b6905a4",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 3
+        "id": "5b6139ceeb906d92",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
       },
       {
-        "id": "147accc1498b9f0d",
-        "type": "tabs",
-        "dimension": 62.931034482758626,
-        "children": [
-          {
-            "id": "c6a937ac2e5c9a94",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
+        "id": "2ee50b3bf472450a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "b94c5fda612a239d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "d19cd4a10a39e666",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 266
+    "currentTab": 0
   },
-  "active": "b579c36e5db06183",
+  "right": {
+    "id": "8f2c332732289a63",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ccb0733ea7588549",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "71d2101d311829af",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "f5cc7a11b7e1fee8",
   "lastOpenFiles": [
-    "Computing+/Chapter 7/A. Ethical and Social Issues of Computing.md",
-    "Computing+/Chapter 7/真的不知道.md",
-    "conflict-files-obsidian-git.md",
-    "Computing+/Chapter 6.1.md",
-    "Computing+/Chapter 11.md",
+    "Computing+/Chapter 7.md",
     "Excalidraw/Drawing 2022-04-10 21.02.18.excalidraw.md",
-    "Computing+/Chapter 7/Chapter 7.md",
-    "Computing+/Chapter 7/Untitled 1.md",
-    "Excalidraw/Drawing 2022-04-10 20.56.20.excalidraw.md",
-    "Excalidraw/Drawing 2022-04-10 20.55.16.excalidraw.md"
+    "Chinese/Chinese.md",
+    "History/Essay Thinking Pages/Essay Thinking Pages.md",
+    "History/Essay Thinking Pages/What can y.md",
+    "History/Notes/Notes.md",
+    "History/Notes/Hitler/Facism vs Nazism.md",
+    "Social Studies/Social Studies.md",
+    "Computing+/Chapter 11.md",
+    "Social Studies/Key principles.md"
   ]
 }
