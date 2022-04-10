@@ -1,7 +1,5 @@
 # Data
 
-![[A. Ethical and Social Issues of Computing 2022-04-10 21.16.27.excalidraw]]
-
 Data corruption[^corruption] occurs when computer data is made unusable by errors or alterations. This kind of damage can happen during the reading, writing or transmission of data. If the corrupted data cannot be recovered or replaced, this also results in data loss[^loss].
 
 The effects of data corruption can vary depending on the amount of corrupted data and the type of data that is represented.
