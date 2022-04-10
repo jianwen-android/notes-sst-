@@ -7,5 +7,14 @@
       ],
       "key": "S"
     }
+  ],
+  "editor:insert-link": [],
+  "darlal-switcher-plus:switcher-plus:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "O"
+    }
   ]
 }

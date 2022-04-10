@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "b38287df7723d10f",
+        "id": "3e5deb27345863a1",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -89,31 +89,44 @@
             }
           },
           {
-            "id": "38dd09b1cc0ed41f",
+            "id": "d2ad76659b5d68a5",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "861b54f5bbd63d1f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "b38287df7723d10f",
+  "active": "3e5deb27345863a1",
   "lastOpenFiles": [
     "Computing+/Chapter 7.md",
-    "Computing+/Chapter 6.1.md",
     "Computing+/Chapter 11.md",
+    "Computing+/Sharing From 2021 Alumni.md",
+    "Chapter.md",
+    "Computing+/Chapter 6.1.md",
+    "History/Notes/Hitler/Nazi party.md",
     "Excalidraw/Drawing 2022-04-08 15.26.07.excalidraw.md",
     "English/Biases.md",
     "Excalidraw/Drawing 2022-04-08 15.22.47.excalidraw.md",
-    "History/Notes/Hitler/Chancellor to Dictator.md",
-    "History/Notes.md",
-    "History/Notes/WWII (Part 2)/Germany’s Defeat/Germany’s Defeat.md",
-    "History/Notes/WWII (Part 2)/Early Axis successes.md"
+    "History/Notes/Hitler/Chancellor to Dictator.md"
   ]
 }

@@ -1,9 +1,10 @@
 [
   "file-explorer",
   "global-search",
-  "switcher",
   "graph",
   "backlink",
+  "outgoing-link",
+  "tag-pane",
   "page-preview",
   "note-composer",
   "command-palette",
@@ -11,5 +12,6 @@
   "markdown-importer",
   "word-count",
   "open-with-default-app",
+  "workspaces",
   "file-recovery"
 ]
