@@ -27,21 +27,6 @@
       "icon": "highlight-glyph"
     },
     {
-      "id": "obsidian-git:commit",
-      "name": "Obsidian Git: Commit all changes",
-      "icon": "feather-git-commit"
-    },
-    {
-      "id": "obsidian-git:push2",
-      "name": "Obsidian Git: Push",
-      "icon": "remix-GitMergeLine"
-    },
-    {
-      "id": "obsidian-git:pull",
-      "name": "Obsidian Git: Pull",
-      "icon": "feather-git-merge"
-    },
-    {
       "id": "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed",
       "name": "Excalidraw: Create a new drawing - IN A NEW PANE - and embed into active document",
       "icon": "feather-pen-tool"
