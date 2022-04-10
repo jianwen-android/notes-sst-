@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 11657298
       }
+    },
+    {
+      "query": "path:Computing+",
+      "color": {
+        "a": 1,
+        "rgb": 5410784
+      }
     }
   ],
   "collapse-display": false,
@@ -39,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6423430687510099,
-  "close": true
+  "scale": 0.6423430687510097,
+  "close": false
 }

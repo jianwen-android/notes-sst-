@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1197c23a12cdc561",
+        "id": "11d724fb0f3b1b8c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Computing+/Chapter 7.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing+/Chapter 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing+/Chapter 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,17 +112,17 @@
     "direction": "horizontal",
     "width": 394.0000915527344
   },
-  "active": "1197c23a12cdc561",
+  "active": "11d724fb0f3b1b8c",
   "lastOpenFiles": [
-    "Computing+/Chapter 7.md",
-    "Computing+/Chapter 11.md",
-    "Computing+/Chapter 6.1.md",
+    "Computing+/Computing+.md",
+    "Computing+/Discovery Week/Reinforcement Learning.md",
+    "Computing+/Miscellanous.md",
+    "Computing+/Notes.md",
     "Computing+/Sharing From 2021 Alumni.md",
+    "History/Untitled.md",
     "History/Notes.md",
-    "export/Student.md",
-    "export/Shopping c.md",
-    "export/Electronic.md",
-    "export/ECG.md",
-    "export/Student/Archive/华文/Status Das/Inbox.md"
+    "English/Untitled.md",
+    "Computing+/Chapter 7.md",
+    "Computing+/Chapter 11.md"
   ]
 }
