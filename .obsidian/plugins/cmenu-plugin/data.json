@@ -17,19 +17,34 @@
       "icon": "subscript-glyph"
     },
     {
-      "id": "cmenu-plugin:editor:toggle-code",
-      "name": "cMenu: Toggle code",
-      "icon": "code-glyph"
-    },
-    {
-      "id": "cmenu-plugin:codeblock",
-      "name": "cMenu: Toggle codeblock",
-      "icon": "codeblock-glyph"
-    },
-    {
       "id": "cmenu-plugin:editor:toggle-blockquote",
       "name": "cMenu: Toggle blockquote",
       "icon": "quote-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:toggle-highlight",
+      "name": "cMenu: Toggle highlight",
+      "icon": "highlight-glyph"
+    },
+    {
+      "id": "obsidian-git:commit",
+      "name": "Obsidian Git: Commit all changes",
+      "icon": "feather-git-commit"
+    },
+    {
+      "id": "obsidian-git:pull",
+      "name": "Obsidian Git: Pull",
+      "icon": "feather-git-merge"
+    },
+    {
+      "id": "obsidian-git:push2",
+      "name": "Obsidian Git: Push",
+      "icon": "remix-GitMergeLine"
+    },
+    {
+      "id": "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed",
+      "name": "Excalidraw: Create a new drawing - IN A NEW PANE - and embed into active document",
+      "icon": "feather-pen-tool"
     }
   ],
   "appendMethod": "workspace",

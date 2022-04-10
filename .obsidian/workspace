@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "91229cd235bf7457",
+        "id": "f5cc7a11b7e1fee8",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -119,9 +119,17 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "6d956474e99c7eec",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "147accc1498b9f0d",
@@ -142,17 +150,17 @@
     "direction": "horizontal",
     "width": 562
   },
-  "active": "91229cd235bf7457",
+  "active": "f5cc7a11b7e1fee8",
   "lastOpenFiles": [
     "Computing+/Chapter 7.md",
-    "Computing+/Sharing From 2021 Alumni.md",
     "Computing+/Chapter 11.md",
+    "Social Studies/Key principles.md",
+    "Chapter 7 2022-04-10 16.46.56.excalidraw.md",
+    "Computing+/Sharing From 2021 Alumni.md",
     "Computing+/Chapter 6.1.md",
     "Computing+/Computing+.md",
     "English/English.md",
     "English/Biases.md",
-    "History/SBQ/SBQ.md",
-    "History/SBQ/Reliability.md",
-    "History/SEQ/SEQ.md"
+    "History/SBQ/SBQ.md"
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "commitMessage": "{{hostname}} {{numFiles}}: Manual backup at {{date}}",
+  "commitMessage": "{{hostname}} {{numFiles}}: {{date}}",
   "autoCommitMessage": "{{hostname}} {{numFiles}}: {{date}}",
   "commitDateFormat": "DD-MM-YYYY HH:mm:ss",
-  "autoSaveInterval": 3,
+  "autoSaveInterval": 0,
   "autoPullInterval": 0,
   "autoPullOnBoot": true,
   "disablePush": false,
