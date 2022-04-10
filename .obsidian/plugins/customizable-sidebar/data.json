@@ -1,11 +1,6 @@
 {
   "sidebarCommands": [
     {
-      "id": "obsidian-excalidraw-plugin:excalidraw-autocreate",
-      "name": "Excalidraw: Create a new drawing - IN A NEW PANE",
-      "icon": "feather-pen-tool"
-    },
-    {
       "id": "obsidian-git:commit",
       "name": "Obsidian Git: Commit all changes",
       "icon": "feather-git-commit"
