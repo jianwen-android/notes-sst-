@@ -2,19 +2,107 @@
   "recentFiles": [
     {
       "basename": "Notes",
+      "path": "History/Notes/Notes.md"
+    },
+    {
+      "basename": "Notes",
       "path": "History/Notes.md"
+    },
+    {
+      "basename": "SEQ",
+      "path": "History/SEQ/SEQ.md"
+    },
+    {
+      "basename": "SBQ",
+      "path": "History/SBQ/SBQ.md"
+    },
+    {
+      "basename": "Hitler",
+      "path": "History/Notes/Hitler/Hitler.md"
+    },
+    {
+      "basename": "Explanatio",
+      "path": "History/SEQ/Explanatio.md"
+    },
+    {
+      "basename": "Evaluation",
+      "path": "History/SEQ/Evaluation.md"
+    },
+    {
+      "basename": "Essay Thinking Pages",
+      "path": "History/Essay Thinking Pages/Essay Thinking Pages.md"
+    },
+    {
+      "basename": "‘The Great",
+      "path": "History/Essay Thinking Pages/‘The Great.md"
+    },
+    {
+      "basename": "Was Stalin",
+      "path": "History/Essay Thinking Pages/Was Stalin.md"
+    },
+    {
+      "basename": "WWII (Part 2)",
+      "path": "History/Notes/WWII (Part 2)/WWII (Part 2).md"
+    },
+    {
+      "basename": "WWII",
+      "path": "History/Notes/WWII/WWII.md"
+    },
+    {
+      "basename": "WWI",
+      "path": "History/Notes/WWI/WWI.md"
+    },
+    {
+      "basename": "Stalin",
+      "path": "History/Notes/Stalin/Stalin.md"
+    },
+    {
+      "basename": "Military Japan",
+      "path": "History/Notes/Military Japan/Military Japan.md"
+    },
+    {
+      "basename": "Social Studies",
+      "path": "Social Studies/Social Studies.md"
+    },
+    {
+      "basename": "English",
+      "path": "English/English.md"
     },
     {
       "basename": "Computing+",
       "path": "Computing+/Computing+.md"
     },
     {
-      "basename": "Chapter 7",
-      "path": "Computing+/Chapter 7.md"
+      "basename": "Chinese",
+      "path": "Chinese/Chinese.md"
     },
     {
       "basename": "Chapter 6.1",
       "path": "Computing+/Chapter 6.1.md"
+    },
+    {
+      "basename": "Why was Hi",
+      "path": "History/Essay Thinking Pages/Why was Hi.md"
+    },
+    {
+      "basename": "Why did th",
+      "path": "History/Essay Thinking Pages/Why did th.md"
+    },
+    {
+      "basename": "What is th",
+      "path": "History/Essay Thinking Pages/What is th.md"
+    },
+    {
+      "basename": "Explain wh",
+      "path": "History/Essay Thinking Pages/Explain wh.md"
+    },
+    {
+      "basename": "What can y",
+      "path": "History/Essay Thinking Pages/What can y.md"
+    },
+    {
+      "basename": "Chapter 7",
+      "path": "Computing+/Chapter 7.md"
     },
     {
       "basename": "Reinforcement Learning",
@@ -93,24 +181,12 @@
       "path": "History/Notes/Hitler/The Rise of Hitler/Propaganda/Propaganda.md"
     },
     {
-      "basename": "‘The Great",
-      "path": "History/Essay Thinking Pages/‘The Great.md"
-    },
-    {
       "basename": "Comparison",
       "path": "History/SBQ/Comparison.md"
     },
     {
-      "basename": "Explanatio",
-      "path": "History/SEQ/Explanatio.md"
-    },
-    {
       "basename": "Screenshot_2021-03-01_at_9.25.30_AM",
       "path": "History/SEQ/Explanatio/Screenshot_2021-03-01_at_9.25.30_AM.png"
-    },
-    {
-      "basename": "Evaluation",
-      "path": "History/SEQ/Evaluation.md"
     },
     {
       "basename": "Purpose",
@@ -123,22 +199,6 @@
     {
       "basename": "Evaluation",
       "path": "History/SBQ/Evaluation.md"
-    },
-    {
-      "basename": "Key principles",
-      "path": "Social Studies/Key principles.md"
-    },
-    {
-      "basename": "Screenshot 2022-04-07 at 1.14.27 PM",
-      "path": "Social Studies/Screenshot 2022-04-07 at 1.14.27 PM.png"
-    },
-    {
-      "basename": "Screenshot 2022-04-07 at 1.16.05 PM",
-      "path": "Social Studies/Screenshot 2022-04-07 at 1.16.05 PM.png"
-    },
-    {
-      "basename": "Globalisation",
-      "path": "Social Studies/Globalisation.md"
     }
   ],
   "omittedPaths": [],

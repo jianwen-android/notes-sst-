@@ -4,48 +4,19 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "path:History/Notes/Hitler",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "path:History/Notes/Stalin",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "path:\"History/Notes/WWII (Part 2)\"",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "path:Computing+",
-      "color": {
-        "a": 1,
-        "rgb": 5410784
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -0.1,
   "nodeSizeMultiplier": 1.19118733509235,
-  "lineSizeMultiplier": 1.9524327176781,
+  "lineSizeMultiplier": 2.14166666666667,
   "collapse-forces": false,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.6423430687510095,
-  "close": true
+  "close": false
 }

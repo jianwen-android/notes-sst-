@@ -1,19 +1,11 @@
 [
   "obsidian-excalidraw-plugin",
-  "theme-picker",
-  "number-headings-obsidian",
   "recent-files-obsidian",
-  "obsidian-admonition",
   "table-editor-obsidian",
   "obsidian-linter",
   "sliding-panes-obsidian",
-  "nldates-obsidian",
   "obsidian-git",
-  "darlal-switcher-plus",
-  "tabout",
-  "review-obsidian",
-  "quick-latex",
-  "obsidian42-text-transporter",
   "folder-note-plugin",
-  "waypoint"
+  "waypoint",
+  "darlal-switcher-plus"
 ]

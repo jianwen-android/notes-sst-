@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "983f0b46882dbf50",
+        "id": "b28292df639076b1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "History/Notes.md",
+            "file": "History/Notes/Notes.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Notes.md",
+                "file": "History/Notes/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Notes.md",
+                "file": "History/Notes/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,22 +113,36 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "147accc1498b9f0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6a937ac2e5c9a94",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 394.0000915527344
+    "width": 488
   },
-  "active": "983f0b46882dbf50",
+  "active": "b28292df639076b1",
   "lastOpenFiles": [
+    "History/Notes/Notes.md",
     "History/Notes.md",
-    "Computing+/Computing+.md",
-    "History/Untitled.md",
-    "Computing+/Chapter 7.md",
-    "Computing+/Chapter 6.1.md",
-    "Computing+/Discovery Week/Reinforcement Learning.md",
-    "Computing+/Miscellanous.md",
-    "Computing+/Notes.md",
-    "Computing+/Sharing From 2021 Alumni.md",
-    "English/Untitled.md"
+    "History/SEQ/SEQ.md",
+    "History/SBQ/SBQ.md",
+    "History/Notes/Hitler/Hitler.md",
+    "History/SEQ/Explanatio.md",
+    "History/SEQ/Evaluation.md",
+    "History/Essay Thinking Pages/Essay Thinking Pages.md",
+    "History/Essay Thinking Pages/‘The Great.md",
+    "History/History.md"
   ]
 }

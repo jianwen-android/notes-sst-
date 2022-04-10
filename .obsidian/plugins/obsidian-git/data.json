@@ -1,7 +1,7 @@
 {
-  "commitMessage": "vault backup: {{date}}",
-  "autoCommitMessage": "vault backup: {{date}}",
-  "commitDateFormat": "hostname DD-MM-YYYY HH:mm:ss",
+  "commitMessage": "{{hostname}} {{numFiles}}: Manual backup at {{date}}",
+  "autoCommitMessage": "{{hostname}} {{numFiles}}: {{date}}",
+  "commitDateFormat": "DD-MM-YYYY HH:mm:ss",
   "autoSaveInterval": 3,
   "autoPullInterval": 0,
   "autoPullOnBoot": true,
