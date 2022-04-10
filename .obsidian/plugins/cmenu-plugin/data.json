@@ -32,14 +32,14 @@
       "icon": "feather-git-commit"
     },
     {
-      "id": "obsidian-git:pull",
-      "name": "Obsidian Git: Pull",
-      "icon": "feather-git-merge"
-    },
-    {
       "id": "obsidian-git:push2",
       "name": "Obsidian Git: Push",
       "icon": "remix-GitMergeLine"
+    },
+    {
+      "id": "obsidian-git:pull",
+      "name": "Obsidian Git: Pull",
+      "icon": "feather-git-merge"
     },
     {
       "id": "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed",
