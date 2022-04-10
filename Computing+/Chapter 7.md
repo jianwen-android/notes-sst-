@@ -9,5 +9,3 @@
 - Spamming
     - Mass distribution of junk mail to emails collected from public mailing lists, company websites etc.
 
-
-what 
