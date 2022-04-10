@@ -1,8 +1,11 @@
 # Weimar republic
 
 Created: August 25, 2021 12:47 PM
+
 Status: Reviewed
+
 Topic: hitler
+
 Updated: September 23, 2021 11:38 PM
 
 <aside>
@@ -16,13 +19,13 @@ Updated: September 23, 2021 11:38 PM
     - 1st President: Friedrich Ebert
     - 1st Chancellor: Philipp Scheidemann
 
-# The Weimar Constitution
+# The weimar constitution
 
 - Adapted on 11 Aug 1919
 - Spelt out the "basic rights and obligations" of government officials and the citizens they served
     - E.g. equality before the law, freedom of religion, privacy
 
-## Proportional Representation
+## Proportional representation
 
 - Germans voted for a party, rather than a candidate, to fill the Reichstag (the German legislature)
 - The elections determined the percentage of seats each party received in the Reichstag, but the parties themselves selected the individuals who filled each allotted seat
@@ -79,7 +82,7 @@ Updated: September 23, 2021 11:38 PM
     - Many blamed the government
     - Led to support for extreme parties from both the right and the left wing
 
-## Disillusionment with Democracy
+## Disillusionment with democracy
 
 - Germany was formed in 1871 & had a monarchy with the Kaiser in charge
 - Lacked a tradition of democracy; desired strong autocratic leaders who could deliver results
@@ -110,7 +113,9 @@ Frequent attempts to overthrow the Weimar Republic by the left & right wing poli
 - Sentenced to 5 years jail for treason
 - Served 9 months in jail before he was released
 ![[Untitled.png|500]]![[Untitled 1.png|500]]
+
 # Stressman?
+
 - 1924-1929 was the golden period of the Weimar Republic
 - Economic & political recovery due to the leadership of Gustav Stresemann
 - WR under Gustav Stresemann
@@ -131,23 +136,23 @@ Frequent attempts to overthrow the Weimar Republic by the left & right wing poli
     - Plan was to get on better terms with other countries and convince them to trust Germany again
     - His hope was to recover some of the lands and rights that Germany had lost at the Treaty of Versailles
 
-## Treaty of Locarno
+## Treaty of locarno
 
 - Signed with Germany's wartime enemies in 1925
 - WR agreed not to try and recover any of its lost lands in western Germany
 - Helped make Britain, France and Italy less suspicious
 
-### Getting Germany into the League of Nations
+### Getting germany into the league of nations
 
 - Kellogg-Briand pact (not by Stresemann and not under the treaty)
-    
+
     Made a pact in which they promised that they will never use war to solve their problems
-    
+
 - League of Nations - again controlled by Germany's wartime enemies
 - By joining them in Sep 1926, indicated that they were on better terms
 - Bitter feelings aroused by war *subsided*
 
-### Getting the USA to agree to an even better deal about reparation payments
+### Getting the usa to agree to an even better deal about reparation payments
 
 - The Dawes Plan 1924 in which USA would invest 40 million pounds in Germany
 - Followed by the **Young Plan***, made in **1929**

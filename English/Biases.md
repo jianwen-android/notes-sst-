@@ -1,4 +1,5 @@
-### Gender Bias
+# Gender bias
+
 - Masculinity/Feminity
 - Patriarchy
 - Gender roles/Gender gap
@@ -7,7 +8,8 @@
 	- Representation
 - Stigma
 
-### SES Bias
+# Ses bias
+
 - Social status
 - Affluent
 - Power
@@ -15,14 +17,16 @@
 	- Differences in treatment
 - Entitlement
 
-### Lookism
+# Lookism
+
 - Attractiveness
 - Masculinity/Feminity
 - Subconcious prejudice
 - Unfair advantage
 - Dominant aesthetic criteria
 
-### Gen Z
+# Gen z
+
 - Internet (tech) is a given (life revolves)
 - Extroverted
 - Comparison with other generations

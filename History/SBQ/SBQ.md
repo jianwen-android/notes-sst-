@@ -5,6 +5,6 @@
 	- [[Comparison]]
 	- [[Evaluation]]
 	- [[Purpose]]
-	- [[Reliabilit]]
+	- [[Reliability]]
 
 %% End Waypoint %%

@@ -34,7 +34,7 @@ Updated: February 19, 2022 1:10 AM
 3. Needed Poland to be a land buffer in the event of an invasion by Germany
 
 <aside>
-⭐ The pact eased Hitler’s fears of having to wage a two-front war and effectively paved the way for Germany’s subsequent invasion of Poland
+⭐  The pact eased Hitler’s fears of having to wage a two-front war and effectively paved the way for Germany’s subsequent invasion of Poland
 
 </aside>
 

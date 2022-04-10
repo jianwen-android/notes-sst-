@@ -1,18 +1,21 @@
 # Hitler's impact
 
 Created: September 30, 2021 2:46 PM
+
 Status: Reviewed
+
 Topic: hitler
+
 Updated: January 17, 2022 12:46 PM
 
-# Controlling Lives
+# Controlling lives
 
 - Nazi party - implemented many ways of controlling the lives and influencing the thoughts of the German people
 - From 1933-1945, Germany was a totalitarian state
     - No rival parties, no political discussions, complete obedience to *der fuhrer*
     - Controlled every **aspect of people's lives
 
-## 1. Political Control
+## 1. political control
 
 One Party Rule
 
@@ -34,7 +37,7 @@ One Party Rule
     - Magazines, books, music, film, art, radio broadcasts
 - Controlling access to information meant people could only listen to Nazi ideas & aims, thus accepting them readily.
 
-### Key ideas that Goebbels propagated
+### Key ideas that goebbels propagated
 
 - Sense of belonging
 - Power & strength
@@ -52,9 +55,9 @@ One Party Rule
 
 </aside>
 
-# 2. Social Control
+# 2. social control
 
-## Education of the Young
+## Education of the young
 
 - Hitler was especially keen to win over the minds of young people
 - Education was carefully controlled
@@ -73,7 +76,9 @@ Lessons taught included:
 *Actually beautiful*
 
 - Hitler Youth Movements:
+
 Girls and boys encouraged to join this organisation
+
 - Divided into different sections according to age
 - Those who did not join found it difficult to get in the University or to find jobs after leaving school
 - Compulsory by 1939

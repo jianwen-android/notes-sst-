@@ -1,7 +1,11 @@
-# Chancellor to Dictator
+# Chancellor to dictator
+
 Created: September 30, 2021 2:10 PM
+
 Status: Reviewed
+
 Topic: hitler
+
 Updated: September 30, 2021 3:07 PM
 
 Ez steps Hitler used to create absolute power in 1, 2, 3!
@@ -17,14 +21,14 @@ Ez steps Hitler used to create absolute power in 1, 2, 3!
 - Called for new elections for the Reichstag, Mar '33
 - Although the Nazi Party was the single largest party in the Reichstag, Hitler wanted an overall majority
 
-## Influencing the Campaign
+## Influencing the campaign
 
 - Stopped newspaper from criticising the Nazis
 - Dismissed officials who opposed Hitler
 - Use uniformed followers to break up meetings of other parties and beat up opponents (SA & SS)
 - Extreme Nazi violence throughout the campaign, especially against the Communist
 
-## The Reichstag Fire
+## The reichstag fire
 
 - A week before the elections, the Reichstag building in Berlin went up in flames
 - Hitler blamed the fire on the communists
@@ -52,14 +56,14 @@ Ez steps Hitler used to create absolute power in 1, 2, 3!
 - To do this, the Reichstag had to pass an **"Enabling Act"** which required 2/3 majority
 - Hitler achieved this in March '33.
 
-### 4 ways to get the Enabling Act approved
+### 4 ways to get the enabling act approved
 
 1. Used SA & SS to intimidate the REichstag
 2. Banned communist deputies from coming to the Reichstag so they could not vote
 3. Persuaded the Centre Party to vote for the Act by giving vague promises, e.g. not interfere in Catholic Church/schools
 4. Using the votes of his allies, the Nationalist Party
 
-### This is so sad (Death of democracy)
+### This is so sad (death of democracy)
 
 1. Hitler could pass any laws for the next 4 years
 2. Other political parties were banned by July '33
@@ -70,9 +74,9 @@ Ez steps Hitler used to create absolute power in 1, 2, 3!
 7. SS and Gestapo struck terror into many Nazi opponents
 8. Many fled the country e.g. Albert Einstein and writer Thomas Mann
 
-# Getting rid of all Opposition
+# Getting rid of all opposition
 
-## The Night of the Long Knives 1934
+## The night of the long knives 1934
 
 - Germany army officers were unimpressed with Hitler & SA
 - Ernst Rohm, leader of the SA, was disappointed

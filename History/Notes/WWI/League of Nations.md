@@ -109,7 +109,11 @@ Clemenceau (France) : The League should be a strong organisation with its own ar
 - Due to its close association with the TOV (it was established by the Treaty)
 - Came to be seen as a league for victorious nations → more than half of its members fought with the Allies in WWI
 
-[[Inadequate peacekeeping measures]]
+| Measure            | Reasons for ineffectiveness                                                                                 |
+| ------------------ | ----------------------------------------------------------------------------------------------------------- |
+| Moral persuasion   | Ineffective against strong offending nations (ignored the League's criticisms and condemnation              |
+| Military sanctions | - LON lacked an army to enforce its will<br>- Members unwilling to get involved militarily                     |
+| Economic sanctions | - Members did not want their economies to be affected<br>- Offending members could withdraw from the League |
 
 ## Post-war attitudes of the major powers (Pg 24)
 

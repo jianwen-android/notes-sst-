@@ -1,8 +1,11 @@
 # Nazi party
 
 Created: September 15, 2021 1:15 PM
+
 Status: Reviewed
+
 Topic: hitler
+
 Updated: September 28, 2021 11:13 PM
 
 # Aims
@@ -15,7 +18,7 @@ Updated: September 28, 2021 11:13 PM
 - Additional living space (colonies) to feed and settle surplus population - **Lebensraum**
 - The state takes over major industries
 
-### Aims of the party
+## Aims of the party
 
 - It was while serving time in prison that he wrote Mein Kampf (My Struggle)
 - After the failure of the Munich putsch, *Hitler realised that he could come into power only by peaceful means*

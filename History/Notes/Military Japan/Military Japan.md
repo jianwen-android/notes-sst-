@@ -10,7 +10,6 @@
 	- **Rise of Mi**
 
 	- [[Rise of Mi]]
-	- [[Weaknesses of the League]]
 	- [[Worsening Relations with the USA]]
 
 %% End Waypoint %%

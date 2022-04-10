@@ -1,0 +1,162 @@
+# Circumstances after the revolution
+
+# Favourable circumstances
+
+-   Older ruling elites were replaced
+-   By the civil war's end → the party's Central Committee and its Politburo left as the key political areas
+
+Refer to TB Pg 34 for structure of the Communist Party
+
+> The ban on factions in 1921, prompted by the Bolsheviks' desire to centralise power and the practice of command from the top that became the rule during the years of war all favoured anyone who could control the majority of the nine-members Poliburo
+
+## How did the ban on factions help Stalin?
+
+Argument over NEP & reintroduction of money & profit making threatened to split the party as left-wingers criticised the policy. Lenin introduced a resolution on "Party Unity"
+
+However, it meant that no one was allowed to criticize Party policies/decisions. Stalin benefitted from the ban of criticism of the Party line. This was a weapon he can use to resist any challenges to the authority he had as Sec-Gen
+
+# Non-disclosure of Lenin's Testament
+
+## Lenin's Testament
+
+-   2 part document dictated by Lenin
+-   Dec 1922 (First edition) and Jan , 1923 (Edited)
+-   Addressed to the future Communist Party Congress
+
+The Party agreed not to publish the document because Lenin had criticised all of them
+
+<aside> 💡 Hence, the Testament did not achieve the effect that Lenin hoped for. Stalin retained his position as Secretary-General, which he later used to great effect during his rise to power
+
+</aside>
+
+# Weaknesses of Stalin's competitors
+
+## Politcally naive & failed to gather support
+
+-   Chose to remain silent on Lenin's criticism of Stalin
+-   undermined his position in the party
+
+<aside> 🤡 Also, Trostsky knew the power that Stalin was abusing as Sec-Gen... but chose not to do anything about it? Thats why we keep saying the Stalin got lucky, cause Trotsky didnt even say anything
+
+</aside>
+
+-   Believed Stalin about Lenin's funeral date (?)
+-   Support base → largely confined to the Red Army
+    -   Put him at a disadvantage compared to Stalin
+
+<aside> 💡 These worked in Stalin's favour and ultimately assisted Stalin in removing Trotsky as the strongest contender in the power struggle
+
+</aside>
+
+## Outspoken, arrogant & unpopular in the Politburo
+
+-   Openly criticised Lenin and the Part's policies (e.g. the NEP)
+    -   Seen as acts of disloyalty to Lenin and to the Party's decisions
+-   Unpopularity was a result of:
+    -   His seeming arrogance
+    -   His power and support in the Red Army
+    -   Belief in 'permanent revolution'
+
+<aside> 💡 Prompted his political opponents to ally together to discredit and remove him.
+
+</aside>
+
+# Ideological divisions within the Party
+
+### Radicals
+
+Wanted to pursue communist ideals closely, e.g. War Communism, collectivisation
+
+### Moderates
+
+Followed Lenin's leadership and ideology closely, e.g. NEP
+
+<aside> 💡 This weakened the Party's unity. More significantly, the divisions gave Stalin the oppurtunity to exploit the situation
+
+</aside>
+
+In this way, Stalin was able to weaken his opponents and ultimately remove them, all of which strengthened his position and facilitated his rise to power.
+
+# Stalin's Strengths and weaknesses
+
+## Capitalised control over Party organisation
+
+-   1922: Lenin made Stalin Secretary-General of the Communist Party
+-   Stalin was in charge of recording & conveying Party policy
+-   As Sec-Gen, his job included recommending appointments, promotions and dismissals
+
+## Skilful politician
+
+1.  Pretended to have been close to Lenin
+
+-   Organised Lenin's funeral
+    -   Develop a cult around Lenin to show his devotion to Lenin
+    -   Ordered Lenin's body to be embalmed and displayed
+    -   Gave the funeral speech
+    -   Stalin as chief mourner
+    -   Trotsky was absent...
+
+By pretending to have been close to Lenin, Stalin was able to conjure up in the minds of the Russian people that he was Lenin's natural successor. This would aid him in his climb to power, for such close association with Lenin potentially helped to create the sense of legitimacy he needed
+
+Exploitation of ideologival divisions/ Single-mindedness
+
+1.  Ally with Zinoviev and Kamenev (troika)
+2.  Remove Trotsky (who led the left Opposition)
+3.  Isolate Zinoviev & Kamenev
+4.  Attack Bukharin & Rykov (who led the Right Opposition)
+5.  Profit
+
+He was clear in his singular aim - to do whatever was necessary to get rid of his rivals. He was wiling to change his views on NEP to achieve his aims, whereas his rivals were not as flexible
+
+Therefore, by exploiting the ideological divisions within the Part, Stalin was able to play his opponents against one another while simultaneously boosting and reinforcing his own politcal position
+
+## Stalin's role as Secretary-General
+
+-   Designate people to other administrative roles in the party
+-   Head of all administrative work in the party
+-   Staffed people in the party
+    -   People owe him their livelihoods
+
+<aside> 💡 Anytime there was an internal voting in the party, they would always vote pro-Stalin
+
+</aside>
+
+# What happened?
+
+## Collectivisation → Industrialisation
+
+80% of Russia's populace were peasants
+
+-   Comply
+    -   Surrendered land and food
+        -   Land was given to the state for industrialisation
+        -   Food was sold **overseas**
+    -   You starve lol
+        -   Cannibalism just cause
+    -   11 million deaths
+-   Don't comply
+    -   Eat what you can, burn what you can't
+        -   Executed
+        -   Sent to purges
+            -   Labelled as Kulaks
+    -   3 - 4 million deaths
+
+## Stalin's purges
+
+1.  Party
+    -   They voted against him
+        -   They saw what he did with Russia during the collectivisation
+        -   Wanted someone else to take the role of Secretary-General
+    -   Voted for Kirov
+        -   Stalin's discipline
+        -   Charming
+2.  Intellectuals
+    -   They too smart
+    -   They see what Stalin do
+    -   Big brain
+3.  Red Army
+    -   Led by Trotsky
+        -   Trotsky bad
+    -   Red army bad
+    -   no can do
+    -   Kill them all

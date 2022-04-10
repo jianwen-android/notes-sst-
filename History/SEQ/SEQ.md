@@ -3,8 +3,7 @@
 %% Begin Waypoint %%
 - **[[SEQ]]**
 	- [[Evaluation]]
-	- **Explanatio**
+	- **[[Explanation]]**
 
-	- [[Explanatio]]
 
 %% End Waypoint %%
