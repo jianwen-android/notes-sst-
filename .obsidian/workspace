@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computing+/Chapter 7.md",
+            "file": "History/Notes/Notes.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing+/Chapter 7.md",
+                "file": "History/Notes/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing+/Chapter 7.md",
+                "file": "History/Notes/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,15 +144,15 @@
   },
   "active": "f5cc7a11b7e1fee8",
   "lastOpenFiles": [
+    "History/Notes/Notes.md",
+    "History/Notes/Hitler/Facism vs Nazism.md",
+    "Social Studies/Social Studies.md",
     "Computing+/Chapter 7.md",
     "Computing+/Chapter 11.md",
     "Social Studies/Key principles.md",
     "Chapter 7 2022-04-10 16.46.56.excalidraw.md",
     "Computing+/Sharing From 2021 Alumni.md",
     "Computing+/Chapter 6.1.md",
-    "Computing+/Computing+.md",
-    "English/English.md",
-    "English/Biases.md",
-    "History/SBQ/SBQ.md"
+    "Computing+/Computing+.md"
   ]
 }

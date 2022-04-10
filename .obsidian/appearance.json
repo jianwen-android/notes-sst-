@@ -3,5 +3,9 @@
   "cssTheme": "",
   "baseFontSize": 17,
   "theme": "obsidian",
-  "baseFontSizeAction": false
+  "baseFontSizeAction": false,
+  "enabledCssSnippets": [
+    "smooth-caret",
+    "checkbox"
+  ]
 }

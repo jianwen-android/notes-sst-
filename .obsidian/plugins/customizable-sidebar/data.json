@@ -1,0 +1,25 @@
+{
+  "sidebarCommands": [
+    {
+      "id": "obsidian-git:commit",
+      "name": "Obsidian Git: Commit all changes",
+      "icon": "feather-git-commit"
+    },
+    {
+      "id": "obsidian-git:push2",
+      "name": "Obsidian Git: Push",
+      "icon": "remix-GitMergeLine"
+    },
+    {
+      "id": "obsidian-git:pull",
+      "name": "Obsidian Git: Pull",
+      "icon": "feather-git-merge"
+    }
+  ],
+  "hiddenCommands": [
+    "Advanced Tables Toolbar",
+    "Open graph view",
+    "Open command palette",
+    "New Excalidraw drawing"
+  ]
+}
