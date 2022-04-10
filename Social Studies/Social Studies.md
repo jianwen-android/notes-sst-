@@ -3,12 +3,7 @@
 - **[[Social Studies]]**
 	- [[Globalisation]]
 	- [[Key principles]]
-	- **SBQ**
-		- [[Assertion]]
-		- [[Comparison]]
-		- [[Reliabilit]]
-		- [[Surprise]]
-		- [[Why]]
-	- **SRQ**
+	- **[[SBQ]]**
+	- **[[SRQ]]**
 
 %% End Waypoint %%

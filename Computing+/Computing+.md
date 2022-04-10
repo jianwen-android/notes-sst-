@@ -2,7 +2,7 @@
 %% Begin Waypoint %%
 - **[[Computing+]]**
 	- [[Chapter 6.1]]
-	- [[Chapter 7]]
+	- **[[Chapter 7]]**
 	- [[Chapter 11]]
 	- **Discovery Week**
 		- [[Reinforcement Learning]]

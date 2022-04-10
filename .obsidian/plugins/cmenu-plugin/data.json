@@ -27,14 +27,14 @@
       "icon": "highlight-glyph"
     },
     {
-      "id": "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed",
-      "name": "Excalidraw: Create a new drawing - IN A NEW PANE - and embed into active document",
-      "icon": "feather-pen-tool"
+      "id": "workspace:toggle-pin",
+      "name": "Toggle pin",
+      "icon": "filled-pin"
     }
   ],
   "appendMethod": "workspace",
   "shouldShowMenuOnSelect": false,
   "cMenuVisibility": true,
-  "cMenuBottomValue": 4.25,
+  "cMenuBottomValue": 3.75,
   "cMenuNumRows": 9
 }
