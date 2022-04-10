@@ -3,11 +3,9 @@
   "recent-files-obsidian",
   "table-editor-obsidian",
   "obsidian-linter",
-  "sliding-panes-obsidian",
-  "obsidian-git",
   "folder-note-plugin",
   "waypoint",
-  "darlal-switcher-plus",
   "cmenu-plugin",
-  "customizable-sidebar"
+  "customizable-sidebar",
+  "darlal-switcher-plus"
 ]

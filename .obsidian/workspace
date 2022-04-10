@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computing+/Chapter 7/真的不知道.md",
+            "file": "conflict-files-obsidian-git.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing+/Chapter 7/真的不知道.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing+/Chapter 7/真的不知道.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,15 +145,15 @@
   },
   "active": "27609bf6abe4454d",
   "lastOpenFiles": [
-    "Computing+/Chapter 7/真的不知道.md",
-    "Computing+/Chapter 7/Chapter 7.md",
-    "Computing+/Chapter 7/A. Ethical and Social Issues of Computing.md",
+    "conflict-files-obsidian-git.md",
     "Computing+/Chapter 6.1.md",
+    "Computing+/Chapter 11.md",
+    "Computing+/Chapter 7/真的不知道.md",
+    "Computing+/Chapter 7/A. Ethical and Social Issues of Computing.md",
+    "Excalidraw/Drawing 2022-04-10 21.02.18.excalidraw.md",
+    "Computing+/Chapter 7/Chapter 7.md",
     "Computing+/Chapter 7/Untitled 1.md",
     "Excalidraw/Drawing 2022-04-10 20.56.20.excalidraw.md",
-    "Excalidraw/Drawing 2022-04-10 20.55.16.excalidraw.md",
-    "Computing+/Computing+.md",
-    "Computing+/Chapter 11.md",
-    "History/History.md"
+    "Excalidraw/Drawing 2022-04-10 20.55.16.excalidraw.md"
   ]
 }
