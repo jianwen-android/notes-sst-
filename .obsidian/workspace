@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "3e5deb27345863a1",
+        "id": "1197c23a12cdc561",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -105,28 +105,30 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computing+/Chapter 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 394.0000915527344
   },
-  "active": "3e5deb27345863a1",
+  "active": "1197c23a12cdc561",
   "lastOpenFiles": [
     "Computing+/Chapter 7.md",
     "Computing+/Chapter 11.md",
-    "Computing+/Sharing From 2021 Alumni.md",
-    "Chapter.md",
     "Computing+/Chapter 6.1.md",
-    "History/Notes/Hitler/Nazi party.md",
-    "Excalidraw/Drawing 2022-04-08 15.26.07.excalidraw.md",
-    "English/Biases.md",
-    "Excalidraw/Drawing 2022-04-08 15.22.47.excalidraw.md",
-    "History/Notes/Hitler/Chancellor to Dictator.md"
+    "Computing+/Sharing From 2021 Alumni.md",
+    "History/Notes.md",
+    "export/Student.md",
+    "export/Shopping c.md",
+    "export/Electronic.md",
+    "export/ECG.md",
+    "export/Student/Archive/华文/Status Das/Inbox.md"
   ]
 }

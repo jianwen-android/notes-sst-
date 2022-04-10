@@ -1,9 +1,0 @@
-﻿Name,Symbol,Size in bytes
-kilobyte,KB,1000
-kibibyte,KiB,1024
-megabyte,MB,1000 **2
-mebibyte,MiB,1024 **2
-gigabyte,GB,1000 **3
-gibibyte,GiB,1024 **3
-terabyte,TB,1000 **4
-tebibyte,TiB,1024 **4

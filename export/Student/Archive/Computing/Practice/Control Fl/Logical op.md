@@ -1,4 +1,0 @@
-|Keyword|Logical operation|
-|---|---|
-|and|The expression is true if and only if both conditions are true.|
-|or|The expression is true as long as one of the conditions is true.|

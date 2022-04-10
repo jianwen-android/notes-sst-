@@ -1,4 +1,0 @@
-|Name|Outemu?|Link|Price|
-|---|---|---|---|
-|Durock T1 tactile|no|,|
-|Gazzew Boba U4T|no|,|

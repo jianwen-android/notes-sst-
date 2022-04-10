@@ -1,5 +1,0 @@
-|Name|LInk|Completed|Topic|Time created|
-|---|---|---|---|---|
-|Exercises 4.6 & 4.7|https://docs.google.com/presentation/d/1Rdf3B6LuLiIWYvfYWi_JkFmcH1EUqDoGMGcd2y0_Mro/edit#slide=id.gbdb9c8091e_0_120|Yes|Algorithms|"February 22, 2021 10:51 AM"|
-|Create your own algorithm questions|https://docs.google.com/document/d/1vQSjwO7zMyW0WnEzEtiw1QKjFiZXgAs10KlZIK2AKpU/edit|Yes|Algorithms|"February 22, 2021 10:51 AM"|
-|,|No|,"February 22, 2021 10:51 AM"|

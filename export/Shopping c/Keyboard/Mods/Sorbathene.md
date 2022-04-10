@@ -1,3 +1,0 @@
-# Sorbathene feet
-
-Type: keyboard
