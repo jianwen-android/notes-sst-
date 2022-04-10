@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f5cc7a11b7e1fee8",
+        "id": "b579c36e5db06183",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "A. Ethical and Social Issues of Computing 2022-04-10 21.16.27.excalidraw.md"
+            "file": "Computing+/Chapter 7/A. Ethical and Social Issues of Computing.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
           }
         }
       }
@@ -17,101 +20,140 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9364c07a49281de4",
-    "type": "mobile-drawer",
+    "id": "6e3c4ce06d3b70ce",
+    "type": "split",
     "children": [
       {
-        "id": "5b6139ceeb906d92",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "2ee50b3bf472450a",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "3372ac3f08e52114",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cef37112d307c9ef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5089b0fdc5f2ebee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "weaknesses of the league",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cbf447a3a94aaa52",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "b94c5fda612a239d",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "d19cd4a10a39e666",
-        "type": "leaf",
-        "state": {
-          "type": "recent-files",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 313
   },
   "right": {
-    "id": "8f2c332732289a63",
-    "type": "mobile-drawer",
+    "id": "af641243059a20af",
+    "type": "split",
     "children": [
       {
-        "id": "ccb0733ea7588549",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "A. Ethical and Social Issues of Computing 2022-04-10 21.16.27.excalidraw.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "252ff0017e2811c0",
+        "type": "tabs",
+        "dimension": 37.06896551724138,
+        "children": [
+          {
+            "id": "59ccb003b77b8e2c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Computing+/Chapter 7/A. Ethical and Social Issues of Computing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d2ad76659b5d68a5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "861b54f5bbd63d1f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Computing+/Chapter 7/A. Ethical and Social Issues of Computing.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "049130f70b6905a4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        }
+        ],
+        "currentTab": 3
       },
       {
-        "id": "71d2101d311829af",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "A. Ethical and Social Issues of Computing 2022-04-10 21.16.27.excalidraw.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "147accc1498b9f0d",
+        "type": "tabs",
+        "dimension": 62.931034482758626,
+        "children": [
+          {
+            "id": "c6a937ac2e5c9a94",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 266
   },
-  "active": "f5cc7a11b7e1fee8",
+  "active": "b579c36e5db06183",
   "lastOpenFiles": [
-    "A. Ethical and Social Issues of Computing 2022-04-10 21.16.27.excalidraw.md",
-    "A. Ethical and Social Issues of Computing 2022-04-10 21.15.33.excalidraw.md",
     "Computing+/Chapter 7/A. Ethical and Social Issues of Computing.md",
-    "Computing+/Computing+.md",
-    "Computing+/Chapter 7/Chapter 7.md",
-    "Computing+/Sharing From 2021 Alumni.md",
-    "Computing+/Chapter 7.md",
+    "Computing+/Chapter 7/A. Ethical and Social Issues of Computing 2022-04-10 21.16.27.excalidraw.md",
+    "Social Studies/Social Studies.md",
+    "Computing+/Chapter 7/真的不知道.md",
+    "conflict-files-obsidian-git.md",
+    "Computing+/Chapter 6.1.md",
+    "Computing+/Chapter 11.md",
     "Excalidraw/Drawing 2022-04-10 21.02.18.excalidraw.md",
-    "Chinese/Chinese.md",
-    "History/Essay Thinking Pages/Essay Thinking Pages.md"
+    "Computing+/Chapter 7/Chapter 7.md",
+    "Computing+/Chapter 7/Untitled 1.md"
   ]
 }
