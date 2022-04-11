@@ -1,12 +1,11 @@
 # Data
-
-Data corruption[^corruption] occurs when computer data is made unusable by errors or alterations. This kind of damage can happen during the reading, writing or transmission of data. If the corrupted data cannot be recovered or replaced, this also results in data loss[^loss].
-
-The effects of data corruption can vary depending on the amount of corrupted data and the type of data that is represented.
-
-If the corrupted data is not needed to read other data, then only the corrupted data itself is lost. This situation is more likely if the amount of corrupted data is small. This is similar to having smudged cells in a printed table of data – only the smudged data is lost.
-
-On the other hand, if the corrupted data is related to other data in the computer, then both the corrupted data and its related data may be lost. This is because the corrupted data may contain information that is required to read or interpret the related data. This situation is more likely if the amount of corrupted data is large. This is similar to having smudged headers in a printed table of data. While the cells of the table are still readable, it is not possible to interpret what the contents mean, so the data stored in the table is meaningless and effectively lost.
+## Effects
+- Data corruption[^corruption] occurs when computer data is made unusable by errors or alterations. 
+- Happens when reading, writing or transmission of data. 
+	- If corrupted data is not needed to read other data, then only the corrupted data is lost
+	- However if corrupted data is related to other data in the computer, then both the corrupted data and its related data may be lost.
+	- Cell data vs Header data in a table
+- If the corrupted data cannot be recovered or replaced, this also results in data loss[^loss].
 
 ## Causes
 
@@ -68,6 +67,8 @@ Unauthorised access can occur due to one or more of the following reasons:
 2.  Poor access control or authorisation
 3.  Poor understanding of privacy policies
 
+## Authentication
+
 Authentication[^auth] is the process of verifying the identity of a user. Authentication usually requires the user to prove his or her identity by providing evidence from one or more of the following categories:
 
 1.  Something the user knows, such as a password
@@ -76,6 +77,33 @@ Authentication[^auth] is the process of verifying the identity of a user. Authen
 
 Each category of evidence that is used for authentication is called an authentication factor[^authfactor].
 
+Prevents identity theft[^idtheft]
+
+### Passwords
+- Only known to the user
+- Usually entered with a user name that identifies who the user is claiming to be
+- Can be a poor form of authentication
+	- Avoid birthdates
+	- Avoid surnames
+	- Avoid easily guessable passwords
+	- Use a mixture of lower-case letters, upper-case letters, numbers and symbols
+	- Use mixture of lower-case letters, upper-case letters, nunbers and symbols
+	- Avoid re-using passwords
+	- Avoid leaving them unchanged
+	- Use unique passwords for each computer or online account
+	- Update at least once every 90 days
+
+### Biometrics
+- Measurement of human characteristics
+	- Fingerprint
+	- DNA
+	- Face
+	- Iris
+	- Retina
+- More secure as physical characteristics measured are typically unique to each user and cannot be easily replicated
+### Security tokens
+
+[^idtheft]: Impersonation of another person to steal personal details such as name and identity number for fraudulent purposes
 [^auth]: Process of verifying the identity of a user
 [^authfactor]: Category of evidence that is used for authentication: something the user knows or owns, or something that is measured from a physical part of the user
 [^unauthorised]: Situation where data owned by someone is used by someone else without permission

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b579c36e5db06183",
+        "id": "8e7ce6d2084f58df",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computing+/Chapter 7/A. Ethical and Social Issues of Computing.md",
+            "file": "History/Notes/WWII (Part 2)/Germany & Japan's defeat in WWII.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing+/Chapter 7/A. Ethical and Social Issues of Computing.md",
+                "file": "History/Notes/WWII (Part 2)/Germany & Japan's defeat in WWII.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing+/Chapter 7/A. Ethical and Social Issues of Computing.md",
+                "file": "History/Notes/WWII (Part 2)/Germany & Japan's defeat in WWII.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,19 +141,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266
+    "width": 264.4532165527344
   },
-  "active": "b579c36e5db06183",
+  "active": "8e7ce6d2084f58df",
   "lastOpenFiles": [
-    "Computing+/Chapter 7/A. Ethical and Social Issues of Computing.md",
-    "Computing+/Chapter 7/A. Ethical and Social Issues of Computing 2022-04-10 21.16.27.excalidraw.md",
-    "Social Studies/Social Studies.md",
-    "Computing+/Chapter 7/真的不知道.md",
-    "conflict-files-obsidian-git.md",
-    "Computing+/Chapter 6.1.md",
-    "Computing+/Chapter 11.md",
-    "Excalidraw/Drawing 2022-04-10 21.02.18.excalidraw.md",
-    "Computing+/Chapter 7/Chapter 7.md",
-    "Computing+/Chapter 7/Untitled 1.md"
+    "History/Notes/WWII (Part 2)/Germany & Japan's defeat in WWII.md",
+    "History/Notes/WWII (Part 2)/Early Axis successes.md",
+    "History/Notes/WWII (Part 2)/WWII (Part 2).md",
+    "History/Notes/Hitler/Hitler.md",
+    "History/Notes/Notes.md",
+    "History/Essay Thinking Pages/Essay Thinking Pages.md",
+    "History/History.md",
+    "Social Studies/SRQ/SRQ.md",
+    "English/Biases.md",
+    "English/Untitled.md"
   ]
 }

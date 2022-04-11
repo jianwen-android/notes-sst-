@@ -24,5 +24,6 @@
   "livePreview": true,
   "readableLineLength": false,
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true
 }

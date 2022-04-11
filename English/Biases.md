@@ -8,7 +8,7 @@
 	- Representation
 - Stigma
 
-# Ses bias
+# SES bias
 
 - Social status
 - Affluent
