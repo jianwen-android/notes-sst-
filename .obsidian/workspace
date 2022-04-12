@@ -7,9 +7,22 @@
         "id": "3505ac9f9f3f137a",
         "type": "leaf",
         "state": {
+          "type": "markdown",
+          "state": {
+            "file": "History/Notes/WWII (Part 2)/Working document.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "577919401abbab1e",
+        "type": "leaf",
+        "state": {
           "type": "image",
           "state": {
-            "file": "20220407_105839.jpg"
+            "file": "20220407_111711.jpg"
           }
         }
       }
@@ -76,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20220407_105839.jpg",
+                "file": "History/Notes/WWII (Part 2)/Working document.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20220407_105839.jpg",
+                "file": "History/Notes/WWII (Part 2)/Working document.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,15 +155,15 @@
   },
   "active": "3505ac9f9f3f137a",
   "lastOpenFiles": [
+    "History/Notes/WWII (Part 2)/Working document.md",
+    "History/Notes/WWII (Part 2)/Early Axis successes.md",
+    "History/Notes/WWII (Part 2)/Germany & Japan's defeat in WWII.md",
+    "20220407_111711.jpg",
+    "History/Notes/WWII (Part 2)/WWII (Part 2).md",
+    "History/Notes/Military Japan/Military Japan.md",
+    "History/History.md",
     "20220407_105839.jpg",
     "20220407_110547.jpg",
-    "Computing+/Chapter 7/Chapter 7.md",
-    "English/English.md",
-    "Computing+/Computing+.md",
-    "20220407_110307.jpg",
-    "conflict-files-obsidian-git.md",
-    "20220407_111711.jpg",
-    "Social Studies/Globalisation/hybridisation.png",
-    "IMG-20220407-WA0002.jpg"
+    "Computing+/Chapter 7/Chapter 7.md"
   ]
 }

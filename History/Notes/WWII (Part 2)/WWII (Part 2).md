@@ -6,5 +6,6 @@
 	- [[Germany & Japan's defeat in WWII]]
 	- **[[Germany’s Defeat]]**
 
+	- [[Working document]]
 
 %% End Waypoint %%
