@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8e7ce6d2084f58df",
+        "id": "3505ac9f9f3f137a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Computing+/Chapter 7/A. Ethical and Social Issues of Computing.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
+            "file": "20220407_105839.jpg"
           }
         }
       }
@@ -79,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing+/Chapter 7/A. Ethical and Social Issues of Computing.md",
+                "file": "20220407_105839.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing+/Chapter 7/A. Ethical and Social Issues of Computing.md",
+                "file": "20220407_105839.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,17 +140,17 @@
     "direction": "horizontal",
     "width": 264.4532165527344
   },
-  "active": "8e7ce6d2084f58df",
+  "active": "3505ac9f9f3f137a",
   "lastOpenFiles": [
-    "Computing+/Chapter 7/A. Ethical and Social Issues of Computing.md",
-    "History/Notes/WWII (Part 2)/Germany & Japan's defeat in WWII.md",
-    "History/Notes/WWII (Part 2)/Early Axis successes.md",
-    "History/Notes/WWII (Part 2)/WWII (Part 2).md",
-    "History/Notes/Hitler/Hitler.md",
-    "History/Notes/Notes.md",
-    "History/Essay Thinking Pages/Essay Thinking Pages.md",
-    "History/History.md",
-    "Social Studies/SRQ/SRQ.md",
-    "English/Biases.md"
+    "20220407_105839.jpg",
+    "20220407_110307.jpg",
+    "20220407_110547.jpg",
+    "conflict-files-obsidian-git.md",
+    "20220407_111711.jpg",
+    "Social Studies/Globalisation/hybridisation.png",
+    "IMG-20220407-WA0002.jpg",
+    "Social Studies/Social Studies.md",
+    "Social Studies/Practice papers/2018 O Level/SBQ.md",
+    "Social Studies/Key principles.md"
   ]
 }

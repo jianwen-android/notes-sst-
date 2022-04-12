@@ -25,7 +25,7 @@
 
 - Breakdown of cultural barriers
 
-![[Screenshot 2022-04-07 at 1.14.27 PM.png]]
+![[homogenisation.png]]
 
 ## Hybridisation
 
@@ -49,5 +49,4 @@
 
 - New innovation
 - New creation
-
-![[Screenshot 2022-04-07 at 1.16.05 PM 1.png]]
+[[]]

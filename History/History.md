@@ -4,7 +4,7 @@
 - **[[History]]**
 	- **[[Essay Thinking Pages]]**
 	- **[[Notes]]**
-	- **[[SBQ]]**
+	- **[[History/SBQ/SBQ]]**
 	- **[[SEQ]]**
 
 %% End Waypoint %%

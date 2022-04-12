@@ -1,7 +1,7 @@
 # SBQ Overview
 
 %% Begin Waypoint %%
-- **[[SBQ]]**
+- **[[Social Studies/SBQ/SBQ]]**
 	- [[Assertion]]
 	- [[Comparison]]
 	- [[Reliabilit]]

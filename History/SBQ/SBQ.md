@@ -1,7 +1,7 @@
 # SBQ Overview
 
 %% Begin Waypoint %%
-- **[[SBQ]]**
+- **[[History/SBQ/SBQ]]**
 	- [[Comparison]]
 	- [[Evaluation]]
 	- [[Purpose]]

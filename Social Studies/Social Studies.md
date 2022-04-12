@@ -1,8 +1,12 @@
 # Social Studies Overview
 %% Begin Waypoint %%
 - **[[Social Studies]]**
-	- [[Globalisation]]
+	- **Globalisation**
+		- [[Stuff]]
 	- [[Key principles]]
+	- **Practice papers**
+		- **2018 O Level**
+			- [[SBQ]]
 	- **[[SBQ]]**
 	- **[[SRQ]]**
 
