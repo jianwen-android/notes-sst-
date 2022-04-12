@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "History/Notes/WWII (Part 2)/Germany & Japan's defeat in WWII.md",
+            "file": "Computing+/Chapter 7/A. Ethical and Social Issues of Computing.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Notes/WWII (Part 2)/Germany & Japan's defeat in WWII.md",
+                "file": "Computing+/Chapter 7/A. Ethical and Social Issues of Computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Notes/WWII (Part 2)/Germany & Japan's defeat in WWII.md",
+                "file": "Computing+/Chapter 7/A. Ethical and Social Issues of Computing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,6 +145,7 @@
   },
   "active": "8e7ce6d2084f58df",
   "lastOpenFiles": [
+    "Computing+/Chapter 7/A. Ethical and Social Issues of Computing.md",
     "History/Notes/WWII (Part 2)/Germany & Japan's defeat in WWII.md",
     "History/Notes/WWII (Part 2)/Early Axis successes.md",
     "History/Notes/WWII (Part 2)/WWII (Part 2).md",
@@ -153,7 +154,6 @@
     "History/Essay Thinking Pages/Essay Thinking Pages.md",
     "History/History.md",
     "Social Studies/SRQ/SRQ.md",
-    "English/Biases.md",
-    "English/Untitled.md"
+    "English/Biases.md"
   ]
 }
