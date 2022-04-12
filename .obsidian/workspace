@@ -20,128 +20,89 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6e3c4ce06d3b70ce",
-    "type": "split",
+    "id": "10c205a1273dcc47",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "3372ac3f08e52114",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cef37112d307c9ef",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "5089b0fdc5f2ebee",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "weaknesses of the league",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "cbf447a3a94aaa52",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 313
-  },
-  "right": {
-    "id": "af641243059a20af",
-    "type": "split",
-    "children": [
-      {
-        "id": "252ff0017e2811c0",
-        "type": "tabs",
-        "dimension": 37.06896551724138,
-        "children": [
-          {
-            "id": "59ccb003b77b8e2c",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "History/Notes/WWII (Part 2)/Germany & Japan's defeat in WWII.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "d2ad76659b5d68a5",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "861b54f5bbd63d1f",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "History/Notes/WWII (Part 2)/Germany & Japan's defeat in WWII.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "049130f70b6905a4",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 3
+        "id": "e42febbaed655cc2",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
       },
       {
-        "id": "147accc1498b9f0d",
-        "type": "tabs",
-        "dimension": 62.931034482758626,
-        "children": [
-          {
-            "id": "c6a937ac2e5c9a94",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
+        "id": "ac39b17ce05824da",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "37f0cbce535b9b2b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "5d7b8aa0e23ae852",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 264.4532165527344
+    "currentTab": 1
+  },
+  "right": {
+    "id": "8b60c29ef8297fea",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "00c8b4236908555a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "History/Notes/WWII (Part 2)/Germany & Japan's defeat in WWII.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "73069e00c80cb7ed",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "History/Notes/WWII (Part 2)/Germany & Japan's defeat in WWII.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
   },
   "active": "8e7ce6d2084f58df",
   "lastOpenFiles": [
