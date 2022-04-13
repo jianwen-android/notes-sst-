@@ -10,9 +10,7 @@
 -   RAF pilots who bailed out over Britain could return to duty
 
 
--   LuftWaffe Weaknesses
-
-
+### LuftWaffe Weaknesses
 -   Hermann Goering was not good at tactics - shifted focus of attacks, causing confusion; Did not implement radars
 
 -   Wrong type of aircraft- Stuka dive bomber were geared towards supporting army by bombing, not dog fights
