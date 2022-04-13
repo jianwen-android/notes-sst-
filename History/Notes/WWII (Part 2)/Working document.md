@@ -1,13 +1,6 @@
 # 02 germany’s defeat
-
--   WHERE TO PUT
-
--   Battle of Britain, 1940
-
-
+## Battle of Britain, 1940
 -   RAF Strengths
-
-
 -   RAF led by Sir Hugh Dowding - planned British air defence since 1947. Brought in technical developments, eg. bullet proof windscreens for fighter planes; command & communiation systems
 
 -   Invested in radars, able to detect enemy planes before they arrived
