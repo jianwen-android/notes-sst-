@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "History/Notes/WWII (Part 2)/Working document.md",
+            "file": "History/Notes/WWII (Part 2)/Operation Barbarossa.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Notes/WWII (Part 2)/Working document.md",
+                "file": "History/Notes/WWII (Part 2)/Operation Barbarossa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Notes/WWII (Part 2)/Working document.md",
+                "file": "History/Notes/WWII (Part 2)/Operation Barbarossa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,6 +155,7 @@
   },
   "active": "3505ac9f9f3f137a",
   "lastOpenFiles": [
+    "History/Notes/WWII (Part 2)/Operation Barbarossa.md",
     "History/Notes/WWII (Part 2)/Working document.md",
     "History/Notes/WWII (Part 2)/Early Axis successes.md",
     "History/Notes/WWII (Part 2)/Germany & Japan's defeat in WWII.md",
@@ -163,7 +164,6 @@
     "History/Notes/Military Japan/Military Japan.md",
     "History/History.md",
     "20220407_105839.jpg",
-    "20220407_110547.jpg",
-    "Computing+/Chapter 7/Chapter 7.md"
+    "20220407_110547.jpg"
   ]
 }

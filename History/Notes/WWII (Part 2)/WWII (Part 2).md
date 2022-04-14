@@ -6,6 +6,7 @@
 	- [[Germany & Japan's defeat in WWII]]
 	- **[[Germany’s Defeat]]**
 
+	- [[Operation Barbarossa]]
 	- [[Working document]]
 
 %% End Waypoint %%
