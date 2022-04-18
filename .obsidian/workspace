@@ -9,20 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "History/Notes/WWII (Part 2)/Operation Barbarossa.md",
+            "file": "History/Notes/Oi.md",
             "mode": "source",
             "backlinks": false,
             "source": false
-          }
-        }
-      },
-      {
-        "id": "577919401abbab1e",
-        "type": "leaf",
-        "state": {
-          "type": "image",
-          "state": {
-            "file": "20220407_111711.jpg"
           }
         }
       }
@@ -81,7 +71,6 @@
       {
         "id": "252ff0017e2811c0",
         "type": "tabs",
-        "dimension": 37.06896551724138,
         "children": [
           {
             "id": "59ccb003b77b8e2c",
@@ -89,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Notes/WWII (Part 2)/Operation Barbarossa.md",
+                "file": "History/Notes/Oi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Notes/WWII (Part 2)/Operation Barbarossa.md",
+                "file": "History/Notes/Oi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,21 +122,6 @@
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "147accc1498b9f0d",
-        "type": "tabs",
-        "dimension": 62.931034482758626,
-        "children": [
-          {
-            "id": "c6a937ac2e5c9a94",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -155,15 +129,15 @@
   },
   "active": "3505ac9f9f3f137a",
   "lastOpenFiles": [
+    "History/Notes/Oi.md",
+    "20220407_111711.jpg",
     "History/Notes/WWII (Part 2)/Operation Barbarossa.md",
     "History/Notes/WWII (Part 2)/Working document.md",
     "History/Notes/WWII (Part 2)/Early Axis successes.md",
     "History/Notes/WWII (Part 2)/Germany & Japan's defeat in WWII.md",
-    "20220407_111711.jpg",
     "History/Notes/WWII (Part 2)/WWII (Part 2).md",
     "History/Notes/Military Japan/Military Japan.md",
     "History/History.md",
-    "20220407_105839.jpg",
-    "20220407_110547.jpg"
+    "20220407_105839.jpg"
   ]
 }

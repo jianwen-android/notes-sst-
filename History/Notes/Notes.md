@@ -4,6 +4,7 @@
 - **[[Notes]]**
 	- **[[Hitler]]**
 	- **[[Military Japan]]**
+	- [[Oi]]
 	- **[[Stalin]]**
 	- **[[WWI]]**
 	- **[[WWII]]**
