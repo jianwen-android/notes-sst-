@@ -35,10 +35,11 @@ From 1939-1945
 - Luftwaffe was best of its kind in 1939
 - Blitzkreig (lightning war) used to devastating effect
 
-## Br. france & allies
+## Britain, france & allies
 
 - Due to the Great Depression, did not start rearming till late 1930s
-- Obsolete WWI equipment, e.g. Fra 131/634 planes & nearly all 400+ bombers were obsolete
+- Obsolete WWI equipment
+	- e.g. France 131/634 planes & nearly all 400+ bombers were obsolete
 
 ## Blitzkreig
 
@@ -66,7 +67,7 @@ From 1939-1945
 - Japanese troops were battle-hardened (fighting since 1937 Sino-Japanese War) vs Inexperienced Allied troops (British soldiers had never fought in jungles)
 - Both Britain & France underestimated the Japanese military’s capabilities & use of blitzkreig
 
- Brutality during WWII
+ (Faced) Brutality during WWII
 
 # Germans
 

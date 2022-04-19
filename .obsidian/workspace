@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "36713718d3189f84",
+        "id": "062ef19d722c3265",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "History/Notes/WWII (Part 2)/Early Axis successes.md",
-            "mode": "preview",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -78,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Notes/WWII (Part 2)/Early Axis successes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Notes/WWII (Part 2)/Early Axis successes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,8 +120,9 @@
     "direction": "horizontal",
     "width": 264.4532165527344
   },
-  "active": "36713718d3189f84",
+  "active": "062ef19d722c3265",
   "lastOpenFiles": [
+    "Untitled.md",
     "History/Notes/WWII (Part 2)/Early Axis successes.md",
     "History/Notes/WWII (Part 2)/WWII (Part 2).md",
     "History/Notes/Notes.md",
@@ -137,7 +131,6 @@
     "Progress.md",
     "History/Notes/WWII (Part 2)/Germany's Defeat.md",
     "History/Notes/WWII (Part 2)/Operation Barbarossa.md",
-    "Computing+/Computing+.md",
-    "History/SBQ/SBQ.md"
+    "Computing+/Computing+.md"
   ]
 }
