@@ -4,8 +4,8 @@
 - **[[Notes]]**
 	- **[[Hitler]]**
 	- **[[Military Japan]]**
-	- [[Oi]]
 	- **[[Stalin]]**
+	- [[Working document]]
 	- **[[WWI]]**
 	- **[[WWII]]**
 	- **[[WWII (Part 2)]]**

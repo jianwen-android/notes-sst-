@@ -7,6 +7,6 @@
 	- **[[Germany’s Defeat]]**
 
 	- [[Operation Barbarossa]]
-	- [[Working document]]
+	- [[History/Notes/WWII (Part 2)/Working document]]
 
 %% End Waypoint %%
