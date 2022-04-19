@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "History/Notes/WWII (Part 2)/Germany's Defeat.md",
-            "mode": "source",
+            "file": "History/Notes/WWII (Part 2)/Early Axis successes.md",
+            "mode": "preview",
             "backlinks": false,
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Notes/WWII (Part 2)/Germany's Defeat.md",
+                "file": "History/Notes/WWII (Part 2)/Early Axis successes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Notes/WWII (Part 2)/Germany's Defeat.md",
+                "file": "History/Notes/WWII (Part 2)/Early Axis successes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,15 +129,15 @@
   },
   "active": "36713718d3189f84",
   "lastOpenFiles": [
-    "History/Notes/WWII (Part 2)/Germany's Defeat.md",
-    "History/Notes/WWII (Part 2)/Operation Barbarossa.md",
+    "History/Notes/WWII (Part 2)/Early Axis successes.md",
+    "History/Notes/WWII (Part 2)/WWII (Part 2).md",
     "History/Notes/Notes.md",
     "History/History.md",
-    "Computing+/Computing+.md",
+    "Social Studies/Social Studies.md",
     "Progress.md",
-    "History/SBQ/SBQ.md",
-    "English/English.md",
-    "History/20220407_105839.jpg",
-    "History/20220407_110307.jpg"
+    "History/Notes/WWII (Part 2)/Germany's Defeat.md",
+    "History/Notes/WWII (Part 2)/Operation Barbarossa.md",
+    "Computing+/Computing+.md",
+    "History/SBQ/SBQ.md"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "translucency": true,
+  "translucency": false,
   "cssTheme": "",
   "baseFontSize": 17,
   "theme": "obsidian",
