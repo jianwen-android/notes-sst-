@@ -1,8 +1,11 @@
-# Japan’s Expansionist Foreign Policy
+# Japan’s expansionist foreign policy
 
 Created: March 23, 2022 12:56 PM
+
 Status: Open
+
 Topic: Military Japan
+
 Updated: March 23, 2022 1:09 PM
 
 # Main objectives:
@@ -11,12 +14,13 @@ Updated: March 23, 2022 1:09 PM
     1. Japan had limited resources & depended on trade with others fro essentials such as oil, steel
     2. Protectionism adopted during the Great Depression made it harder to obtain raw materials from markets it did not control
     3. Aggressive takeovers yielded benefits:
-    
-    | Taiwan | Sugar |
-    | --- | --- |
-    | Korea | Strategic location to defend Japanese idles & provide cotton, wool |
-    | Manchuria | defend Korea, provide minerals and wheat, land for growing Japanese population |
+
+| Taiwan    | Sugar                                                                          |
+| --------- | ------------------------------------------------------------------------------ |
+| Korea     | Strategic location to defend Japanese idles & provide cotton, wool             |
+| Manchuria | defend Korea, provide minerals and wheat, land for growing Japanese population |
 2. Achieve equality and recognition amongst world powers
+
     1. Early successes in conflicts against other world powers brought confidence in military
     2. The benefits of having its own empire similar to the Europeans encouraged further conquests
     3. Creation of a Greater East Asia Co-Prosperity Sphere

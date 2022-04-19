@@ -63,3 +63,6 @@ Updated: March 23, 2022 1:04 PM
     - New cabinet had 10 military members & 5 political party members
     - Admiral Makoto Saito appointed Prime Minister
     - Politicians & emperor granted concessions to the military to prevent further violence
+
+More notes on the same thing?
+![[Rise of Military Japan]]

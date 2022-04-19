@@ -5,6 +5,7 @@
   "theme": "obsidian",
   "baseFontSizeAction": false,
   "enabledCssSnippets": [
-    "checkbox"
+    "checkbox",
+    "clutter-free-headings"
   ]
 }

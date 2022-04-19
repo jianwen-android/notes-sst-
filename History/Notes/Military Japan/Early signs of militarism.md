@@ -1,11 +1,12 @@
-# Early
+# Early signs of militarism
 
 Created: March 7, 2022 12:54 PM
-Status: Open
-Topic: Military Japan
-Updated: March 23, 2022 12:03 PM
 
-# Early signs of Militarism
+Status: Open
+
+Topic: Military Japan
+
+Updated: March 23, 2022 12:03 PM
 
 - By 1900s, Japan was ready to challenge the foreign powers
 - Nationalistic leaders called for war against Western imperialists & sent secret agents into Machuria, Mongolia & Siberia

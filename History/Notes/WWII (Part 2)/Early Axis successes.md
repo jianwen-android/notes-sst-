@@ -1,8 +1,11 @@
-# Early Axis successes
+# Early axis successes
 
 Created: March 30, 2022 12:48 PM
+
 Status: Open
+
 Topic: WWII (Part 2)
+
 Updated: March 30, 2022 1:34 PM
 
 *poggers*
@@ -23,21 +26,21 @@ From 1939-1945
 - Est 40-50 million deaths
 - Largest war in history to date
 
-# Europe: Reasons for German success
+# Europe: reasons for german success
 
-### Germany
+## Germany
 
 - Started prepatations for war when Hitler came to power
 - Wehrmacht was much more equipped with superior firepower
 - Luftwaffe was best of its kind in 1939
 - Blitzkreig (lightning war) used to devastating effect
 
-### Br. France & Allies
+## Br. france & allies
 
 - Due to the Great Depression, did not start rearming till late 1930s
 - Obsolete WWI equipment, e.g. Fra 131/634 planes & nearly all 400+ bombers were obsolete
 
-### Blitzkreig
+## Blitzkreig
 
 1. Dive bombers attack key targets, e.g. roads, railway stations, airfields to destroy enemy communications
 2. Tanks & motorized artillery punch holes in enemy line; isolate segments of enemy; surrounded & captured by infantry divisions
@@ -56,22 +59,22 @@ From 1939-1945
 | 22 Jun 1941 | Germany invades USSR (Operation Barbarossa) |
 | 7 Dec 1941 | Japan bombs Pearl Harbour |
 
-## Asia-Pacific (AP): Reasons for Japanese success
+# Asia-pacific (ap): reasons for japanese success
 
 - WWII in Europe - Britain & France were too busy fighting Germany to defend their colonies in Asia
 - All available resources were redeployed
 - Japanese troops were battle-hardened (fighting since 1937 Sino-Japanese War) vs Inexperienced Allied troops (British soldiers had never fought in jungles)
 - Both Britain & France underestimated the Japanese military’s capabilities & use of blitzkreig
 
-# Brutality during WWII
+ Brutality during WWII
 
-### Germans
+# Germans
 
 - Attempted racial annihilation of Jews, Russians
 - Other victims often included gypsies, patients with disabilities
 - Extreme cruelty to Soviet POW
 
-### Japanese
+# Japanese
 
 - Kempeitai - use of torture, mass executions to instill fear amongst locals
 - Notable crimes included:
@@ -84,4 +87,3 @@ From 1939-1945
 - However, the tide turned by late 1942 as both Germany and Japan started experiencing setbacks
 - By April 1945 Hitler committed suicide; Germany surrendered in May
 - Japan announced its surrender in August & officially did so in September 1945
-- Why were Germany & Japan defeated

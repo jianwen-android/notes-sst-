@@ -3,13 +3,13 @@
 %% Begin Waypoint %%
 - **[[Military Japan]]**
 	- [[Attack on Pearl Harbour]]
-	- [[Early]]
+	- [[Early signs of militarism]]
 	- [[Failure of Democracy]]
 	- [[Japan’s Expansionist Foreign Policy]]
 	- [[Militarism]]
-	- **Rise of Mi**
+	- **Rise of Military Japan**
 
-	- [[Rise of Mi]]
+	- [[Rise of Military Japan]]
 	- [[Worsening Relations with the USA]]
 
 %% End Waypoint %%

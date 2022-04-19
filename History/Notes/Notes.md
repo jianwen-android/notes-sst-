@@ -5,7 +5,6 @@
 	- **[[Hitler]]**
 	- **[[Military Japan]]**
 	- **[[Stalin]]**
-	- [[Working document]]
 	- **[[WWI]]**
 	- **[[WWII]]**
 	- **[[WWII (Part 2)]]**

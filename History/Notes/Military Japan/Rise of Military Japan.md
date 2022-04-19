@@ -42,6 +42,5 @@ By 1900, Japan was 1st industrialised country in Asia
 </aside>
 
 > The sun never sets on the British empire
-> 
 
-![[nse-8236990601320429937-49956.jpg]]
+![[nse-8236990601320429937-49956.jpg.jpg]]
