@@ -1,28 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Early Axis successes",
-      "path": "History/Notes/WWII (Part 2)/Early Axis successes.md"
+      "basename": "Integration",
+      "path": "Math/A Math/Integration.md"
     },
     {
-      "basename": "WWII (Part 2)",
-      "path": "History/Notes/WWII (Part 2)/WWII (Part 2).md"
-    },
-    {
-      "basename": "Notes",
-      "path": "History/Notes/Notes.md"
+      "basename": "Differentiation",
+      "path": "Math/A Math/Differentiation.md"
     },
     {
       "basename": "History",
       "path": "History/History.md"
-    },
-    {
-      "basename": "Social Studies",
-      "path": "Social Studies/Social Studies.md"
-    },
-    {
-      "basename": "Progress",
-      "path": "Progress.md"
     },
     {
       "basename": "Germany's Defeat",
@@ -31,6 +19,30 @@
     {
       "basename": "Operation Barbarossa",
       "path": "History/Notes/WWII (Part 2)/Operation Barbarossa.md"
+    },
+    {
+      "basename": "Germany & Japan's defeat in WWII",
+      "path": "History/Notes/WWII (Part 2)/Germany & Japan's defeat in WWII.md"
+    },
+    {
+      "basename": "WWII (Part 2)",
+      "path": "History/Notes/WWII (Part 2)/WWII (Part 2).md"
+    },
+    {
+      "basename": "Early Axis successes",
+      "path": "History/Notes/WWII (Part 2)/Early Axis successes.md"
+    },
+    {
+      "basename": "Notes",
+      "path": "History/Notes/Notes.md"
+    },
+    {
+      "basename": "Social Studies",
+      "path": "Social Studies/Social Studies.md"
+    },
+    {
+      "basename": "Progress",
+      "path": "Progress.md"
     },
     {
       "basename": "Computing+",
@@ -55,10 +67,6 @@
     {
       "basename": "20220407_110547",
       "path": "History/20220407_110547.jpg"
-    },
-    {
-      "basename": "Germany & Japan's defeat in WWII",
-      "path": "History/Notes/WWII (Part 2)/Germany & Japan's defeat in WWII.md"
     },
     {
       "basename": "Chinese",
@@ -191,10 +199,6 @@
     {
       "basename": "SEQ",
       "path": "History/SEQ/SEQ.md"
-    },
-    {
-      "basename": "Explanation",
-      "path": "History/SEQ/Explanation/Explanation.md"
     }
   ],
   "omittedPaths": [],

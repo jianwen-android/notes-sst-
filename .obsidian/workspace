@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "062ef19d722c3265",
+        "id": "4c6010867a0daaac",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Math/A Math/Integration.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Math/A Math/Integration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Math/A Math/Integration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,17 +127,17 @@
     "direction": "horizontal",
     "width": 264.4532165527344
   },
-  "active": "062ef19d722c3265",
+  "active": "4c6010867a0daaac",
   "lastOpenFiles": [
-    "Untitled.md",
-    "History/Notes/WWII (Part 2)/Early Axis successes.md",
-    "History/Notes/WWII (Part 2)/WWII (Part 2).md",
-    "History/Notes/Notes.md",
+    "Math/A Math/Integration.md",
+    "Math/A Math/Differentiation.md",
     "History/History.md",
-    "Social Studies/Social Studies.md",
-    "Progress.md",
     "History/Notes/WWII (Part 2)/Germany's Defeat.md",
     "History/Notes/WWII (Part 2)/Operation Barbarossa.md",
-    "Computing+/Computing+.md"
+    "History/Notes/WWII (Part 2)/Germany & Japan's defeat in WWII.md",
+    "History/Notes/WWII (Part 2)/WWII (Part 2).md",
+    "History/Notes/WWII (Part 2)/Early Axis successes.md",
+    "History/Notes/Notes.md",
+    "Social Studies/Social Studies.md"
   ]
 }
