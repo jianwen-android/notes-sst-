@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math/A Math/Differentiation.md",
+            "file": "History/Notes/WWII (Part 2)/Germany's Defeat.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/A Math/Differentiation.md",
+                "file": "History/Notes/WWII (Part 2)/Germany's Defeat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/A Math/Differentiation.md",
+                "file": "History/Notes/WWII (Part 2)/Germany's Defeat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,15 +129,15 @@
   },
   "active": "4cc8fb63ec577f11",
   "lastOpenFiles": [
+    "History/Notes/WWII (Part 2)/Germany's Defeat.md",
+    "History/Notes/WWII (Part 2)/Germany & Japan's defeat in WWII.md",
+    "History/Notes/WWII (Part 2)/WWII (Part 2).md",
+    "History/Notes/WWII (Part 2)/How did USSR & Britain's resistance contribute to Germany's defeat?.md",
+    "History/Notes/WWII (Part 2)/Operation Barbarossa.md",
+    "History/History.md",
     "Math/A Math/Differentiation.md",
     "Math/A Math/Integration.md",
     "Physics/Practical.md",
-    "Progress.md",
-    "Untitled.md",
-    "History/History.md",
-    "History/Notes/WWII (Part 2)/Germany's Defeat.md",
-    "History/Notes/WWII (Part 2)/Operation Barbarossa.md",
-    "History/Notes/WWII (Part 2)/Germany & Japan's defeat in WWII.md",
-    "History/Notes/WWII (Part 2)/WWII (Part 2).md"
+    "Progress.md"
   ]
 }
