@@ -4,7 +4,5 @@
 - **[[WWII (Part 2)]]**
 	- [[Early Axis successes]]
 	- [[Germany's Defeat]]
-	- **Germany’s Defeat**
-
 
 %% End Waypoint %%

@@ -1,4 +1,4 @@
-# US role
+# US's role
 
 ## Pre-pearl harbour
 
@@ -35,9 +35,9 @@
 
 #### 3. Escort roles
 
-#### 4. economic sanctions
+#### 4. Economic sanctions
 
-* _Helped keep Britain and USSR in the war_
+*Helped keep Britain and USSR in the war*
 
 ## Post-pearl harbour
 
@@ -48,39 +48,39 @@
 | Contributions of vast resources & manpower          | What did the USA contribute to the Allies in terms of resources & manpower? | How did it lead to the defeat of Germany? |
 | Collboration with the Allies in military strategies | What did the USA do to help the Allies gain control of the sea?             | How did it lead to the defeat of Germany? |
 
- # Germany role (self-inflicted)
+ # Germany's role (self-inflicted)
 
-## Battle of britain, 1940
+## Battle of Britain, 1940
 
-## Raf strengths
+### RAF strengths
 
 - Led by Sir Hugh Dowding - planned British air defence since 1947. Brought in technical developments, eg. bullet proof windscreens for fighter planes; command & communiation systems
 - Invested in radars, able to detect enemy planes before they arrived
 - Fighter planes such as Spitfire & Hurricanes were faster than German planes
 - RAF pilots who bailed out over Britain could return to duty
 
-## Luftwaffe weaknesses
+### Luftwaffe weaknesses
 
 -   Hermann Goering was not good at tactics - shifted focus of attacks, causing confusion; Did not implement radars
 -   Wrong type of aircraft- Stuka dive bomber were geared towards supporting army by bombing, not dog fights
 -   German fighters only had enough fuel to fly for 30 min over England and had to return to France
 -   German pilots who bailed out over Brtain became prisoners
 
-# Operation Barbarossa
+## Operation Barbarossa
 
 - Hitler turned his attention to the USSR after his failed attempt to conquer Britain
 - He had always been interested in gaining lands in the east
 - He decided to launch his attack on the USSR in the spring of 1941 (Operation Barbarossa)
 - However, before he could carry out his planned invasion of the USSR, he had to go to the aid of his ally, Mussolini, who was having difficulties in the South
 
-## Hitler mistakes
+### Hitler mistakes
 
 - Refusing to retreat
 - Not sending winter supplies to soldiers fighting in the winter
 
 In the early years, mistakes were not as critical. With Hitler increasingly interfering with battles, more mistakes were made
 
-# USSR & Britain's resistance
+# USSR resistance
 
 What did the USSR do during the winter of 1941-1942 to enable a more effective resistance against the German invasion?
 
@@ -122,3 +122,43 @@ Sept 1942– Jan 1943
 - German commander Paulus wanted to retreat & regroup - Hitler ordered him to fight on.
 - Soviet military cut off German supplies & pounded their positions with shells & rockets
 - Paulus surrendered, along with 300k soldiers
+
+## Battle of Kursk, July – Aug 1943
+
+- Largest tank battle in history
+- Involved some 6,000 tanks, 2,000,000 troops, and 4,000 aircraft.
+- Germans planned counter-attack in July 1943
+- Red Army found out & won a great victory
+- Destroyed German army at Kursk
+- By 1943, USSR could replace tanks & aircrafts lost in battle; Germans could not – USA & Britain was targeting German factories;
+
+## Consequences
+
+> ‘It was the Red Army which tore the heart out of the German army’ - Churchill
+
+- The Red Army defeated 80% of German forces on the Eastern Front
+- The Battle of Kursk marked the decisive end of the German offensive capability on the Eastern Front and cleared the way for the great Soviet offensives of 1944–45.
+- The USSR began to ‘liberate’ Nazi-occupied Eastern Europe and pushed all the way to Berlin, GER.
+
+# Britain's role
+
+## Spirit
+
+1. Evacuation
+	- moving vulnerable citizens away from cities
+	- e.g. children
+2. Conscription
+	- Ensuring Britain had enough soldiers & workers by recruiting civilians
+	- e.g. Women 20 years or older worked in industry/auxiliary armed forces
+3. Controlling Information
+	- Keeping up morale by propaganda & censorship
+	- e.g. They were not allowed to report news as is
+4. Rationing
+	- Keeping Britain fed & supplied despite the U-boat blockade by Germany
+
+ ## Consequences
+- Bombings strengthened the morale & resolve of the British instead of weakening it.
+- Public support ensured that the nation was united in support of the government’s efforts
+- Germany was not able to force Britain to surrender during the Battle of Britain
+
+# Other resistance forces
