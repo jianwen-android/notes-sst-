@@ -20,7 +20,7 @@
   "matchThemeAlways": true,
   "matchThemeTrigger": false,
   "defaultMode": "normal",
-  "defaultPenMode": "never",
+  "defaultPenMode": "mobile",
   "zoomToFitOnResize": true,
   "zoomToFitMaxLevel": 2,
   "linkPrefix": "📍",

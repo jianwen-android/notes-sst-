@@ -32,7 +32,7 @@
       "icon": "filled-pin"
     }
   ],
-  "appendMethod": "workspace",
+  "appendMethod": "body",
   "shouldShowMenuOnSelect": false,
   "cMenuVisibility": true,
   "cMenuBottomValue": 3.75,

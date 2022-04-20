@@ -35,7 +35,7 @@ From 1939-1945
 - Luftwaffe was best of its kind in 1939
 - Blitzkreig (lightning war) used to devastating effect
 
-## Britain, france & allies
+## Britain, France & allies
 
 - Due to the Great Depression, did not start rearming till late 1930s
 - Obsolete WWI equipment
@@ -60,7 +60,7 @@ From 1939-1945
 | 22 Jun 1941 | Germany invades USSR (Operation Barbarossa) |
 | 7 Dec 1941 | Japan bombs Pearl Harbour |
 
-# Asia-pacific (ap): reasons for japanese success
+# Asia-pacific (AP): Reasons for Japanese success
 
 - WWII in Europe - Britain & France were too busy fighting Germany to defend their colonies in Asia
 - All available resources were redeployed
