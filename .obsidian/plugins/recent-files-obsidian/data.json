@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Practical",
-      "path": "Physics/Practical.md"
-    },
-    {
       "basename": "Differentiation",
       "path": "Math/A Math/Differentiation.md"
     },
     {
       "basename": "Integration",
       "path": "Math/A Math/Integration.md"
+    },
+    {
+      "basename": "Practical",
+      "path": "Physics/Practical.md"
+    },
+    {
+      "basename": "Progress",
+      "path": "Progress.md"
     },
     {
       "basename": "History",
@@ -43,10 +47,6 @@
     {
       "basename": "Social Studies",
       "path": "Social Studies/Social Studies.md"
-    },
-    {
-      "basename": "Progress",
-      "path": "Progress.md"
     },
     {
       "basename": "Computing+",
