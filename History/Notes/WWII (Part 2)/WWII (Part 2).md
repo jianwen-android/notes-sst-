@@ -3,7 +3,10 @@
 %% Begin Waypoint %%
 - **[[WWII (Part 2)]]**
 	- [[Early Axis successes]]
+	- [[Entry of the USA]]
 	- [[Germany's Defeat]]
-	- [[Japan's Defeat]]
+	- **Germany’s Defeat**
+
+	- [[Operation Barbarossa]]
 
 %% End Waypoint %%

@@ -1,10 +1,11 @@
 {
   "translucency": false,
-  "cssTheme": "Obsidianite",
+  "cssTheme": "",
   "baseFontSize": 17,
   "theme": "obsidian",
   "baseFontSizeAction": false,
   "enabledCssSnippets": [
-    "checkbox"
+    "checkbox",
+    "clutter-free-headings"
   ]
 }

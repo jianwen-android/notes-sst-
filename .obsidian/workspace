@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "4cc8fb63ec577f11",
+        "id": "51bda78c5a1c4f07",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "History/Notes/WWII (Part 2)/Germany's Defeat.md",
+            "file": "History/Notes/WWII (Part 2)/Entry of the USA.md",
             "mode": "source",
-            "backlinks": true,
+            "backlinks": false,
             "source": false
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Notes/WWII (Part 2)/Germany's Defeat.md",
+                "file": "History/Notes/WWII (Part 2)/Entry of the USA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Notes/WWII (Part 2)/Germany's Defeat.md",
+                "file": "History/Notes/WWII (Part 2)/Entry of the USA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,17 +127,17 @@
     "direction": "horizontal",
     "width": 264.4532165527344
   },
-  "active": "4cc8fb63ec577f11",
+  "active": "51bda78c5a1c4f07",
   "lastOpenFiles": [
-    "History/Notes/WWII (Part 2)/Germany's Defeat.md",
-    "History/Notes/WWII (Part 2)/Japan's Defeat.md",
-    "History/Notes/WWII (Part 2)/Germany’s Defeat/20220406_130934.jpg.jpg",
-    "History/Notes/WWII (Part 2)/Early Axis successes.md",
-    "History/Notes/WWII (Part 2)/WWII (Part 2).md",
-    "History/Notes/WWII (Part 2)/Germany & Japan's defeat in WWII.md",
-    "History/Notes/WWII (Part 2)/How did USSR & Britain's resistance contribute to Germany's defeat?.md",
+    "History/Notes/WWII (Part 2)/Entry of the USA.md",
     "History/Notes/WWII (Part 2)/Operation Barbarossa.md",
+    "History/Notes/WWII (Part 2)/Germany's Defeat.md",
+    "History/Notes/WWII (Part 2)/Early Axis successes.md",
+    "History/Notes/WWII (Part 2)/Germany & Japan's defeat in WWII.md",
+    "History/Notes/WWII (Part 2)/WWII (Part 2).md",
+    "Untitled.md",
+    "History/Notes/Notes.md",
     "History/History.md",
-    "Math/A Math/Differentiation.md"
+    "Social Studies/Social Studies.md"
   ]
 }

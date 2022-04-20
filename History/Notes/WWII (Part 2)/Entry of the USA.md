@@ -1,24 +1,6 @@
-# 02 germany’s defeat
+# Us role
 
-## Battle of britain, 1940
-
-### RAF strengths
-
-- Led by Sir Hugh Dowding - planned British air defence since 1947. Brought in technical developments, eg. bullet proof windscreens for fighter planes; command & communiation systems
-- Invested in radars, able to detect enemy planes before they arrived
-- Fighter planes such as Spitfire & Hurricanes were faster than German planes
-- RAF pilots who bailed out over Britain could return to duty
-
-### Luftwaffe weaknesses
-
--   Hermann Goering was not good at tactics - shifted focus of attacks, causing confusion; Did not implement radars
--   Wrong type of aircraft- Stuka dive bomber were geared towards supporting army by bombing, not dog fights
--   German fighters only had enough fuel to fly for 30 min over England and had to return to France
--   German pilots who bailed out over Brtain became prisoners
-
-## Us role
-
-### Pre-pearl harbour
+## Pre-pearl harbour
 
 * USA was in isolation since the end of WWI
 * 1937 Neutrality Act
@@ -30,9 +12,9 @@
 * Imposed **military & economic sanctions** on Axis Powers
 * Expanded size of army & navy; utilised navy to **provide escort** for Allied convoys
 
-#### Indirect involvement
+### Indirect involvement
 
-##### 1. cash and carry policy
+#### 1. cash and carry policy
 
 * Sept 1939 - Revised Neutrality Act
 * Maintain neutrality while providing military aid to BR and FRA
@@ -42,7 +24,7 @@
 	* France - fell in June 1940
 	* German U-boats sink supply ships crossing the Atlantic
 
-##### 2. lend-lease act
+#### 2. lend-lease act
 
 * March 1941 - To protect US interests, the President is allowed to supply weapons, food & equipment to any countries whose defence was vital, eg. Britain, USSR
 * Payment could be deferred
@@ -51,15 +33,15 @@
 * Effectiveness:
 	* Kept Allies afloat in the war
 
-##### 3. escort roles
+#### 3. escort roles
 
-##### 4. economic sanctions
+#### 4. economic sanctions
 
 * _Helped keep Britain and USSR in the war_
 
-### Post-pearl harbour
+## Post-pearl harbour
 
-#### Direct involvement
+### Direct involvement
 
 | Direct Involvement in WWI ( 8 Dec 1941-1945)        | Questions to consider                                                       | Consequences                              |
 | --------------------------------------------------- | --------------------------------------------------------------------------- | ----------------------------------------- |
