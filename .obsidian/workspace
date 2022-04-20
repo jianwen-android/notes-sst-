@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "4c6010867a0daaac",
+        "id": "4cc8fb63ec577f11",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math/A Math/Differentiation.md",
+            "file": "Physics/Practical.md",
             "mode": "source",
-            "backlinks": false,
+            "backlinks": true,
             "source": false
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/A Math/Differentiation.md",
+                "file": "Physics/Practical.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/A Math/Differentiation.md",
+                "file": "Physics/Practical.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,8 +127,10 @@
     "direction": "horizontal",
     "width": 264.4532165527344
   },
-  "active": "4c6010867a0daaac",
+  "active": "4cc8fb63ec577f11",
   "lastOpenFiles": [
+    "Physics/Practical.md",
+    "Untitled.md",
     "Math/A Math/Differentiation.md",
     "Math/A Math/Integration.md",
     "History/History.md",
@@ -136,8 +138,6 @@
     "History/Notes/WWII (Part 2)/Operation Barbarossa.md",
     "History/Notes/WWII (Part 2)/Germany & Japan's defeat in WWII.md",
     "History/Notes/WWII (Part 2)/WWII (Part 2).md",
-    "History/Notes/WWII (Part 2)/Early Axis successes.md",
-    "History/Notes/Notes.md",
-    "Social Studies/Social Studies.md"
+    "History/Notes/WWII (Part 2)/Early Axis successes.md"
   ]
 }

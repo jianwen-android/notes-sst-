@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Practical",
+      "path": "Physics/Practical.md"
+    },
+    {
       "basename": "Differentiation",
       "path": "Math/A Math/Differentiation.md"
     },
@@ -191,14 +195,6 @@
     {
       "basename": "Facism vs Nazism",
       "path": "History/Notes/Hitler/Facism vs Nazism.md"
-    },
-    {
-      "basename": "Reliability",
-      "path": "History/SBQ/Reliability.md"
-    },
-    {
-      "basename": "SEQ",
-      "path": "History/SEQ/SEQ.md"
     }
   ],
   "omittedPaths": [],
