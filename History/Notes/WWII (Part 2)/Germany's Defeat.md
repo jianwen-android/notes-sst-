@@ -162,3 +162,4 @@ Sept 1942– Jan 1943
 - Germany was not able to force Britain to surrender during the Battle of Britain
 
 # Other resistance forces
+- Provided intelligence and sabotage
