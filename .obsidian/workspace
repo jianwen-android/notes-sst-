@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math/A Math/Integration.md",
+            "file": "Math/A Math/Differentiation.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/A Math/Integration.md",
+                "file": "Math/A Math/Differentiation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/A Math/Integration.md",
+                "file": "Math/A Math/Differentiation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,8 +129,8 @@
   },
   "active": "4c6010867a0daaac",
   "lastOpenFiles": [
-    "Math/A Math/Integration.md",
     "Math/A Math/Differentiation.md",
+    "Math/A Math/Integration.md",
     "History/History.md",
     "History/Notes/WWII (Part 2)/Germany's Defeat.md",
     "History/Notes/WWII (Part 2)/Operation Barbarossa.md",
