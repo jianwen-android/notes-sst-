@@ -13,3 +13,7 @@ $$ \frac{d}{dx} (ax^b + 5)^c = c\times(ax^b + 5)^{c-1}\times abx $$
 Where a, b and c are real numbers
 
 ## Product Rule
+
+$$ \frac{d}{dx}f(x)g(x) = f'(x)g(x) + f(x)g'(x) $$
+
+## Quotient Rule
