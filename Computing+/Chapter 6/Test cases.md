@@ -25,6 +25,14 @@
 
 ## Normal condition
 
+- situations where the input data is what we would expect to be provided with during normal use of the program
+- input data follows what is expected during normal use
+
 ## Boundary condition
 
+- situations where the input data is at the limit of what the program is designed for, or where special handling of the input data is required
+- input data is at the limit of what the program is designed to cope with or where special handling is required
+
 ## Error condition
+- situations where the input data would normally be rejected by the program
+- input data would normally be 
