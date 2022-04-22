@@ -2,8 +2,12 @@
 
 %% Begin Waypoint %%
 - **[[Chapter 3]]**
-	- [[Flowchart design 2022-04-22 20.49.22.excalidraw]]
 	- [[Flowchart design]]
+	- **Flowchart symbols**
+		- [[Data]]
+		- [[Decision]]
+		- [[Process]]
+		- [[Terminator]]
 	- [[Psuedocode]]
 
 %% End Waypoint %%

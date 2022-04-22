@@ -43,5 +43,13 @@
       "key": "G"
     }
   ],
-  "obsidian-git:open-diff-view": []
+  "obsidian-git:open-diff-view": [],
+  "obsidian-text-format:text-format-merge-line": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "\\"
+    }
+  ]
 }

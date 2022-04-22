@@ -1,20 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "Flowchart design 2022-04-22 20.49.22.excalidraw",
-      "path": "Computing+/Chapter 3/Flowchart design 2022-04-22 20.49.22.excalidraw.md"
+      "basename": "Data types",
+      "path": "Computing+/Chapter 4/Data types.md"
+    },
+    {
+      "basename": "Compilers & Interpreters",
+      "path": "Computing+/Chapter 4/Compilers & Interpreters.md"
+    },
+    {
+      "basename": "Chapter 4",
+      "path": "Computing+/Chapter 4/Chapter 4.md"
+    },
+    {
+      "basename": "Chapter 6",
+      "path": "Computing+/Chapter 6/Chapter 6.md"
     },
     {
       "basename": "Flowchart design",
       "path": "Computing+/Chapter 3/Flowchart design.md"
     },
     {
-      "basename": "Psuedocode",
-      "path": "Computing+/Chapter 3/Psuedocode.md"
-    },
-    {
       "basename": "Chapter 3",
       "path": "Computing+/Chapter 3/Chapter 3.md"
+    },
+    {
+      "basename": "Problem solving techniques",
+      "path": "Computing+/Chapter 2/Problem solving techniques.md"
+    },
+    {
+      "basename": "Chapter 2",
+      "path": "Computing+/Chapter 2/Chapter 2.md"
+    },
+    {
+      "basename": "Progress",
+      "path": "Progress.md"
+    },
+    {
+      "basename": "Terminator",
+      "path": "Computing+/Chapter 3/Flowchart symbols/Terminator.md"
+    },
+    {
+      "basename": "Process",
+      "path": "Computing+/Chapter 3/Flowchart symbols/Process.md"
+    },
+    {
+      "basename": "Decision",
+      "path": "Computing+/Chapter 3/Flowchart symbols/Decision.md"
+    },
+    {
+      "basename": "Data",
+      "path": "Computing+/Chapter 3/Flowchart symbols/Data.md"
+    },
+    {
+      "basename": "Psuedocode",
+      "path": "Computing+/Chapter 3/Psuedocode.md"
     },
     {
       "basename": "Networks",
@@ -35,10 +75,6 @@
     {
       "basename": "Stages in developing a program",
       "path": "Computing+/Chapter 5/Stages in developing a program.md"
-    },
-    {
-      "basename": "Chapter 6",
-      "path": "Computing+/Chapter 6/Chapter 6.md"
     },
     {
       "basename": "Data validation",
@@ -101,10 +137,6 @@
       "path": "Physics/Practical.md"
     },
     {
-      "basename": "Progress",
-      "path": "Progress.md"
-    },
-    {
       "basename": "Notes",
       "path": "History/Notes/Notes.md"
     },
@@ -163,38 +195,6 @@
     {
       "basename": "Attack on Pearl Harbour",
       "path": "History/Notes/Military Japan/Attack on Pearl Harbour.md"
-    },
-    {
-      "basename": "nse-8236990601320429937-49956.jpg",
-      "path": "History/Notes/Military Japan/Rise of Military Japan/nse-8236990601320429937-49956.jpg.jpg"
-    },
-    {
-      "basename": "Chapter 7",
-      "path": "Computing+/Chapter 7/Chapter 7.md"
-    },
-    {
-      "basename": "hybridisation",
-      "path": "Social Studies/Globalisation/hybridisation.png"
-    },
-    {
-      "basename": "SBQ",
-      "path": "Social Studies/Practice papers/2018 O Level/SBQ.md"
-    },
-    {
-      "basename": "Key principles",
-      "path": "Social Studies/Key principles.md"
-    },
-    {
-      "basename": "Screenshot 2022-04-12 at 3.41.04 PM",
-      "path": "Social Studies/Practice papers/2018 O Level/Screenshot 2022-04-12 at 3.41.04 PM.png"
-    },
-    {
-      "basename": "homogenisation",
-      "path": "Social Studies/Globalisation/homogenisation.png"
-    },
-    {
-      "basename": "Stuff",
-      "path": "Social Studies/Globalisation/Stuff.md"
     }
   ],
   "omittedPaths": [],
