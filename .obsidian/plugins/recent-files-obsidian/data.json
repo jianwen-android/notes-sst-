@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Set theory",
+      "path": "Math/E Math/Set theory.md"
+    },
+    {
+      "basename": "E Math",
+      "path": "Math/E Math/E Math.md"
+    },
+    {
+      "basename": "Math",
+      "path": "Math/Math.md"
+    },
+    {
+      "basename": "A Math",
+      "path": "Math/A Math/A Math.md"
+    },
+    {
+      "basename": "Integration",
+      "path": "Math/A Math/Integration.md"
+    },
+    {
+      "basename": "History",
+      "path": "History/History.md"
+    },
+    {
       "basename": "Japan's Defeat",
       "path": "History/Notes/WWII (Part 2)/Japan's Defeat.md"
     },
     {
       "basename": "Differentiation",
       "path": "Math/A Math/Differentiation.md"
-    },
-    {
-      "basename": "Integration",
-      "path": "Math/A Math/Integration.md"
     },
     {
       "basename": "Germany's Defeat",
@@ -23,10 +43,6 @@
     {
       "basename": "WWII (Part 2)",
       "path": "History/Notes/WWII (Part 2)/WWII (Part 2).md"
-    },
-    {
-      "basename": "History",
-      "path": "History/History.md"
     },
     {
       "basename": "Practical",
@@ -183,10 +199,6 @@
     {
       "basename": "Assertion",
       "path": "Social Studies/SBQ/Assertion.md"
-    },
-    {
-      "basename": "Facism vs Nazism",
-      "path": "History/Notes/Hitler/Facism vs Nazism.md"
     }
   ],
   "omittedPaths": [],

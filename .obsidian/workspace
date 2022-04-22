@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "History/Notes/WWII (Part 2)/Japan's Defeat.md",
+            "file": "Math/E Math/Set theory.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Notes/WWII (Part 2)/Japan's Defeat.md",
+                "file": "Math/E Math/Set theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Notes/WWII (Part 2)/Japan's Defeat.md",
+                "file": "Math/E Math/Set theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,15 +129,15 @@
   },
   "active": "4cc8fb63ec577f11",
   "lastOpenFiles": [
+    "Math/E Math/Set theory.md",
+    "Math/E Math/E Math.md",
+    "Math/Math.md",
+    "Math/A Math/A Math.md",
+    "Math/A Math/Integration.md",
+    "History/History.md",
     "History/Notes/WWII (Part 2)/Japan's Defeat.md",
     "Math/A Math/Differentiation.md",
-    "Math/A Math/Integration.md",
     "History/Notes/WWII (Part 2)/Germany's Defeat.md",
-    "History/Notes/WWII (Part 2)/Germany’s Defeat/20220406_130934.jpg.jpg",
-    "History/Notes/WWII (Part 2)/Early Axis successes.md",
-    "History/Notes/WWII (Part 2)/WWII (Part 2).md",
-    "History/Notes/WWII (Part 2)/Germany & Japan's defeat in WWII.md",
-    "History/Notes/WWII (Part 2)/How did USSR & Britain's resistance contribute to Germany's defeat?.md",
-    "History/Notes/WWII (Part 2)/Operation Barbarossa.md"
+    "History/Notes/WWII (Part 2)/Germany’s Defeat/20220406_130934.jpg.jpg"
   ]
 }
