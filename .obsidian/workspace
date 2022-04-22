@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math/E Math/Set theory.md",
+            "file": "Computing+/Psuedocode.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/E Math/Set theory.md",
+                "file": "Computing+/Psuedocode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/E Math/Set theory.md",
+                "file": "Computing+/Psuedocode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,15 +129,15 @@
   },
   "active": "4cc8fb63ec577f11",
   "lastOpenFiles": [
+    "Computing+/Psuedocode.md",
+    "Computing+/Computing+.md",
+    "Math/Math.md",
     "Math/E Math/Set theory.md",
     "Math/E Math/E Math.md",
-    "Math/Math.md",
     "Math/A Math/A Math.md",
     "Math/A Math/Integration.md",
     "History/History.md",
     "History/Notes/WWII (Part 2)/Japan's Defeat.md",
-    "Math/A Math/Differentiation.md",
-    "History/Notes/WWII (Part 2)/Germany's Defeat.md",
-    "History/Notes/WWII (Part 2)/Germany’s Defeat/20220406_130934.jpg.jpg"
+    "Math/A Math/Differentiation.md"
   ]
 }

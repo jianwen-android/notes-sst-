@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Psuedocode",
+      "path": "Computing+/Psuedocode.md"
+    },
+    {
+      "basename": "Computing+",
+      "path": "Computing+/Computing+.md"
+    },
+    {
+      "basename": "Math",
+      "path": "Math/Math.md"
+    },
+    {
       "basename": "Set theory",
       "path": "Math/E Math/Set theory.md"
     },
     {
       "basename": "E Math",
       "path": "Math/E Math/E Math.md"
-    },
-    {
-      "basename": "Math",
-      "path": "Math/Math.md"
     },
     {
       "basename": "A Math",
@@ -59,10 +67,6 @@
     {
       "basename": "Social Studies",
       "path": "Social Studies/Social Studies.md"
-    },
-    {
-      "basename": "Computing+",
-      "path": "Computing+/Computing+.md"
     },
     {
       "basename": "SBQ",
@@ -195,10 +199,6 @@
     {
       "basename": "SBQ",
       "path": "Social Studies/SBQ/SBQ.md"
-    },
-    {
-      "basename": "Assertion",
-      "path": "Social Studies/SBQ/Assertion.md"
     }
   ],
   "omittedPaths": [],

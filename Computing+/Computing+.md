@@ -6,6 +6,7 @@
 	- [[Chapter 11]]
 	- **Discovery Week**
 		- [[Reinforcement Learning]]
+	- [[Psuedocode]]
 	- [[Sharing From 2021 Alumni]]
 
 %% End Waypoint %%
