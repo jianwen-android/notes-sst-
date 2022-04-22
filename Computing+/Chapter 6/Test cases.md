@@ -1,5 +1,5 @@
 # Types of errors
-can be 
+not mutuallye
 
 ## 1.  Syntax errors
 
