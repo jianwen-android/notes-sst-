@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6d08a29267129f50",
+        "id": "e1e5a913dceac235",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "Computing+/Chapter 3/Flowchart design.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
+            "file": "Computing+/Chapter 3/Flowchart design 2022-04-22 20.49.22.excalidraw.md"
           }
         }
       }
@@ -20,115 +17,94 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6e3c4ce06d3b70ce",
-    "type": "split",
+    "id": "4f250aceda8f0e7f",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "3372ac3f08e52114",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cef37112d307c9ef",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "5089b0fdc5f2ebee",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "cbf447a3a94aaa52",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
+        "id": "321cd949eaa1cc39",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      },
+      {
+        "id": "7990a0a8aa847afe",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "ce1ef1ce01d2f07b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "777bdd8225a6ce68",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 299.5
+    "currentTab": 1
   },
   "right": {
-    "id": "af641243059a20af",
-    "type": "split",
+    "id": "c8d26509ccdc216c",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "252ff0017e2811c0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "59ccb003b77b8e2c",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Computing+/Chapter 3/Flowchart design.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "d2ad76659b5d68a5",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "861b54f5bbd63d1f",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Computing+/Chapter 3/Flowchart design.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "049130f70b6905a4",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
+        "id": "13bbd99a2fdae150",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Computing+/Chapter 3/Flowchart design 2022-04-22 20.49.22.excalidraw.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": false
           }
-        ],
-        "currentTab": 3
+        }
+      },
+      {
+        "id": "bef15cd743fd8c85",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Computing+/Chapter 3/Flowchart design 2022-04-22 20.49.22.excalidraw.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 264.4532165527344
+    "currentTab": 0
   },
-  "active": "6d08a29267129f50",
+  "active": "e1e5a913dceac235",
   "lastOpenFiles": [
+    "Computing+/Chapter 3/Flowchart design 2022-04-22 20.49.22.excalidraw.md",
+    "Computing+/Chapter 3/Drawing 2022-04-22 20.53.22.excalidraw.md",
     "Computing+/Chapter 3/Flowchart design.md",
     "Computing+/Chapter 3/Psuedocode.md",
     "Computing+/Chapter 3/Chapter 3.md",
@@ -136,8 +112,6 @@
     "Computing+/Chapter 6.1.md",
     "Computing+/Computing+.md",
     "Computing+/Chapter 5/Chapter 5.md",
-    "Computing+/Chapter 5/Common problems and solutions.md",
-    "Computing+/Chapter 5/Stages in developing a program.md",
-    "Computing+/Chapter 6/Chapter 6.md"
+    "Computing+/Chapter 5/Common problems and solutions.md"
   ]
 }
