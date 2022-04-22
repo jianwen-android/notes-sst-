@@ -1,28 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "Test cases",
-      "path": "Computing+/Chapter 6/Test cases.md"
+      "basename": "Flowchart design",
+      "path": "Computing+/Chapter 3/Flowchart design.md"
     },
     {
-      "basename": "Data validation",
-      "path": "Computing+/Chapter 6/Data validation.md"
+      "basename": "Psuedocode",
+      "path": "Computing+/Chapter 3/Psuedocode.md"
+    },
+    {
+      "basename": "Chapter 3",
+      "path": "Computing+/Chapter 3/Chapter 3.md"
+    },
+    {
+      "basename": "Networks",
+      "path": "Computing+/Chapter 11/Networks.md"
+    },
+    {
+      "basename": "Computing+",
+      "path": "Computing+/Computing+.md"
+    },
+    {
+      "basename": "Chapter 5",
+      "path": "Computing+/Chapter 5/Chapter 5.md"
+    },
+    {
+      "basename": "Common problems and solutions",
+      "path": "Computing+/Chapter 5/Common problems and solutions.md"
+    },
+    {
+      "basename": "Stages in developing a program",
+      "path": "Computing+/Chapter 5/Stages in developing a program.md"
     },
     {
       "basename": "Chapter 6",
       "path": "Computing+/Chapter 6/Chapter 6.md"
     },
     {
-      "basename": "5 Stages of developing a program",
-      "path": "Computing+/Chapter 5/5 Stages of developing a program.md"
+      "basename": "Data validation",
+      "path": "Computing+/Chapter 6/Data validation.md"
     },
     {
-      "basename": "Psuedocode",
-      "path": "Computing+/Psuedocode.md"
+      "basename": "Debugging",
+      "path": "Computing+/Chapter 6/Debugging.md"
     },
     {
-      "basename": "Computing+",
-      "path": "Computing+/Computing+.md"
+      "basename": "Test cases",
+      "path": "Computing+/Chapter 6/Test cases.md"
     },
     {
       "basename": "Math",
@@ -175,30 +199,6 @@
     {
       "basename": "Hitler",
       "path": "History/Notes/Hitler/Hitler.md"
-    },
-    {
-      "basename": "Essay Thinking Pages",
-      "path": "History/Essay Thinking Pages/Essay Thinking Pages.md"
-    },
-    {
-      "basename": "SRQ",
-      "path": "Social Studies/SRQ/SRQ.md"
-    },
-    {
-      "basename": "Biases",
-      "path": "English/Biases.md"
-    },
-    {
-      "basename": "‘The Great",
-      "path": "History/Essay Thinking Pages/‘The Great.md"
-    },
-    {
-      "basename": "Sharing From 2021 Alumni",
-      "path": "Computing+/Sharing From 2021 Alumni.md"
-    },
-    {
-      "basename": "What can y",
-      "path": "History/Essay Thinking Pages/What can y.md"
     }
   ],
   "omittedPaths": [],

@@ -1,6 +1,6 @@
 # Syntax
 
-## I/O
+## Input/Output
 
 ### Input
 
@@ -14,7 +14,7 @@ INPUT variable
 OUTPUT variable
 ```
 
-## If statements
+## Selection Constructs
 
 ```
 IF condition THEN
@@ -24,19 +24,20 @@ ELSE IF condition THEN
 ENDIF
 ```
 
-## Loops
+## Iteration Constructs
 
 ### For loops
 
 ```
 FOR variable to condition //count 1 to 5, can be used without prior declaration
 	action
-NEXT variable // to increase count usually
+NEXT variable //to increment count
 ```
 
 ### While loops
-```
-While condition //is true
-	action
 
+```
+WHILE condition //is true
+	action
+ENDWHILE
 ```
