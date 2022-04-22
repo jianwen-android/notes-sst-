@@ -13,7 +13,11 @@
     {
       "path": "/",
       "date": "2022-04-22",
+<<<<<<< HEAD
       "size": 337281
+=======
+      "size": 127954
+>>>>>>> refs/remotes/origin/main
     }
   ],
   "activityHistory": [
@@ -34,7 +38,11 @@
         },
         {
           "date": "2022-04-22",
+<<<<<<< HEAD
           "value": 335827
+=======
+          "value": 7974
+>>>>>>> refs/remotes/origin/main
         }
       ]
     }
