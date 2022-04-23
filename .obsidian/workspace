@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4b68e32f73be611f",
+        "id": "739f633f09020acf",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computing+/Chapter 7/Data corruption and loss.md",
+            "file": "Computing+/Chapter 7/Intellectual property.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing+/Chapter 7/Data corruption and loss.md",
+                "file": "Computing+/Chapter 7/Intellectual property.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing+/Chapter 7/Data corruption and loss.md",
+                "file": "Computing+/Chapter 7/Intellectual property.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,17 +127,17 @@
     "direction": "horizontal",
     "width": 264.4532165527344
   },
-  "active": "4b68e32f73be611f",
+  "active": "739f633f09020acf",
   "lastOpenFiles": [
+    "Computing+/Chapter 7/Intellectual property.md",
+    "Computing+/Chapter 7/Threats to privacy and security.md",
+    "Computing+/Chapter 7/Unauthorised Access.md",
     "Computing+/Chapter 7/Data corruption and loss.md",
-    "Computing+/Chapter 7/A. Ethical and Social Issues of Computing.md",
+    "Computing+/Chapter 7/真的不知道.md",
     "Math/Math.md",
     "Math/E Math/sets.md",
-    "Computing+/Chapter 7/真的不知道.md",
     "Computing+/Chapter 8/Converting between number systems.md",
     "Computing+/Chapter 8/Applications of number systems.md",
-    "Computing+/Revision Checklist.md",
-    "Computing+/Chapter 4/Compilers & Interpreters.md",
-    "Computing+/Chapter 4/Data types.md"
+    "Computing+/Revision Checklist.md"
   ]
 }

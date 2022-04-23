@@ -1,0 +1,140 @@
+# Types of Privacy and Security Threats
+
+## Cookies
+
+- A small file used by websites to store information locally on a users browser
+- can be misused to collect personal information about users
+
+## Pharmers
+
+- Intercept requests sent from a computer to a legitimate website to redirect the user to a fake site to steal personal information
+- The stolen data can then be used for unauthorised access to even more of the victim's data
+- harder to detect than phishing as the fake website uses the same address as the real website
+
+## Phishing
+
+- Impersonating reputable companies using fake emails and websites to steal personal information such as passwords and credit card numbers from users
+- The stolen data can then be used for unauthorised access to even more of the victim's data
+
+## Spamming
+
+- Mass distribution of unwanted messages or junk/advertising mail to emails collected from public mailing lists, company websites etc.
+
+## Malicious software (Malware)
+
+- Software that is intentionally used to damage, disrupt or gain unauthorised access to a computer system
+
+### Spyware
+
+- A hidden program that secretly collects personal information about its users and transmits this information to attackers without the users’ knowledge
+- The collected data can then be used for unauthorised access to even more of the victim's data
+
+### Trojan horse
+
+- A computer program that pretends to be a harmless file or useful application
+- once it is ran, it will do something harmful like giving intruders unauthorised access
+
+### Virus
+
+- A computer program that attaches itself to a normally harmless program and modifies it
+- When the modified program is run by a user, the virus attaches copies of itself to any other programs it can find, thus “infecting” them
+
+### Worm
+
+- A computer program that runs automatically and attempts to spread by sending copies of itself to other computers
+- Unlike a virus, a worm does not need to attach itself to an existing program
+
+# Defensive Measures Against Privacy and Security Threats
+
+## Install anti-spyware and anti-virus software
+
+- detect when malware is about to be run and stop it from running;
+- detect malware that is already running and try to stop it; or
+- scan the user’s storage and email to detect and remove malware; if a program has been infected by a virus, it may also try to restore the original program.
+
+- rely on signatures, which are unique evidence that is used to detect a known version of some malicious software
+
+### anti-spyware
+
+- finds, removes and stops spyware or other malware
+
+### anti-virus
+
+- finds, removes and stops viruses or other malware
+
+## Update software regularly
+
+- prevent bugs that were discovered since the last update from being exploited
+- important for software that is used to interact with public networks such as the Internet, as data from public networks is more likely to be malicious and designed to take advantage of known bugs.
+
+### Identify Phishing
+
+#### Measures to take
+
+- claims to be from a company or a bank and asks for personal data or confidential information
+	- most companies or banks will never ask for such information via email
+	- call company to verify
+
+- uses a generic greeting such as “Dear Customer” or “Dear User”
+	- sign that the email was sent automatically and not by a person.
+
+- inaccurate logos or grammatical and spelling errors
+	- suggests that it is not from a legitimate source.
+
+- seems to come from a fake sender or from an address or contact that does not match the supposed source of the email
+	- Fake senders usually use email accounts from free providers such as Gmail and Yahoo or from sites made up of random letters or common misspellings of legitimate sites.
+
+- contains hyperlinks with destinations that do not match what the hyperlink text says or are otherwise unexpected
+	- check destination of hyperlink by place your mouse cursor over the hyperlink and its destination will usually appear either as a pop-up or on the status bar.
+
+- tone of the email or chat is excessively urgent or threatening
+	- scare tactics are used to make victims act before they can think through their actions properly
+
+- may also promise an offer that seems too good to be true.
+	- tempt victims into revealing their personal information
+
+### Identity Pharming
+
+- attacker will try to intercept requests from a computer to a legitimate website and redirect them to a fake website to steal their personal data
+	- even if the user has keyed in the real address of the website, the attacker can return a fake website to steal their information
+- can only work if attacker has malware that is running on user's computer or has control of a network device such as the user's router or the website's server
+
+#### Measures to take
+
+- Ensure that encryption ![[Unauthorised Access#Encryption]] is used when submitting credit card or other sensitive information via the Internet. Clicking on the padlock icon that appears beside the address bar usually displays more information to verify that the recipient is legitimate and that encryption is working correctly.
+- check bank, debit/credit card and other statements to ensure all transactions are legitimate.
+- update web browsers and the software running on network hardware so that all known bugs are fixed. [[#Update software regularly]]
+- Make sure that ![[Unauthorised Access#Security tokens 2 factor authentication]] is enabled for all bank transactions. This ensures that even if an attacker is able to access the bank account, no unauthorised transactions can take place as the attacker would not be able to provide the required OTP.
+
+### Manage spam
+
+- impossible to avoid entirely
+
+#### Measures to take
+
+- dont give your email to unfamiliar contacts or untrusted websites
+	- if necessary, generate a temporary email that will automatically expire after a short period of time
+	- or set up and use a secondary email address that is dedicated to unimportant emails.
+
+- read and understand ![[Unauthorised Access#Privacy policy]] of any website, trusted or untrusted, that requests an email address before providing it
+	- some websites share email addresses with advertisers who may be guilty of spamming
+	- whether a website will use email addresses like this, is usually communicated in full via the privacy policy.
+
+- options to turn off email updates or participation in mailing lists when signing up for or changing the settings of an online account
+	- options are usually turned on by default and additional effort is needed to turn them off.
+
+- use filter features to block specific senders or to only allow emails from specific senders through
+	- some services might have advanced spam detection algorithms that can be trained by having the user identify examples of spam that the filter is not yet able to detect
+	- lets the filter become more effective in detecting spam over time.
+
+### Manage cookies
+
+![[#Cookies]]
+- not malicious
+	- needed to keep track of authentication information
+
+- undesirable if you want keep your movement on the internet private
+	- browser settings to delete or prevent cookies from being created
+	- can be configured to disable or only allow cookies on certain websites
+
+- read and understand the website's [[Unauthorised Access#Privacy policy]] to see what information is being tracked and how it will be used

@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Data corruption and loss",
-      "path": "Computing+/Chapter 7/Data corruption and loss.md"
+      "basename": "Intellectual property",
+      "path": "Computing+/Chapter 7/Intellectual property.md"
     },
     {
-      "basename": "A. Ethical and Social Issues of Computing",
-      "path": "Computing+/Chapter 7/A. Ethical and Social Issues of Computing.md"
+      "basename": "Threats to privacy and security",
+      "path": "Computing+/Chapter 7/Threats to privacy and security.md"
+    },
+    {
+      "basename": "Unauthorised Access",
+      "path": "Computing+/Chapter 7/Unauthorised Access.md"
+    },
+    {
+      "basename": "Data corruption and loss",
+      "path": "Computing+/Chapter 7/Data corruption and loss.md"
     },
     {
       "basename": "Math",
@@ -15,10 +23,6 @@
     {
       "basename": "sets",
       "path": "Math/E Math/sets.md"
-    },
-    {
-      "basename": "真的不知道",
-      "path": "Computing+/Chapter 7/真的不知道.md"
     },
     {
       "basename": "Converting between number systems",
@@ -195,10 +199,6 @@
     {
       "basename": "20220407_110307",
       "path": "History/20220407_110307.jpg"
-    },
-    {
-      "basename": "20220407_110547",
-      "path": "History/20220407_110547.jpg"
     }
   ],
   "omittedPaths": [],

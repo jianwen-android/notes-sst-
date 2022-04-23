@@ -75,8 +75,54 @@ Prevents identity theft
 	- Retina
 - More secure as physical characteristics measured are typically unique to each user and cannot be easily replicated
 
-## Access control or Authorisation
+# Access control or Authorisation
 
-- Once authenticated, the ability of the computer to control the acces of data and resources is given to the user
-- This is called access control or authorisation
 - Ability of a computer to control a user’s access to data and resources
+- Idea is to only give user control after authentication
+
+## File permissions
+
+- Settings to control the ability of users to view or make changes to the contents of a file or folder
+- can be used together with file permissions
+- Verify that a website’s address starts with “https://” and a padlock icon appears next to its address on a web browser before sending confidential customer data such as credit card information.
+
+### Administrator
+
+- Can override permissions for any file or folder
+
+## Firewall
+
+- Device or computer program that prevents unauthorised access to or from a private network
+	- blocks traffic - Transmission of data over a network
+- can block based on
+	- applications
+		- stop certain harmful programs from sending copies of themselves to other computers through the network
+	- unauthorised senders and/or receivers
+		- prevents intruders from gaining access to the computers within a network
+
+## Encryption
+
+- encoding data so that a secret key is required to read the data
+	- secret key is like password
+- used to protect data from unauthorised access by allowing only authorised users to have the secret key
+
+# Understanding of Privacy policies
+
+## Definitions
+
+### Privacy
+
+- Ability to keep specific data or resources from being known by others
+
+### Privacy policy
+
+- Rules and practices followed by an organisation regarding the collection, protection and use of personal or private data provided by user
+
+## Social Networking Sites
+
+- can pose privacy concerns as most users do not read or consider the repercussions of the privacy policies
+
+- Read and fully understand the privacy policy of the social networking site.
+- Set your sharing settings to “private” so that only people you know in real life can read your posts.
+- Think twice before posting any personal photographs or information that you may feel uncomfortable sharing.
+- Accept friend requests wisely. Make sure you know everyone in your friends list.
