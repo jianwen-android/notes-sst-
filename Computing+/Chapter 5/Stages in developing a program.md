@@ -1,12 +1,15 @@
 # Gather requirements
 
 - find why program is needed
+	- is it necessary?
+	- e.g. conduct interviews
 - find required inputs and outputs
 
 # Plan solutions
 
-- consider options available, plan and lay out a solution
-- use decomposition, pattern recognition and generalisation
+- consider resources available
+- plan and lay out a solution
+- use decomposition, pattern recognition and generalisation (see [[Problem solving techniques]])
 
 # Write code
 
