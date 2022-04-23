@@ -18,14 +18,15 @@
 
 # Effects
 
-- Data corruption occurs when computer data is made unusable by errors or alterations.
-- Happens when reading, writing or transmission of data.
-	- If corrupted data is not needed to read other data, then only the corrupted data is lost
-	- However if corrupted data is related to other data in the computer, then both the corrupted data and its related data may be lost.
-	- e.g. Cell data vs Header data in a table
-- If the corrupted data cannot be recovered or replaced, this also results in data loss.
+- corrupted data is lost
+	- if corrupted data is related to other data in the computer, then both the corrupted data and its related data may be lost
+	- e.g. losing header data means that you will not be able to understand what the cell data means and both are lost
+- if the corrupted data cannot be recovered or replaced, this also results in data loss.
 
 # Causes
+
+- Data corruption occurs when computer data is made unusable by errors or alterations.
+- Happens when reading, writing or transmission of data
 
 ## Human error
 

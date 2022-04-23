@@ -5,6 +5,10 @@
       "path": "Computing+/Chapter 7/Intellectual property.md"
     },
     {
+      "basename": "Impact of technology on Everyday life",
+      "path": "Computing+/Chapter 7/Impact of technology on Everyday life.md"
+    },
+    {
       "basename": "Threats to privacy and security",
       "path": "Computing+/Chapter 7/Threats to privacy and security.md"
     },
@@ -15,6 +19,18 @@
     {
       "basename": "Data corruption and loss",
       "path": "Computing+/Chapter 7/Data corruption and loss.md"
+    },
+    {
+      "basename": "Chapter 7",
+      "path": "Computing+/Chapter 7/Chapter 7.md"
+    },
+    {
+      "basename": "Chapter 4",
+      "path": "Computing+/Chapter 4/Chapter 4.md"
+    },
+    {
+      "basename": "Chapter 5",
+      "path": "Computing+/Chapter 5/Chapter 5.md"
     },
     {
       "basename": "Math",
@@ -45,10 +61,6 @@
       "path": "Computing+/Chapter 4/Data types.md"
     },
     {
-      "basename": "Chapter 4",
-      "path": "Computing+/Chapter 4/Chapter 4.md"
-    },
-    {
       "basename": "Chapter 2",
       "path": "Computing+/Chapter 2/Chapter 2.md"
     },
@@ -75,14 +87,6 @@
     {
       "basename": "IMG-20220422-WA0000",
       "path": "Chinese/IMG-20220422-WA0000.jpg"
-    },
-    {
-      "basename": "Chapter 5",
-      "path": "Computing+/Chapter 5/Chapter 5.md"
-    },
-    {
-      "basename": "Chapter 7",
-      "path": "Computing+/Chapter 7/Chapter 7.md"
     },
     {
       "basename": "Networks",
@@ -195,10 +199,6 @@
     {
       "basename": "20220407_105839",
       "path": "History/20220407_105839.jpg"
-    },
-    {
-      "basename": "20220407_110307",
-      "path": "History/20220407_110307.jpg"
     }
   ],
   "omittedPaths": [],
