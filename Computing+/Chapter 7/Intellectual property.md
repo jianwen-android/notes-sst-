@@ -1,4 +1,4 @@
-Intellectual property
+πIntellectual property
 
 Creations of the mind that have value but can exist purely as data with no physical form
 
