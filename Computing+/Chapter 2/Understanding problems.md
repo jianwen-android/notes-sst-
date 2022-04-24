@@ -8,3 +8,6 @@
 # Output (algorithms)
 
 - Results produced by an algorithm
+
+1.  Include all the important features that the output is required to have
+2.  Any details no mentioned are unimportant or irrelevant

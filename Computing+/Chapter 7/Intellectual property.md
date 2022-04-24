@@ -1,4 +1,4 @@
-# Intellectual property
+# Intellectual property (IP)
 
 - Creations of the mind that have value but can exist purely as data with no physical form
 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computing+/Chapter 5/Common problems and solutions.md",
+            "file": "Computing+/Chapter 2/Understanding problems.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing+/Chapter 5/Common problems and solutions.md",
+                "file": "Computing+/Chapter 2/Understanding problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing+/Chapter 5/Common problems and solutions.md",
+                "file": "Computing+/Chapter 2/Understanding problems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing+/Chapter 5/Common problems and solutions.md"
+                "file": "Computing+/Chapter 2/Understanding problems.md"
               }
             }
           }
@@ -145,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Computing+/Chapter 5/Common problems and solutions.md",
+                "file": "Computing+/Chapter 2/Understanding problems.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -182,15 +182,15 @@
   },
   "active": "0b9cd2106c6cf818",
   "lastOpenFiles": [
+    "Computing+/Chapter 2/Understanding problems.md",
+    "Computing+/Chapter 2/Chapter 2.md",
+    "Computing+/Chapter 7/Intellectual property.md",
     "Computing+/Chapter 5/Common problems and solutions.md",
     "Computing+/Chapter 6/Chapter 6.md",
     "Computing+/Chapter 5/Chapter 5.md",
     "Computing+/Chapter 8/Converting between number systems.md",
     "Computing+/Chapter 8/Applications of number systems.md",
     "Computing+/Chapter 8/Chapter 8.md",
-    "Computing+/Chapter 7/Threats to privacy and security.md",
-    "Computing+/Chapter 7/Intellectual property.md",
-    "Computing+/Chapter 7/Impact of technology on Everyday life.md",
-    "Computing+/Chapter 7/Data corruption and loss.md"
+    "Computing+/Chapter 7/Threats to privacy and security.md"
   ]
 }
