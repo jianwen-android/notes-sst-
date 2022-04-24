@@ -21,10 +21,19 @@ Unique name or sequence of bytes that is used to identify a computer or device i
 - a type of [[#Network address]] that computers use on the internet
 - standard system of rules used by computers on the Internet to communicate with one another
 
+- as time passed, it became clear that IPv4 did not provide enough unique addresses for the rapid growth of the internet and its users
+- IPv6 was developed to solve this problem, providing 2^128 unique IP addresses, enough for the foreseeable future
+-
+
 ### IPv4
 
 - made up of 4 bytes, or 32 bits
 - shown as a sequence of 4 denary digits, seperated by dots
+- zeroes are usually omitted and each digit represents a byte, they can only vary from 0 up to 255
+
+```
+10.133.16.165
+```
 
 ### IPv6
 
@@ -60,11 +69,13 @@ Unique name or sequence of bytes that is used to identify a computer or device i
 
 ## ASCII
 
+- American Standard Code for Information Interchange
 - defines how numbers are used to represent common characters that can be typed using a keyboard
+- represented using exactly 7 bits
 - only has 128 characters, therefore, they can only vary from 00 to 7F in hexadecimal or 0 to 127 in denary
 	- often represented in hexa as it only needs 2 digits compared to 3 in denary and 7 in binary
 
 ## Unicode
 
 - expansion of ASCII
-- can be represented using 8 to 32 bits
+- can be represented using 8 to 32 bits depending on the encoding scheme useds

@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "7.5 Impact of technology on Everyday life",
+      "path": "Computing+/Chapter 7/7.5 Impact of technology on Everyday life.md"
+    },
+    {
+      "basename": "7.4 Intellectual property",
+      "path": "Computing+/Chapter 7/7.4 Intellectual property.md"
+    },
+    {
+      "basename": "7.3 Threats to privacy and security",
+      "path": "Computing+/Chapter 7/7.3 Threats to privacy and security.md"
+    },
+    {
+      "basename": "7.1 Data corruption and loss",
+      "path": "Computing+/Chapter 7/7.1 Data corruption and loss.md"
+    },
+    {
+      "basename": "7.2 Unauthorised Access",
+      "path": "Computing+/Chapter 7/7.2 Unauthorised Access.md"
+    },
+    {
+      "basename": "Chapter 7",
+      "path": "Computing+/Chapter 7/Chapter 7.md"
+    },
+    {
+      "basename": "Chapter 8",
+      "path": "Computing+/Chapter 8/Chapter 8.md"
+    },
+    {
+      "basename": "Chapter 6",
+      "path": "Computing+/Chapter 6/Chapter 6.md"
+    },
+    {
+      "basename": "Applications of number systems",
+      "path": "Computing+/Chapter 8/Applications of number systems.md"
+    },
+    {
+      "basename": "Converting between number systems",
+      "path": "Computing+/Chapter 8/Converting between number systems.md"
+    },
+    {
       "basename": "Compilers & Interpreters",
       "path": "Computing+/Chapter 4/Compilers & Interpreters.md"
     },
@@ -53,42 +93,6 @@
       "path": "Computing+/Chapter 5/Stages in developing a program.md"
     },
     {
-      "basename": "Chapter 6",
-      "path": "Computing+/Chapter 6/Chapter 6.md"
-    },
-    {
-      "basename": "Chapter 7",
-      "path": "Computing+/Chapter 7/Chapter 7.md"
-    },
-    {
-      "basename": "Chapter 8",
-      "path": "Computing+/Chapter 8/Chapter 8.md"
-    },
-    {
-      "basename": "Intellectual property",
-      "path": "Computing+/Chapter 7/Intellectual property.md"
-    },
-    {
-      "basename": "Converting between number systems",
-      "path": "Computing+/Chapter 8/Converting between number systems.md"
-    },
-    {
-      "basename": "Applications of number systems",
-      "path": "Computing+/Chapter 8/Applications of number systems.md"
-    },
-    {
-      "basename": "Threats to privacy and security",
-      "path": "Computing+/Chapter 7/Threats to privacy and security.md"
-    },
-    {
-      "basename": "Impact of technology on Everyday life",
-      "path": "Computing+/Chapter 7/Impact of technology on Everyday life.md"
-    },
-    {
-      "basename": "Data corruption and loss",
-      "path": "Computing+/Chapter 7/Data corruption and loss.md"
-    },
-    {
       "basename": "Revision Checklist",
       "path": "Computing+/Revision Checklist.md"
     },
@@ -103,10 +107,6 @@
     {
       "basename": "Chapter 11",
       "path": "Computing+/Chapter 11/Chapter 11.md"
-    },
-    {
-      "basename": "Unauthorised Access",
-      "path": "Computing+/Chapter 7/Unauthorised Access.md"
     },
     {
       "basename": "Test cases",
