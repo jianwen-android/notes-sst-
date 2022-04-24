@@ -1,6 +1,6 @@
-πIntellectual property
+# Intellectual property
 
-Creations of the mind that have value but can exist purely as data with no physical form
+- Creations of the mind that have value but can exist purely as data with no physical form
 
 # Types of software licenses
 
@@ -14,7 +14,72 @@ Creations of the mind that have value but can exist purely as data with no physi
 ## Free and Open source
 
 - software where users are given freedom to change, copy, study and share the software
-- same rights as [[#Public domain]] but
-- still protected under copyright
+- same usage as [[#Public domain]] like being able to copy, modify and distribute
+- but still protected under copyright
 	- copyright owners may use this protection to require that the software must always be distributed with source code, that attribution to the original authors must always be provided or that any modifications must use a similar licence if they are also distributed
-- 
+
+### Creative Commons (CC)
+
+- licnese for other kinds of copyrighted works
+	- e.g. books, photographs and music
+- similar to FOSS licenses in granting users freedom to …
+- not designed for software but can be used for licensing content that is delivered using software
+
+## Proprietary software
+
+- commercial software for which most of the legal protections under copyright are retained
+- usually not legal to copy, modify or distribute
+- terms and conditions for the usage of these kinds of softwares are in End User License Agreement (EULA) contract that the user must accept to use the software
+- source code is usually kept secret
+
+## Freeware and shareware
+
+- similar to proprietary software but is available to use at no cost
+- source code for freeware and shareware is usually kept secret and modifying the software is usually illegal
+	- it may be legal to copy and distribute freeware and shareware
+
+### Freeware
+
+- software that is available to use at no cost
+- some of these may include "lite" versions of the full software, allowing users to try a limited version of the software while promoting the full versions
+
+### Shareware
+
+- demonstration software that is distributed for free but for a specific evaluation period only
+
+# Software Piracy
+
+- The crime of copying, distributing and/or using proprietary software illegally
+
+## Definitions
+
+### Crack
+
+- Program that modifies proprietary software so that the software cannot detect that it is being used illegally
+
+## Copyright infringement
+
+- Use or distribution of copyrighted work without the permission of the copyright owner
+- Software privacy is an example copyright infringment
+- can occur to any copyrighted materials, such as text or images on the internet
+- users may commit copyright infringment without even realising it
+1. Check and follow the website’s terms and conditions.
+	1. in the case that content is under a license
+	2. if no notice is present, may need to write to the copyright owners and seek their permission for use of the materials
+2. Limit reproduction of a copyrighted work to 10% (for educational purposes only).
+	1. reproduced work should not be modified and must be properly cited to avoid [[#Plagiarism]]
+3. Consider using public domain material instead
+	1. can be copied without the need to seek permission
+	2. still necessary to acknowledge or cite the authors appropriately to avoid [[#Plagiarism]]
+
+# Plagiarism
+
+- Passing off someone else’s original work as one’s own
+- act of claiming to be the author of a piece of work without providing proper credit or attribution to the actual author
+- not always illegal, but might still be a punishable offence for things like schoolwork
+- some cases of copyright infringement are also plagiarism
+
+## Citation
+
+- Statement to acknowledge and provide credit to the author(s) of reproduced materials in published books and articles
+- used to give original authors credit and avoid plagiarism

@@ -1,10 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "Progress",
-      "path": "Progress.md"
-    },
-    {
       "basename": "Intellectual property",
       "path": "Computing+/Chapter 7/Intellectual property.md"
     },
@@ -13,12 +9,16 @@
       "path": "Computing+/Chapter 7/Impact of technology on Everyday life.md"
     },
     {
+      "basename": "Unauthorised Access",
+      "path": "Computing+/Chapter 7/Unauthorised Access.md"
+    },
+    {
       "basename": "Threats to privacy and security",
       "path": "Computing+/Chapter 7/Threats to privacy and security.md"
     },
     {
-      "basename": "Unauthorised Access",
-      "path": "Computing+/Chapter 7/Unauthorised Access.md"
+      "basename": "Progress",
+      "path": "Progress.md"
     },
     {
       "basename": "Data corruption and loss",
@@ -195,10 +195,6 @@
     {
       "basename": "English",
       "path": "English/English.md"
-    },
-    {
-      "basename": "20220407_105839",
-      "path": "History/20220407_105839.jpg"
     }
   ],
   "omittedPaths": [],
