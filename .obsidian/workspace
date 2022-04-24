@@ -4,24 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c9126429e403564d",
+        "id": "828fcfe332051aaa",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computing+/Chapter 7/7.3 Threats to privacy and security.md",
+            "file": "Computing+/Chapter 11/Chapter 11.md",
             "mode": "source",
             "backlinks": true,
             "source": false
           }
-        }
-      },
-      {
-        "id": "828fcfe332051aaa",
-        "type": "leaf",
-        "state": {
-          "type": "mindmap",
-          "state": {}
         }
       }
     ],
@@ -87,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing+/Chapter 7/7.3 Threats to privacy and security.md",
+                "file": "Computing+/Chapter 11/Chapter 11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing+/Chapter 7/7.3 Threats to privacy and security.md",
+                "file": "Computing+/Chapter 11/Chapter 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing+/Chapter 7/7.3 Threats to privacy and security.md"
+                "file": "Computing+/Chapter 11/Chapter 11.md"
               }
             }
           }
@@ -153,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Computing+/Chapter 7/7.3 Threats to privacy and security.md",
+                "file": "Computing+/Chapter 11/Chapter 11.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -176,7 +168,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 0.9832475302420374,
                   "close": true
                 }
               }
@@ -188,17 +180,17 @@
     "direction": "horizontal",
     "width": 479.0001220703125
   },
-  "active": "c9126429e403564d",
+  "active": "828fcfe332051aaa",
   "lastOpenFiles": [
-    "Computing+/Chapter 7/7.3 Threats to privacy and security.md",
-    "Computing+/Chapter 7/7.2 Unauthorised Access.md",
-    "Computing+/Chapter 7/7.1 Data corruption and loss.md",
+    "Computing+/Chapter 11/Chapter 11.md",
     "Computing+/Chapter 7/Chapter 7.md",
+    "Computing+/Chapter 8/Chapter 8.md",
+    "Computing+/Chapter 8/7.2 Converting between number systems.md",
+    "Computing+/Chapter 8/8.4 Applications of number systems.md",
+    "Computing+/Chapter 6/Chapter 6.md",
+    "Computing+/Chapter 6/6.1 Validating input data.md",
     "Computing+/Chapter 5/Chapter 5.md",
-    "Computing+/Chapter 5/Common problems and solutions.md",
-    "Computing+/Chapter 5/Stages in developing a program.md",
-    "Computing+/Chapter 3/Chapter 3.md",
     "Computing+/Chapter 4/Chapter 4.md",
-    "Computing+/Chapter 6/Chapter 6.md"
+    "Computing+/Chapter 3/Chapter 3.md"
   ]
 }

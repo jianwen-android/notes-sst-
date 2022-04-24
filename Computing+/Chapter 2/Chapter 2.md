@@ -2,7 +2,7 @@
 
 %% Begin Waypoint %%
 - **[[Chapter 2]]**
-	- [[Problem solving techniques]]
-	- [[Understanding problems]]
+	- [[2.2 Understanding problems]]
+	- [[2.3 Problem solving techniques]]
 
 %% End Waypoint %%

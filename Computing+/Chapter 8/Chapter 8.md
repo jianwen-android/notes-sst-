@@ -2,7 +2,6 @@
 
 %% Begin Waypoint %%
 - **[[Chapter 8]]**
-	- [[Applications of number systems]]
-	- [[Converting between number systems]]
+	- [[8.4 Applications of number systems]]
 
 %% End Waypoint %%

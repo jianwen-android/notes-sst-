@@ -2,7 +2,7 @@
 
 %% Begin Waypoint %%
 - **[[Chapter 5]]**
-	- [[Common problems and solutions]]
-	- [[Stages in developing a program]]
+	- [[5.1 Stages in developing a program]]
+	- [[5.4 Common problems and solutions]]
 
 %% End Waypoint %%
