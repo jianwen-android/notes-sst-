@@ -1,8 +1,16 @@
+# Crash
+
+- sudden stop of program due to an error
+
+# Hang
+
+- unresponsiveness of a program due to an error
+
 # Types of validation
 
 ## Presence check
 
-- check if input is **empty or not** ^2e7f41
+- check if input is **empty or not**
 - typically compares to None or empty string: ""
 
 ## Length check

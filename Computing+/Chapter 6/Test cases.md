@@ -24,17 +24,17 @@
 
 ## Normal condition
 
-- situations where the **input data is what we would expect to be provided with during normal use of the program** ^f663e3
+- situations where the **input data is what we would expect to be provided with during normal use of the program**
 - input data follows what is expected during normal use
 
 ## Boundary condition
 
-- situations where the **input data is at the limit of what the program is designed for**, or where special handling of the input data is required ^fa9133
+- situations where the **input data is at the limit of what the program is designed for**, or where special handling of the input data is required
 - input data is at the limit of what the program is designed to cope with or where special handling is required
 
 ## Error condition
 
-- situations where the **input data would normally be rejected by the program** ^a15186
+- situations where the **input data would normally be rejected by the program**
 - input data ~~would normally be rejected by the program~~
 - necessary because *programs that do not reject invalid input may end up performing unintended or even harmful actions*
 
