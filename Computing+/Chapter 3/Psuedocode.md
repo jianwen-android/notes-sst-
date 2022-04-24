@@ -21,6 +21,8 @@ IF condition THEN
 	action
 ELSE IF condition THEN
 	action
+ELSE
+	action
 ENDIF
 ```
 

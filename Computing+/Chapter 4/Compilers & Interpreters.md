@@ -6,12 +6,12 @@
 ## Advantages
 
 - The resulting program runs at a faster speed because all the translation has been done beforehand
-- The compiler is not needed to run the program after compilation is complete
+- **The compiler is not needed to run the program after compilation is complete**
 - Syntax errors are detected before the program is even run
 
 ## Disadvantages
 
-- Any changes to the source code require recompilation before taking effect
+- **Any changes to the source code require recompilation before taking effect**
 - Compilers usually do not offer an interactive mode
 
 # Interpreters
@@ -21,11 +21,11 @@
 
 ## Advantages
 
-- Changes to the source code take effect immediately
+- **Changes to the source code take effect immediately**
 - Interpreters usually offer an interactive mode, which facilitates learning and experimentation
 
 ## Disadvantages
 
 - The resulting program runs at a slower speed because translation occurs while the program is running
-- The interpreter needs to be run every time the program is started
+- **The interpreter needs to be run every time the program is started**
 - Syntax errors may interrupt the running of a program
