@@ -55,10 +55,36 @@
   "editor:open-search-replace": [
     {
       "modifiers": [
+        "Mod"
+      ],
+      "key": "F"
+    }
+  ],
+  "obsidian-text-format:text-format-remove-blank-line": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "\\"
+    }
+  ],
+  "obsidian-text-format:text-format-remove-spaces": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "\\"
+    }
+  ],
+  "global-search:open": [
+    {
+      "modifiers": [
         "Mod",
         "Shift"
       ],
       "key": "F"
     }
-  ]
+  ],
+  "editor:open-search": []
 }

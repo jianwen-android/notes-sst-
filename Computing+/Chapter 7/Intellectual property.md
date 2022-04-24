@@ -63,6 +63,9 @@
 - Software privacy is an example copyright infringment
 - can occur to any copyrighted materials, such as text or images on the internet
 - users may commit copyright infringment without even realising it
+
+### Measures
+
 1. Check and follow the website’s terms and conditions.
 	1. in the case that content is under a license
 	2. if no notice is present, may need to write to the copyright owners and seek their permission for use of the materials

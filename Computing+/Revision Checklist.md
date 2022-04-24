@@ -2,8 +2,9 @@
 
 1. Explaining of problem solving techniques not required (?)
 2. Half of Chapter 4 is focused on Python programming (tested but trivial in theory paper)
-3. Chapter 9 is solely on logic gates (no explaining so everything has already been covered by Electronics)
-4.
+3. Explaning of symbols or psuedocode syntax is not required
+	1. Note that they can still ask you what a flowchart or psuedocode is supposed to do
+4. Chapter 9 is solely on logic gates (no explaining so everything has already been covered by Electronics)
 
 # Common Test
 

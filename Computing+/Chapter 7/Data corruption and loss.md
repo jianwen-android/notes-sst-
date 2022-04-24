@@ -25,12 +25,10 @@
 
 # Causes
 
-- Data corruption occurs when computer data is made unusable by errors or alterations.
-- Happens when reading, writing or transmission of data
+- occurs when computer data is made unusable by errors or alterations.
+- happens when reading, writing or transmission of data
 
 ## Human error
-
-### Explanation
 
  - Storage device may be accidentally damaged during transport
  - Multiple users working on the same file may accidentally overwrite each other's data
@@ -43,8 +41,6 @@
 
 ## Power failure
 
-### Explanation
-
 - If the power supply to a computer fails, data that is in the process of being written to a storage device may become corrupted and data that is stored in volatile memory but not yet written to a storage device will be lost.
 
 ### Preventative measures
@@ -54,8 +50,6 @@
 
 ## Hardware failure or damage
 
-### Explanation
-
 • All magnetic, optical and solid-state storage devices can fail, either due to overuse, manufacturing defects or age.
 
 ### Preventative measures
@@ -64,8 +58,6 @@
 -   Check storage devices regularly and replace them immediately when signs of failure are detected.
 
 ## Malicious software or viruses
-
-### Explanation
 
 • Some malicious software (see section 7.3) may purposely damage and corrupt data as a way of attacking the computer.
 

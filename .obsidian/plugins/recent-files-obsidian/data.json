@@ -1,24 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Intellectual property",
-      "path": "Computing+/Chapter 7/Intellectual property.md"
+      "basename": "Common problems and solutions",
+      "path": "Computing+/Chapter 5/Common problems and solutions.md"
     },
     {
-      "basename": "Impact of technology on Everyday life",
-      "path": "Computing+/Chapter 7/Impact of technology on Everyday life.md"
+      "basename": "Chapter 6",
+      "path": "Computing+/Chapter 6/Chapter 6.md"
     },
     {
-      "basename": "Unauthorised Access",
-      "path": "Computing+/Chapter 7/Unauthorised Access.md"
+      "basename": "Chapter 5",
+      "path": "Computing+/Chapter 5/Chapter 5.md"
+    },
+    {
+      "basename": "Converting between number systems",
+      "path": "Computing+/Chapter 8/Converting between number systems.md"
+    },
+    {
+      "basename": "Applications of number systems",
+      "path": "Computing+/Chapter 8/Applications of number systems.md"
+    },
+    {
+      "basename": "Chapter 8",
+      "path": "Computing+/Chapter 8/Chapter 8.md"
     },
     {
       "basename": "Threats to privacy and security",
       "path": "Computing+/Chapter 7/Threats to privacy and security.md"
     },
     {
-      "basename": "Progress",
-      "path": "Progress.md"
+      "basename": "Intellectual property",
+      "path": "Computing+/Chapter 7/Intellectual property.md"
+    },
+    {
+      "basename": "Impact of technology on Everyday life",
+      "path": "Computing+/Chapter 7/Impact of technology on Everyday life.md"
     },
     {
       "basename": "Data corruption and loss",
@@ -33,36 +49,16 @@
       "path": "Computing+/Chapter 4/Chapter 4.md"
     },
     {
-      "basename": "Chapter 5",
-      "path": "Computing+/Chapter 5/Chapter 5.md"
-    },
-    {
-      "basename": "Math",
-      "path": "Math/Math.md"
-    },
-    {
-      "basename": "sets",
-      "path": "Math/E Math/sets.md"
-    },
-    {
-      "basename": "Converting between number systems",
-      "path": "Computing+/Chapter 8/Converting between number systems.md"
-    },
-    {
-      "basename": "Applications of number systems",
-      "path": "Computing+/Chapter 8/Applications of number systems.md"
-    },
-    {
-      "basename": "Revision Checklist",
-      "path": "Computing+/Revision Checklist.md"
+      "basename": "Data types",
+      "path": "Computing+/Chapter 4/Data types.md"
     },
     {
       "basename": "Compilers & Interpreters",
       "path": "Computing+/Chapter 4/Compilers & Interpreters.md"
     },
     {
-      "basename": "Data types",
-      "path": "Computing+/Chapter 4/Data types.md"
+      "basename": "Revision Checklist",
+      "path": "Computing+/Revision Checklist.md"
     },
     {
       "basename": "Chapter 2",
@@ -73,28 +69,28 @@
       "path": "Computing+/Chapter 2/Problem solving techniques.md"
     },
     {
-      "basename": "Stages in developing a program",
-      "path": "Computing+/Chapter 5/Stages in developing a program.md"
+      "basename": "Understanding problems",
+      "path": "Computing+/Chapter 2/Understanding problems.md"
     },
     {
-      "basename": "Common problems and solutions",
-      "path": "Computing+/Chapter 5/Common problems and solutions.md"
+      "basename": "Computing+",
+      "path": "Computing+/Computing+.md"
     },
     {
-      "basename": "Chapter 3",
-      "path": "Computing+/Chapter 3/Chapter 3.md"
+      "basename": "Discovery Week",
+      "path": "Computing+/Discovery Week/Discovery Week.md"
     },
     {
-      "basename": "IMG-20220422-WA0000",
-      "path": "Chinese/IMG-20220422-WA0000.jpg"
+      "basename": "Chapter 11",
+      "path": "Computing+/Chapter 11/Chapter 11.md"
     },
     {
-      "basename": "Networks",
-      "path": "Computing+/Chapter 11/Networks.md"
+      "basename": "Unauthorised Access",
+      "path": "Computing+/Chapter 7/Unauthorised Access.md"
     },
     {
-      "basename": "Chapter 6",
-      "path": "Computing+/Chapter 6/Chapter 6.md"
+      "basename": "Test cases",
+      "path": "Computing+/Chapter 6/Test cases.md"
     },
     {
       "basename": "Debugging",
@@ -105,12 +101,40 @@
       "path": "Computing+/Chapter 6/Data validation.md"
     },
     {
+      "basename": "Stages in developing a program",
+      "path": "Computing+/Chapter 5/Stages in developing a program.md"
+    },
+    {
+      "basename": "Chapter 3",
+      "path": "Computing+/Chapter 3/Chapter 3.md"
+    },
+    {
       "basename": "Flowchart design",
       "path": "Computing+/Chapter 3/Flowchart design.md"
     },
     {
       "basename": "Psuedocode",
       "path": "Computing+/Chapter 3/Psuedocode.md"
+    },
+    {
+      "basename": "Progress",
+      "path": "Progress.md"
+    },
+    {
+      "basename": "Math",
+      "path": "Math/Math.md"
+    },
+    {
+      "basename": "sets",
+      "path": "Math/E Math/sets.md"
+    },
+    {
+      "basename": "IMG-20220422-WA0000",
+      "path": "Chinese/IMG-20220422-WA0000.jpg"
+    },
+    {
+      "basename": "Networks",
+      "path": "Computing+/Chapter 11/Networks.md"
     },
     {
       "basename": "Terminator",
@@ -127,14 +151,6 @@
     {
       "basename": "Data",
       "path": "Computing+/Chapter 3/Flowchart symbols/Data.md"
-    },
-    {
-      "basename": "Computing+",
-      "path": "Computing+/Computing+.md"
-    },
-    {
-      "basename": "Test cases",
-      "path": "Computing+/Chapter 6/Test cases.md"
     },
     {
       "basename": "Set theory",
@@ -183,18 +199,6 @@
     {
       "basename": "Notes",
       "path": "History/Notes/Notes.md"
-    },
-    {
-      "basename": "Social Studies",
-      "path": "Social Studies/Social Studies.md"
-    },
-    {
-      "basename": "SBQ",
-      "path": "History/SBQ/SBQ.md"
-    },
-    {
-      "basename": "English",
-      "path": "English/English.md"
     }
   ],
   "omittedPaths": [],

@@ -44,7 +44,7 @@ Unique name or sequence of bytes that is used to identify a computer or device i
 - however, consecutive double colons are not allowed
 
 ```
-2001:db8::1::1 //nope
+2001:db8::1::1
 ```
 
 ## Mac Addresses

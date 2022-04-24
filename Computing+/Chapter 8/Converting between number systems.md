@@ -2,4 +2,4 @@
 
 ## Explain
 
-// whatever stuff later
+#TODO things to take note from practice papers

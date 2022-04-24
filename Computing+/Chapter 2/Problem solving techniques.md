@@ -17,8 +17,13 @@ Identifying similarities among two or more items
 
 - identifying patterns among…
 	- 2 or more problems
+		- clues that the solutions to these problems will most likely be similar
+		- if we already know the solution for one problem, we can probably modify that solution to solve other problems that follow a similar pattern.
 	- 2 or more solutions
+		- solutions may come from solving the sub-problems obtained from decomposition, or from solving examples of a more general problem
+		- clues that these solutions can be generalised to produce a single solution that can solve multiple problems.
 	- 2 or more steps in a solution
+		- indicate that the solution can be simplified or shortened using iteration structures
 
 # Generalisation
 
