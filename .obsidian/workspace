@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computing+/Chapter 7/7.2 Unauthorised Access.md",
+            "file": "Computing+/Chapter 2/2.2 Understanding problems.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -20,168 +20,104 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6e3c4ce06d3b70ce",
-    "type": "split",
+    "id": "498a70281970e17a",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "3372ac3f08e52114",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cef37112d307c9ef",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "5089b0fdc5f2ebee",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "firewall",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "cbf447a3a94aaa52",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 324.49999809265137
-  },
-  "right": {
-    "id": "af641243059a20af",
-    "type": "split",
-    "children": [
-      {
-        "id": "252ff0017e2811c0",
-        "type": "tabs",
-        "dimension": 62.14128035320088,
-        "children": [
-          {
-            "id": "59ccb003b77b8e2c",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Computing+/Chapter 7/7.2 Unauthorised Access.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "d2ad76659b5d68a5",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "861b54f5bbd63d1f",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Computing+/Chapter 7/7.2 Unauthorised Access.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "049130f70b6905a4",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "adf4740b1faa064e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Computing+/Chapter 7/7.2 Unauthorised Access.md"
-              }
-            }
-          }
-        ],
-        "currentTab": 4
+        "id": "8d7b2eaf081add9d",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
       },
       {
-        "id": "7433a8e476c2bd6f",
-        "type": "tabs",
-        "dimension": 37.858719646799116,
-        "children": [
-          {
-            "id": "cca31ffb610f1a8d",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Computing+/Chapter 7/7.2 Unauthorised Access.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 5,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
-                  "centerStrength": 0.716346153846154,
-                  "repelStrength": 20,
-                  "linkStrength": 1,
-                  "linkDistance": 79,
-                  "scale": 0.2923186431777524,
-                  "close": true
-                }
-              }
-            }
+        "id": "4f5ede44a20307c7",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "2e09cf91ef1b47f0",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "23b4d00f47b53054",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 479.0001220703125
+    "currentTab": 1
+  },
+  "right": {
+    "id": "a895a9dbb56954a3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f4ae0dbb8db11ff4",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Computing+/Chapter 2/2.2 Understanding problems.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "1ed7ca132fe4fcce",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Computing+/Chapter 2/2.2 Understanding problems.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "f237508caec8a591",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Computing+/Chapter 2/2.2 Understanding problems.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
   },
   "active": "828fcfe332051aaa",
   "lastOpenFiles": [
+    "Computing+/Chapter 2/2.2 Understanding problems.md",
+    "Computing+/Chapter 2/Chapter 2.md",
     "Computing+/Chapter 7/7.2 Unauthorised Access.md",
     "Computing+/Chapter 7/7.4 Intellectual property.md",
     "Computing+/Chapter 7/Chapter 7.md",
@@ -189,8 +125,6 @@
     "Computing+/Chapter 7/7.1 Data corruption and loss.md",
     "Computing+/Computing+.md",
     "Computing+/Chapter 11/Chapter 11.md",
-    "Computing+/Chapter 8/Chapter 8.md",
-    "Computing+/Chapter 8/7.2 Converting between number systems.md",
-    "Computing+/Chapter 8/8.4 Applications of number systems.md"
+    "Computing+/Chapter 8/Chapter 8.md"
   ]
 }
