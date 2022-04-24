@@ -38,4 +38,3 @@
 - input data ~~would normally be rejected by the program~~
 - necessary because *programs that do not reject invalid input may end up performing unintended or even harmful actions*
 
-#TODO are debugging and test cases supposed to be seperate?

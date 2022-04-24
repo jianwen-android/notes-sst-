@@ -1,12 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "7.5 Impact of technology on Everyday life",
-      "path": "Computing+/Chapter 7/7.5 Impact of technology on Everyday life.md"
+      "basename": "Test cases",
+      "path": "Computing+/Chapter 6/Test cases.md"
     },
     {
-      "basename": "7.4 Intellectual property",
-      "path": "Computing+/Chapter 7/7.4 Intellectual property.md"
+      "basename": "Debugging",
+      "path": "Computing+/Chapter 6/Debugging.md"
+    },
+    {
+      "basename": "Data validation",
+      "path": "Computing+/Chapter 6/Data validation.md"
+    },
+    {
+      "basename": "Chapter 6",
+      "path": "Computing+/Chapter 6/Chapter 6.md"
+    },
+    {
+      "basename": "Chapter 4",
+      "path": "Computing+/Chapter 4/Chapter 4.md"
+    },
+    {
+      "basename": "Compilers & Interpreters",
+      "path": "Computing+/Chapter 4/Compilers & Interpreters.md"
+    },
+    {
+      "basename": "Data types",
+      "path": "Computing+/Chapter 4/Data types.md"
+    },
+    {
+      "basename": "Programming languages",
+      "path": "Computing+/Chapter 4/Programming languages.md"
+    },
+    {
+      "basename": "Chapter 3",
+      "path": "Computing+/Chapter 3/Chapter 3.md"
+    },
+    {
+      "basename": "Chapter 5",
+      "path": "Computing+/Chapter 5/Chapter 5.md"
+    },
+    {
+      "basename": "Common problems and solutions",
+      "path": "Computing+/Chapter 5/Common problems and solutions.md"
+    },
+    {
+      "basename": "Stages in developing a program",
+      "path": "Computing+/Chapter 5/Stages in developing a program.md"
+    },
+    {
+      "basename": "Chapter 7",
+      "path": "Computing+/Chapter 7/Chapter 7.md"
     },
     {
       "basename": "7.3 Threats to privacy and security",
@@ -21,16 +65,28 @@
       "path": "Computing+/Chapter 7/7.2 Unauthorised Access.md"
     },
     {
-      "basename": "Chapter 7",
-      "path": "Computing+/Chapter 7/Chapter 7.md"
+      "basename": "7.5 Impact of technology on Everyday life",
+      "path": "Computing+/Chapter 7/7.5 Impact of technology on Everyday life.md"
+    },
+    {
+      "basename": "7.4 Intellectual property",
+      "path": "Computing+/Chapter 7/7.4 Intellectual property.md"
+    },
+    {
+      "basename": "Problem solving techniques",
+      "path": "Computing+/Chapter 2/Problem solving techniques.md"
+    },
+    {
+      "basename": "Chapter 2",
+      "path": "Computing+/Chapter 2/Chapter 2.md"
+    },
+    {
+      "basename": "Computing+",
+      "path": "Computing+/Computing+.md"
     },
     {
       "basename": "Chapter 8",
       "path": "Computing+/Chapter 8/Chapter 8.md"
-    },
-    {
-      "basename": "Chapter 6",
-      "path": "Computing+/Chapter 6/Chapter 6.md"
     },
     {
       "basename": "Applications of number systems",
@@ -41,24 +97,8 @@
       "path": "Computing+/Chapter 8/Converting between number systems.md"
     },
     {
-      "basename": "Compilers & Interpreters",
-      "path": "Computing+/Chapter 4/Compilers & Interpreters.md"
-    },
-    {
-      "basename": "Chapter 2",
-      "path": "Computing+/Chapter 2/Chapter 2.md"
-    },
-    {
       "basename": "Understanding problems",
       "path": "Computing+/Chapter 2/Understanding problems.md"
-    },
-    {
-      "basename": "Problem solving techniques",
-      "path": "Computing+/Chapter 2/Problem solving techniques.md"
-    },
-    {
-      "basename": "Chapter 3",
-      "path": "Computing+/Chapter 3/Chapter 3.md"
     },
     {
       "basename": "Flowchart design",
@@ -69,36 +109,8 @@
       "path": "Computing+/Chapter 3/Psuedocode.md"
     },
     {
-      "basename": "Programming languages",
-      "path": "Computing+/Chapter 4/Programming languages.md"
-    },
-    {
-      "basename": "Common problems and solutions",
-      "path": "Computing+/Chapter 5/Common problems and solutions.md"
-    },
-    {
-      "basename": "Chapter 5",
-      "path": "Computing+/Chapter 5/Chapter 5.md"
-    },
-    {
-      "basename": "Data types",
-      "path": "Computing+/Chapter 4/Data types.md"
-    },
-    {
-      "basename": "Chapter 4",
-      "path": "Computing+/Chapter 4/Chapter 4.md"
-    },
-    {
-      "basename": "Stages in developing a program",
-      "path": "Computing+/Chapter 5/Stages in developing a program.md"
-    },
-    {
       "basename": "Revision Checklist",
       "path": "Computing+/Revision Checklist.md"
-    },
-    {
-      "basename": "Computing+",
-      "path": "Computing+/Computing+.md"
     },
     {
       "basename": "Discovery Week",
@@ -107,18 +119,6 @@
     {
       "basename": "Chapter 11",
       "path": "Computing+/Chapter 11/Chapter 11.md"
-    },
-    {
-      "basename": "Test cases",
-      "path": "Computing+/Chapter 6/Test cases.md"
-    },
-    {
-      "basename": "Debugging",
-      "path": "Computing+/Chapter 6/Debugging.md"
-    },
-    {
-      "basename": "Data validation",
-      "path": "Computing+/Chapter 6/Data validation.md"
     },
     {
       "basename": "Progress",

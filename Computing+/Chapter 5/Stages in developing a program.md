@@ -37,3 +37,5 @@ Process by which defects in a program can be detected
 
 - "rolled out" and used by its intended audience
 - e.g. transitioning old program to new one, teaching users how to use program
+
+- can further test and refine code from feedback from the users right
