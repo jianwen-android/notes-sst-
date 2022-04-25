@@ -31,8 +31,8 @@ ENDIF
 ### For loops
 
 ```
-FOR variable to condition //count 1 to 5, can be used without prior declaration
-	action
+FOR count 1 to n
+    action
 NEXT variable //to increment count
 ```
 

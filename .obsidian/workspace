@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computing+/Chapter 2/2.2 Understanding problems.md",
-            "mode": "source",
+            "file": "Computing+/Chapter 7/7.2 Unauthorised Access.md",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -78,7 +78,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Computing+/Chapter 2/2.2 Understanding problems.md",
+            "file": "Computing+/Chapter 7/7.2 Unauthorised Access.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Computing+/Chapter 2/2.2 Understanding problems.md",
+            "file": "Computing+/Chapter 7/7.2 Unauthorised Access.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +107,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Computing+/Chapter 2/2.2 Understanding problems.md"
+            "file": "Computing+/Chapter 7/7.2 Unauthorised Access.md"
           }
         }
       }
@@ -116,15 +116,15 @@
   },
   "active": "828fcfe332051aaa",
   "lastOpenFiles": [
-    "Computing+/Chapter 2/2.2 Understanding problems.md",
-    "Computing+/Chapter 2/Chapter 2.md",
     "Computing+/Chapter 7/7.2 Unauthorised Access.md",
-    "Computing+/Chapter 7/7.4 Intellectual property.md",
-    "Computing+/Chapter 7/Chapter 7.md",
-    "Computing+/Chapter 6/Chapter 6.md",
     "Computing+/Chapter 7/7.1 Data corruption and loss.md",
-    "Computing+/Computing+.md",
-    "Computing+/Chapter 11/Chapter 11.md",
-    "Computing+/Chapter 8/Chapter 8.md"
+    "Computing+/Chapter 7/Chapter 7.md",
+    "Computing+/Chapter 6/6.3 Debugging program errors.md",
+    "Computing+/Chapter 6/6.2 Designing test cases.md",
+    "Computing+/Chapter 6/6.1 Validating input data.md",
+    "Computing+/Chapter 4/4.2 Programming languages.md",
+    "Computing+/Chapter 5/Chapter 5.md",
+    "Computing+/Chapter 2/2.2 Understanding problems.md",
+    "Computing+/Chapter 4/4.5 Data types.md"
   ]
 }
