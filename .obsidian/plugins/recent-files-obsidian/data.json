@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Practical",
-      "path": "Physics/Practical.md"
+      "basename": "Experiment",
+      "path": "Physics/Practical/Experiment.md"
+    },
+    {
+      "basename": "Planning",
+      "path": "Physics/Practical/Planning.md"
+    },
+    {
+      "basename": "Things to note",
+      "path": "Physics/Practical/Things to note.md"
     },
     {
       "basename": "Chapter 7",
@@ -191,10 +199,6 @@
     {
       "basename": "Early Axis successes",
       "path": "History/Notes/WWII (Part 2)/Early Axis successes.md"
-    },
-    {
-      "basename": "WWII (Part 2)",
-      "path": "History/Notes/WWII (Part 2)/WWII (Part 2).md"
     }
   ],
   "omittedPaths": [],
