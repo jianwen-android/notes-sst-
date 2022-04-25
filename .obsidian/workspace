@@ -9,11 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computing+/Chapter 7/7.2 Unauthorised Access.md",
+            "file": "Computing+/Chapter 7/7.5 Impact of technology on Everyday life.md",
             "mode": "preview",
             "backlinks": true,
             "source": false
           }
+        }
+      },
+      {
+        "id": "02e8f9966b00df78",
+        "type": "leaf",
+        "state": {
+          "type": "mindmap",
+          "state": {}
         }
       }
     ],
@@ -78,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Computing+/Chapter 7/7.2 Unauthorised Access.md",
+            "file": "Computing+/Chapter 7/7.5 Impact of technology on Everyday life.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -95,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Computing+/Chapter 7/7.2 Unauthorised Access.md",
+            "file": "Computing+/Chapter 7/7.5 Impact of technology on Everyday life.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,24 +115,23 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Computing+/Chapter 7/7.2 Unauthorised Access.md"
+            "file": "Computing+/Chapter 7/7.5 Impact of technology on Everyday life.md"
           }
         }
       }
-    ],
-    "currentTab": 0
+    ]
   },
   "active": "828fcfe332051aaa",
   "lastOpenFiles": [
+    "Computing+/Chapter 7/7.5 Impact of technology on Everyday life.md",
+    "Computing+/Chapter 7/7.4 Intellectual property.md",
+    "Computing+/Chapter 7/7.3 Threats to privacy and security.md",
     "Computing+/Chapter 7/7.2 Unauthorised Access.md",
     "Computing+/Chapter 7/7.1 Data corruption and loss.md",
     "Computing+/Chapter 7/Chapter 7.md",
     "Computing+/Chapter 6/6.3 Debugging program errors.md",
     "Computing+/Chapter 6/6.2 Designing test cases.md",
     "Computing+/Chapter 6/6.1 Validating input data.md",
-    "Computing+/Chapter 4/4.2 Programming languages.md",
-    "Computing+/Chapter 5/Chapter 5.md",
-    "Computing+/Chapter 2/2.2 Understanding problems.md",
-    "Computing+/Chapter 4/4.5 Data types.md"
+    "Computing+/Chapter 4/4.2 Programming languages.md"
   ]
 }
