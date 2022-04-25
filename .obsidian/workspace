@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "02e8f9966b00df78",
+        "id": "828fcfe332051aaa",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -20,23 +20,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9425e728d385fd3d",
+    "id": "6e3c4ce06d3b70ce",
     "type": "split",
     "children": [
       {
-        "id": "aabe2057b955bfb8",
+        "id": "3372ac3f08e52114",
         "type": "tabs",
         "children": [
           {
-            "id": "91045df7a33c5bc0",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          },
-          {
-            "id": "1e654692a84dfd0d",
+            "id": "cef37112d307c9ef",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,12 +36,12 @@
             }
           },
           {
-            "id": "52a8e8b8624fc1ad",
+            "id": "5089b0fdc5f2ebee",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "firewall",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,24 +49,32 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "cbf447a3a94aaa52",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 324.49999809265137
   },
   "right": {
-    "id": "db09af21c4831091",
+    "id": "af641243059a20af",
     "type": "split",
     "children": [
       {
-        "id": "7860c40b4689614f",
+        "id": "252ff0017e2811c0",
         "type": "tabs",
+        "dimension": 62.14128035320087,
         "children": [
           {
-            "id": "068d9e57392813f0",
+            "id": "59ccb003b77b8e2c",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -91,7 +91,18 @@
             }
           },
           {
-            "id": "62364c08e1a068ac",
+            "id": "d2ad76659b5d68a5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "861b54f5bbd63d1f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -103,18 +114,15 @@
             }
           },
           {
-            "id": "0f6289903f41ba14",
+            "id": "049130f70b6905a4",
             "type": "leaf",
             "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           },
           {
-            "id": "35027e4c6af9a43b",
+            "id": "adf4740b1faa064e",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -124,23 +132,65 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
+      },
+      {
+        "id": "7433a8e476c2bd6f",
+        "type": "tabs",
+        "dimension": 37.858719646799116,
+        "children": [
+          {
+            "id": "cca31ffb610f1a8d",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Physics/Practical.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 5,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.716346153846154,
+                  "repelStrength": 20,
+                  "linkStrength": 1,
+                  "linkDistance": 79,
+                  "scale": 0.2923186431777524,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 479.0001220703125
   },
-  "active": "02e8f9966b00df78",
+  "active": "828fcfe332051aaa",
   "lastOpenFiles": [
     "Physics/Practical.md",
-    "Computing+/Computing+.md",
-    "Computing+/Revision Checklist.md",
-    "Computing+/Chapter 5/Chapter 5.md",
-    "Computing+/Chapter 6/Chapter 6.md",
-    "Computing+/Chapter 8/8.4 Applications of number systems.md",
-    "Computing+/Chapter 8/Chapter 8.md",
     "Computing+/Chapter 7/Chapter 7.md",
+    "Computing+/Chapter 7/7.2 Unauthorised Access.md",
+    "Computing+/Chapter 7/7.4 Intellectual property.md",
+    "Computing+/Chapter 6/Chapter 6.md",
+    "Computing+/Chapter 7/7.1 Data corruption and loss.md",
+    "Computing+/Computing+.md",
     "Computing+/Chapter 11/Chapter 11.md",
-    "History/History.md"
+    "Computing+/Chapter 8/Chapter 8.md",
+    "Computing+/Chapter 8/7.2 Converting between number systems.md"
   ]
 }

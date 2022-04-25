@@ -5,112 +5,68 @@
       "path": "Physics/Practical.md"
     },
     {
-      "basename": "Computing+",
-      "path": "Computing+/Computing+.md"
-    },
-    {
-      "basename": "Revision Checklist",
-      "path": "Computing+/Revision Checklist.md"
-    },
-    {
-      "basename": "Chapter 5",
-      "path": "Computing+/Chapter 5/Chapter 5.md"
-    },
-    {
-      "basename": "Chapter 6",
-      "path": "Computing+/Chapter 6/Chapter 6.md"
-    },
-    {
-      "basename": "8.4 Applications of number systems",
-      "path": "Computing+/Chapter 8/8.4 Applications of number systems.md"
-    },
-    {
-      "basename": "Chapter 8",
-      "path": "Computing+/Chapter 8/Chapter 8.md"
-    },
-    {
       "basename": "Chapter 7",
       "path": "Computing+/Chapter 7/Chapter 7.md"
-    },
-    {
-      "basename": "Chapter 11",
-      "path": "Computing+/Chapter 11/Chapter 11.md"
-    },
-    {
-      "basename": "History",
-      "path": "History/History.md"
-    },
-    {
-      "basename": "7.5 Impact of technology on Everyday life",
-      "path": "Computing+/Chapter 7/7.5 Impact of technology on Everyday life.md"
-    },
-    {
-      "basename": "7.4 Intellectual property",
-      "path": "Computing+/Chapter 7/7.4 Intellectual property.md"
-    },
-    {
-      "basename": "7.3 Threats to privacy and security",
-      "path": "Computing+/Chapter 7/7.3 Threats to privacy and security.md"
     },
     {
       "basename": "7.2 Unauthorised Access",
       "path": "Computing+/Chapter 7/7.2 Unauthorised Access.md"
     },
     {
+      "basename": "7.4 Intellectual property",
+      "path": "Computing+/Chapter 7/7.4 Intellectual property.md"
+    },
+    {
+      "basename": "Chapter 6",
+      "path": "Computing+/Chapter 6/Chapter 6.md"
+    },
+    {
       "basename": "7.1 Data corruption and loss",
       "path": "Computing+/Chapter 7/7.1 Data corruption and loss.md"
     },
     {
-      "basename": "6.3 Debugging program errors",
-      "path": "Computing+/Chapter 6/6.3 Debugging program errors.md"
+      "basename": "Computing+",
+      "path": "Computing+/Computing+.md"
     },
     {
-      "basename": "6.2 Designing test cases",
-      "path": "Computing+/Chapter 6/6.2 Designing test cases.md"
+      "basename": "Chapter 11",
+      "path": "Computing+/Chapter 11/Chapter 11.md"
+    },
+    {
+      "basename": "Chapter 8",
+      "path": "Computing+/Chapter 8/Chapter 8.md"
+    },
+    {
+      "basename": "8.4 Applications of number systems",
+      "path": "Computing+/Chapter 8/8.4 Applications of number systems.md"
     },
     {
       "basename": "6.1 Validating input data",
       "path": "Computing+/Chapter 6/6.1 Validating input data.md"
     },
     {
-      "basename": "4.2 Programming languages",
-      "path": "Computing+/Chapter 4/4.2 Programming languages.md"
-    },
-    {
-      "basename": "2.2 Understanding problems",
-      "path": "Computing+/Chapter 2/2.2 Understanding problems.md"
-    },
-    {
-      "basename": "4.5 Data types",
-      "path": "Computing+/Chapter 4/4.5 Data types.md"
-    },
-    {
-      "basename": "4.3 Compilers & Interpreters",
-      "path": "Computing+/Chapter 4/4.3 Compilers & Interpreters.md"
+      "basename": "Chapter 5",
+      "path": "Computing+/Chapter 5/Chapter 5.md"
     },
     {
       "basename": "Chapter 4",
       "path": "Computing+/Chapter 4/Chapter 4.md"
     },
     {
-      "basename": "Psuedocode",
-      "path": "Computing+/Chapter 3/Psuedocode.md"
-    },
-    {
-      "basename": "Flowchart design",
-      "path": "Computing+/Chapter 3/Flowchart design.md"
-    },
-    {
-      "basename": "2.3 Problem solving techniques",
-      "path": "Computing+/Chapter 2/2.3 Problem solving techniques.md"
+      "basename": "Chapter 3",
+      "path": "Computing+/Chapter 3/Chapter 3.md"
     },
     {
       "basename": "Chapter 2",
       "path": "Computing+/Chapter 2/Chapter 2.md"
     },
     {
-      "basename": "Chapter 3",
-      "path": "Computing+/Chapter 3/Chapter 3.md"
+      "basename": "4.2 Programming languages",
+      "path": "Computing+/Chapter 4/4.2 Programming languages.md"
+    },
+    {
+      "basename": "4.5 Data types",
+      "path": "Computing+/Chapter 4/4.5 Data types.md"
     },
     {
       "basename": "5.1 Stages in developing a program",
@@ -119,6 +75,46 @@
     {
       "basename": "5.4 Common problems and solutions",
       "path": "Computing+/Chapter 5/5.4 Common problems and solutions.md"
+    },
+    {
+      "basename": "6.2 Designing test cases",
+      "path": "Computing+/Chapter 6/6.2 Designing test cases.md"
+    },
+    {
+      "basename": "6.3 Debugging program errors",
+      "path": "Computing+/Chapter 6/6.3 Debugging program errors.md"
+    },
+    {
+      "basename": "7.3 Threats to privacy and security",
+      "path": "Computing+/Chapter 7/7.3 Threats to privacy and security.md"
+    },
+    {
+      "basename": "4.3 Compilers & Interpreters",
+      "path": "Computing+/Chapter 4/4.3 Compilers & Interpreters.md"
+    },
+    {
+      "basename": "7.5 Impact of technology on Everyday life",
+      "path": "Computing+/Chapter 7/7.5 Impact of technology on Everyday life.md"
+    },
+    {
+      "basename": "2.3 Problem solving techniques",
+      "path": "Computing+/Chapter 2/2.3 Problem solving techniques.md"
+    },
+    {
+      "basename": "2.2 Understanding problems",
+      "path": "Computing+/Chapter 2/2.2 Understanding problems.md"
+    },
+    {
+      "basename": "Flowchart design",
+      "path": "Computing+/Chapter 3/Flowchart design.md"
+    },
+    {
+      "basename": "Psuedocode",
+      "path": "Computing+/Chapter 3/Psuedocode.md"
+    },
+    {
+      "basename": "Revision Checklist",
+      "path": "Computing+/Revision Checklist.md"
     },
     {
       "basename": "Discovery Week",
@@ -175,6 +171,10 @@
     {
       "basename": "Integration",
       "path": "Math/A Math/Integration.md"
+    },
+    {
+      "basename": "History",
+      "path": "History/History.md"
     },
     {
       "basename": "Japan's Defeat",
