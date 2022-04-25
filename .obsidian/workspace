@@ -20,165 +20,99 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6e3c4ce06d3b70ce",
-    "type": "split",
+    "id": "1fbf660400582692",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "3372ac3f08e52114",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cef37112d307c9ef",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "5089b0fdc5f2ebee",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "firewall",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "cbf447a3a94aaa52",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 324.49999809265137
-  },
-  "right": {
-    "id": "af641243059a20af",
-    "type": "split",
-    "children": [
-      {
-        "id": "252ff0017e2811c0",
-        "type": "tabs",
-        "dimension": 62.14128035320087,
-        "children": [
-          {
-            "id": "59ccb003b77b8e2c",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Physics/Practical/Experiment.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "d2ad76659b5d68a5",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "861b54f5bbd63d1f",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Physics/Practical/Experiment.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "049130f70b6905a4",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "adf4740b1faa064e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Physics/Practical/Experiment.md"
-              }
-            }
-          }
-        ],
-        "currentTab": 4
+        "id": "c9328e3e96977a79",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
       },
       {
-        "id": "7433a8e476c2bd6f",
-        "type": "tabs",
-        "dimension": 37.858719646799116,
-        "children": [
-          {
-            "id": "cca31ffb610f1a8d",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Physics/Practical/Experiment.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 5,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
-                  "centerStrength": 0.716346153846154,
-                  "repelStrength": 20,
-                  "linkStrength": 1,
-                  "linkDistance": 79,
-                  "scale": 0.2923186431777524,
-                  "close": true
-                }
-              }
-            }
+        "id": "36f276355e4ae506",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "789d502825b4751c",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "718c77e42e7372b0",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 311.0000915527344
+    "currentTab": 1
+  },
+  "right": {
+    "id": "30f65023beb17efb",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7ed5f742a4845a10",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Physics/Practical/Experiment.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "2bbc73908fc1bfda",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Physics/Practical/Experiment.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "f44055a8c930134e",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Physics/Practical/Experiment.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
   },
   "active": "828fcfe332051aaa",
   "lastOpenFiles": [
