@@ -2,43 +2,41 @@
 
 ## Parallax error
 
-## Human error
+## Human reaction time error
 
-- **MUST BE SPECIFIC IN WHAT IS THE HUMAN ERROR**
-- e.g. Human reaction time errror
-	- Due to human reaction time, the results obtained from the experiment will have some inaccuracies
-- if there is a stopwatch involved you could talk about reaction time in starting or stopping the stopwatch
+- reaction time in starting or stopping the stopwatch
 	- repeat the experiment several times and take the average time to reduce errors
-
--   for conversion of energy, can talk about loss of thermal/potential energy to surroundings; precaution would be to provide insulation or lubricate the surfaces respectively
 
 ## General/Systematic errors
 
 - apparatus used is not precise enough
-	- e.g. using meter rule to measure length of a pendulum bob
+	- e.g. using meter rule to measure diameter of a pendulum bob
 	- use a more precise one (e.g. vernier calliper)
 
 ## Optics and light
 
-### Parallax error
+### Lens
+
+- The middle of lens holder may not coincide with the center of the lens.
+	- This affects the accurate measurement of l.
+	- The sharpness of image may not be consistent throughout the experiment as it is estimated by eye. This affects the accurate measurement of l.
 
 ### Pins
 
-- if pins are used to mark the position and the path of light when refracting or reflecting
-- we can state that the pins might be too thick, creating a bigger margin of error and therefore an inaccuracies in our results
+- The holes made by the optical pins are large
+- The pin nearer to the eye may appear larger and obstruct the pins and images behind through a wider angle
+	- This affects the drawing of the reflected ray accurately and affects the accuracy of the angle of reflection
+	- Use pins of smaller diameter as it will make smaller holes
 
 ## Oscillations or moving parts
 
 - affected by wind
+- unable to identify the maximum and the minimum points of the pendulum when oscillating
 
 ## Electronics
 
-### Heating effects
-
-- AS LONG AS YOU HAVE ANYTHING THAT IS **conducting electricity**, heating effect will cause an increase in resistance
-	- doesn't matter whether they are ohmic or non-ohmic conductors
-	- heating in a conductor is caused by the current flowing through a conductor
-	- Power = current^2 * resistance = voltage^2 / resistance
+- Error resistance wire
+    There may be kinks on the resistance wire which cause the length of resistance to be longer than 100.0cm. This will increase the voltmeter reading which is inaccurate
 
 # Miscellanous
 
