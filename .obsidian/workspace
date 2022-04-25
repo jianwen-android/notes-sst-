@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "828fcfe332051aaa",
+        "id": "02e8f9966b00df78",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -14,14 +14,6 @@
             "backlinks": true,
             "source": false
           }
-        }
-      },
-      {
-        "id": "02e8f9966b00df78",
-        "type": "leaf",
-        "state": {
-          "type": "mindmap",
-          "state": {}
         }
       }
     ],
@@ -121,7 +113,7 @@
       }
     ]
   },
-  "active": "828fcfe332051aaa",
+  "active": "02e8f9966b00df78",
   "lastOpenFiles": [
     "Computing+/Chapter 7/7.5 Impact of technology on Everyday life.md",
     "Computing+/Chapter 7/7.4 Intellectual property.md",
