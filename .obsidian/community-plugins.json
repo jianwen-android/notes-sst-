@@ -1,4 +1,5 @@
 [
+  "obsidian-excalidraw-plugin",
   "recent-files-obsidian",
   "table-editor-obsidian",
   "obsidian-linter",
@@ -6,12 +7,10 @@
   "obsidian-git",
   "folder-note-plugin",
   "waypoint",
-  "darlal-switcher-plus",
   "customizable-sidebar",
   "taskbone-ocr-plugin",
   "obsidian-activity-history",
-  "format-hotkeys-obsidian",
   "obsidian-mind-map",
   "obsidian-text-format",
-  "obsidian-excalidraw-plugin"
+  "darlal-switcher-plus"
 ]
