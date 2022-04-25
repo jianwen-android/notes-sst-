@@ -35,7 +35,7 @@
 
 ## Electronics
 
-- Error resistance wire
+- error in resistance wire
     There may be kinks on the resistance wire which cause the length of resistance to be longer than 100.0cm. This will increase the voltmeter reading which is inaccurate
 
 # Miscellanous
