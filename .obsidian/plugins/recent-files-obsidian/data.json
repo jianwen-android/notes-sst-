@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "Practical",
+      "path": "Physics/Practical.md"
+    },
+    {
+      "basename": "Computing+",
+      "path": "Computing+/Computing+.md"
+    },
+    {
+      "basename": "Revision Checklist",
+      "path": "Computing+/Revision Checklist.md"
+    },
+    {
+      "basename": "Chapter 5",
+      "path": "Computing+/Chapter 5/Chapter 5.md"
+    },
+    {
+      "basename": "Chapter 6",
+      "path": "Computing+/Chapter 6/Chapter 6.md"
+    },
+    {
+      "basename": "8.4 Applications of number systems",
+      "path": "Computing+/Chapter 8/8.4 Applications of number systems.md"
+    },
+    {
+      "basename": "Chapter 8",
+      "path": "Computing+/Chapter 8/Chapter 8.md"
+    },
+    {
+      "basename": "Chapter 7",
+      "path": "Computing+/Chapter 7/Chapter 7.md"
+    },
+    {
+      "basename": "Chapter 11",
+      "path": "Computing+/Chapter 11/Chapter 11.md"
+    },
+    {
+      "basename": "History",
+      "path": "History/History.md"
+    },
+    {
       "basename": "7.5 Impact of technology on Everyday life",
       "path": "Computing+/Chapter 7/7.5 Impact of technology on Everyday life.md"
     },
@@ -21,10 +61,6 @@
       "path": "Computing+/Chapter 7/7.1 Data corruption and loss.md"
     },
     {
-      "basename": "Chapter 7",
-      "path": "Computing+/Chapter 7/Chapter 7.md"
-    },
-    {
       "basename": "6.3 Debugging program errors",
       "path": "Computing+/Chapter 6/6.3 Debugging program errors.md"
     },
@@ -39,10 +75,6 @@
     {
       "basename": "4.2 Programming languages",
       "path": "Computing+/Chapter 4/4.2 Programming languages.md"
-    },
-    {
-      "basename": "Chapter 5",
-      "path": "Computing+/Chapter 5/Chapter 5.md"
     },
     {
       "basename": "2.2 Understanding problems",
@@ -77,26 +109,6 @@
       "path": "Computing+/Chapter 2/Chapter 2.md"
     },
     {
-      "basename": "Chapter 6",
-      "path": "Computing+/Chapter 6/Chapter 6.md"
-    },
-    {
-      "basename": "Computing+",
-      "path": "Computing+/Computing+.md"
-    },
-    {
-      "basename": "Chapter 11",
-      "path": "Computing+/Chapter 11/Chapter 11.md"
-    },
-    {
-      "basename": "Chapter 8",
-      "path": "Computing+/Chapter 8/Chapter 8.md"
-    },
-    {
-      "basename": "8.4 Applications of number systems",
-      "path": "Computing+/Chapter 8/8.4 Applications of number systems.md"
-    },
-    {
       "basename": "Chapter 3",
       "path": "Computing+/Chapter 3/Chapter 3.md"
     },
@@ -107,10 +119,6 @@
     {
       "basename": "5.4 Common problems and solutions",
       "path": "Computing+/Chapter 5/5.4 Common problems and solutions.md"
-    },
-    {
-      "basename": "Revision Checklist",
-      "path": "Computing+/Revision Checklist.md"
     },
     {
       "basename": "Discovery Week",
@@ -169,10 +177,6 @@
       "path": "Math/A Math/Integration.md"
     },
     {
-      "basename": "History",
-      "path": "History/History.md"
-    },
-    {
       "basename": "Japan's Defeat",
       "path": "History/Notes/WWII (Part 2)/Japan's Defeat.md"
     },
@@ -191,10 +195,6 @@
     {
       "basename": "WWII (Part 2)",
       "path": "History/Notes/WWII (Part 2)/WWII (Part 2).md"
-    },
-    {
-      "basename": "Practical",
-      "path": "Physics/Practical.md"
     }
   ],
   "omittedPaths": [],

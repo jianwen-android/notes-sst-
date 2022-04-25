@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computing+/Chapter 7/7.5 Impact of technology on Everyday life.md",
-            "mode": "preview",
+            "file": "Physics/Practical.md",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -20,110 +20,127 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "498a70281970e17a",
-    "type": "mobile-drawer",
+    "id": "9425e728d385fd3d",
+    "type": "split",
     "children": [
       {
-        "id": "8d7b2eaf081add9d",
-        "type": "leaf",
-        "state": {
-          "type": "recent-files",
-          "state": {}
-        }
-      },
-      {
-        "id": "4f5ede44a20307c7",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "2e09cf91ef1b47f0",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "aabe2057b955bfb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91045df7a33c5bc0",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "1e654692a84dfd0d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "52a8e8b8624fc1ad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "23b4d00f47b53054",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
+        ],
+        "currentTab": 1
       }
     ],
-    "currentTab": 1
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "a895a9dbb56954a3",
-    "type": "mobile-drawer",
+    "id": "db09af21c4831091",
+    "type": "split",
     "children": [
       {
-        "id": "f4ae0dbb8db11ff4",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "Computing+/Chapter 7/7.5 Impact of technology on Everyday life.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "7860c40b4689614f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "068d9e57392813f0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Physics/Practical.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "62364c08e1a068ac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Physics/Practical.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0f6289903f41ba14",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "35027e4c6af9a43b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Physics/Practical.md"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "1ed7ca132fe4fcce",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "Computing+/Chapter 7/7.5 Impact of technology on Everyday life.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "f237508caec8a591",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "Computing+/Chapter 7/7.5 Impact of technology on Everyday life.md"
-          }
-        }
+        ],
+        "currentTab": 3
       }
-    ]
+    ],
+    "direction": "horizontal",
+    "width": 300
   },
   "active": "02e8f9966b00df78",
   "lastOpenFiles": [
-    "Computing+/Chapter 7/7.5 Impact of technology on Everyday life.md",
-    "Computing+/Chapter 7/7.4 Intellectual property.md",
-    "Computing+/Chapter 7/7.3 Threats to privacy and security.md",
-    "Computing+/Chapter 7/7.2 Unauthorised Access.md",
-    "Computing+/Chapter 7/7.1 Data corruption and loss.md",
+    "Physics/Practical.md",
+    "Computing+/Computing+.md",
+    "Computing+/Revision Checklist.md",
+    "Computing+/Chapter 5/Chapter 5.md",
+    "Computing+/Chapter 6/Chapter 6.md",
+    "Computing+/Chapter 8/8.4 Applications of number systems.md",
+    "Computing+/Chapter 8/Chapter 8.md",
     "Computing+/Chapter 7/Chapter 7.md",
-    "Computing+/Chapter 6/6.3 Debugging program errors.md",
-    "Computing+/Chapter 6/6.2 Designing test cases.md",
-    "Computing+/Chapter 6/6.1 Validating input data.md",
-    "Computing+/Chapter 4/4.2 Programming languages.md"
+    "Computing+/Chapter 11/Chapter 11.md",
+    "History/History.md"
   ]
 }
