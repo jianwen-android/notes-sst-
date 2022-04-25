@@ -3,6 +3,6 @@ mobile.sh
 # .obsidian/plugins/obsidian-activity-history/data.json
 # .obsidian/plugins/sliding-panes-obsidian/data.json
 .obsidian/community-plugins.json
-
+.obsidian/workspace
 .obsidian/plugins/**/data.json
 .nomedia
