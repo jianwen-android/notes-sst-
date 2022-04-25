@@ -1,8 +1,11 @@
+# sync scripts
 mobile.sh
 .obsidian/desktop.sh
-# .obsidian/plugins/obsidian-activity-history/data.json
-# .obsidian/plugins/sliding-panes-obsidian/data.json
+
+# obsidian folder
 .obsidian/community-plugins.json
 .obsidian/workspace
 .obsidian/plugins/**/data.json
+
+# i dont like samsung
 .nomedia
