@@ -1,5 +1,4 @@
 [
-  "obsidian-excalidraw-plugin",
   "recent-files-obsidian",
   "table-editor-obsidian",
   "obsidian-linter",
@@ -13,5 +12,6 @@
   "obsidian-activity-history",
   "format-hotkeys-obsidian",
   "obsidian-mind-map",
-  "obsidian-text-format"
+  "obsidian-text-format",
+  "obsidian-excalidraw-plugin"
 ]
