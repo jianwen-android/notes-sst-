@@ -2,7 +2,7 @@
   "translucency": false,
   "cssTheme": "Firefly",
   "baseFontSize": 17,
-  "theme": "moonstone",
+  "theme": "obsidian",
   "baseFontSizeAction": false,
   "enabledCssSnippets": [
     "checkbox"
