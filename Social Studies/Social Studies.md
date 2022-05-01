@@ -1,6 +1,7 @@
 # Social Studies Overview
 %% Begin Waypoint %%
 - **[[Social Studies]]**
+	- **Citizenship**
 	- **Globalisation**
 		- [[Stuff]]
 	- [[Key principles]]
