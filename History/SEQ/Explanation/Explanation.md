@@ -6,7 +6,7 @@ Marks: 12 Marks
 
 Updated: April 15, 2021 10:02 AM
 
-- Introduction paragraph: list 2 factors you plan to discuss
+- Introduction paragraph: list 2 factors you plan to discuss (optional just for organisation purposes)
 - PEEL x2
     - Point
     - Evidence (select and apply historical knowledge in context)

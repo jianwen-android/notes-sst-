@@ -2,11 +2,24 @@
 
 %% Begin Waypoint %%
 - **[[Notes]]**
-	- **[[Hitler]]**
+	- **[[(Axis Defeat in) WWII]]**
+	- **[[(Outbreak of) WWII]]**
 	- **[[Military Japan]]**
-	- **[[Stalin]]**
+	- **Nazi Germany**
+		- [[Chancellor to Dictator]]
+		- [[Facism vs Nazism]]
+		- [[Hitler]]
+		- **[[Hitler's impact]]**
+
+		- [[Nazi party]]
+		- **[[The Rise of Hitler]]**
+			- [[Propaganda]]
+		- **[[Weimar republic]]**
+
+	- **Soviet Union**
+		- [[Communism v Capitalism v Socialism]]
+		- [[Stalin]]
+		- [[The Rise of Stalin]]
 	- **[[WWI]]**
-	- **[[WWII]]**
-	- **[[WWII (Part 2)]]**
 
 %% End Waypoint %%

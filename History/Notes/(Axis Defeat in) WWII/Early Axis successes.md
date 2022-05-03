@@ -1,3 +1,9 @@
+---
+sr-due: 2022-05-18
+sr-interval: 15
+sr-ease: 290
+---
+
 # Early axis successes
 
 Created: March 30, 2022 12:48 PM
@@ -8,11 +14,11 @@ Topic: WWII (Part 2)
 
 Updated: March 30, 2022 1:34 PM
 
+#review
+
 *poggers*
 
-Stats
-
-From 1939-1945
+Stats from 1939-1945
 
 - Axis powers
     - Germany

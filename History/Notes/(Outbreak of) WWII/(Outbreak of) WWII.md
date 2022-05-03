@@ -1,7 +1,7 @@
 # WWII Overview
 
 %% Begin Waypoint %%
-- **[[WWII]]**
+- **[[(Outbreak of) WWII]]**
 	- [[Appeasement Policy]]
 	- [[Breaking of WWII]]
 	- [[Hitler’s Expansionist Foreign Policy]]

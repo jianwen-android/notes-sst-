@@ -2,7 +2,7 @@
 
 %% Begin Waypoint %%
 - **[[Social Studies/SBQ/SBQ]]**
-	- [[Assertion]]
+	- [[Social Studies/SBQ/Assertion]]
 	- [[Comparison]]
 	- [[Reliabilit]]
 	- [[Surprise]]

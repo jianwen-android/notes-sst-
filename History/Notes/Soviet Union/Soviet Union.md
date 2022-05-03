@@ -1,7 +1,7 @@
 # Stalin Overview
 
 %% Begin Waypoint %%
-- **[[Stalin]]**
+- **[[Soviet Union]]**
 	- [[Communism v Capitalism v Socialism]]
 	- [[The Rise of Stalin]]
 
