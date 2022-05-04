@@ -2,7 +2,6 @@
 
 %% Begin Waypoint %%
 - **[[E Math]]**
-	- [[Set theory]]
-	- [[sets]]
+	- **[[Set theory and notation]]**
 
 %% End Waypoint %%

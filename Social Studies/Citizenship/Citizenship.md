@@ -1,6 +1,9 @@
 # Citizenship Overview
+
  
-```ccard
-type: folder_brief_live
-```
+%% Begin Waypoint %%
+- **[[Citizenship]]**
+	- [[Untitled]]
+
+%% End Waypoint %%
  

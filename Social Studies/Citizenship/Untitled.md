@@ -10,8 +10,10 @@ Citizens elect their leaders to represent them. These representatives form the g
 
 Governments follow the constitution, which has the following functions:
 1. Source of government power
-	- Sets out the functions and pwoers of the various organs of government, such as the Legislative, Executive and Judiciary
-2. 
+	- Sets out the functions and powers of the various organs of government, such as the Legislative, Executive and Judiciary
+
+
+
 ## Rights and Responsibilities of Citizens
 
 # Identity
