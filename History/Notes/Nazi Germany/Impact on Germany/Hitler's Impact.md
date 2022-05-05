@@ -15,7 +15,7 @@ Updated: January 17, 2022 12:46 PM
     - No rival parties, no political discussions, complete obedience to *der fuhrer*
     - Controlled every **aspect of people's lives
 
-## 1. political control
+## 1. Political control
 
 One Party Rule
 
@@ -31,7 +31,7 @@ One Party Rule
 - Use of fear alone will not suffice
 - Propaganda, culture & mass media were crucial tools to ensure Nazi success in controlling people
 
-## Propaganda
+### Propaganda
 
 - Minister of Enlightenment & Propaganda - Joseph Goebbels controlled the following:
     - Magazines, books, music, film, art, radio broadcasts
@@ -47,17 +47,15 @@ One Party Rule
 - Vision for the future
 - German expansion
 - Inferiority of Jews
-
 ---
-
 <aside>
 😈 Yo they showed the perfect Aryan(s) by showing people naked in parades etc.
 
 </aside>
 
-# 2. social control
+## 2. social control
 
-## Education of the young
+### Education of the young
 
 - Hitler was especially keen to win over the minds of young people
 - Education was carefully controlled
@@ -88,9 +86,9 @@ Girls and boys encouraged to join this organisation
 - Young Maidens (up to 14)
 - German Maidens' League (14 to 18/21)
 
-## Women in Nazi Germany
+### Women in Nazi Germany
 
-### Employment
+#### Employment
 
 Measures were introduced which strongly discouraged women from working, including:
 
@@ -99,7 +97,7 @@ Measures were introduced which strongly discouraged women from working, includin
 
 However, female labour was cheap and between 1933 and 1939 the number of women in employment actually rose by 2.4 million. As the German economy grew, women were needed in the workplace.
 
-### Marriage and family
+#### Marriage and family
 
 Hitler wanted a high birth rate so that the Aryan population would grow. He tried to achieve this by:
 
@@ -107,10 +105,12 @@ Hitler wanted a high birth rate so that the Aryan population would grow. He trie
 -   giving an award called the Mother’s Cross to women who had large numbers of children
 -   allowing women to volunteer to have a baby for an Aryan member of the SS
 
-### Kinder (Children)
+#### Kinder (Children)
 
+- take care of children (and family)
 
+#### Kirsch (Church)
 
-### Kirsch (Church)
+- go to church
 
-###
+#### Künder

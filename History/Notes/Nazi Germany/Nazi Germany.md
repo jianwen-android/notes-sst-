@@ -4,8 +4,8 @@
 - **[[Nazi Germany]]**
 	- [[Chancellor to Dictator]]
 	- [[Facism vs Nazism]]
-	- **[[Hitler's impact]]**
-
+	- **Impact on Germany**
+		- [[Hitler's Impact]]
 	- [[Nazi party]]
 	- **[[The Rise of Hitler]]**
 		- [[Propaganda]]

@@ -4,7 +4,6 @@
 - **[[(Axis Defeat in) WWII]]**
 	- [[Early Axis successes]]
 	- [[Germany's Defeat]]
-	- [[Holocaust]]
 	- [[Japan's Defeat]]
 
 %% End Waypoint %%
