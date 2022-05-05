@@ -1,4 +1,4 @@
-# WWII Overview
+# (Outbreak of) WWII Overview
 
 %% Begin Waypoint %%
 - **[[(Outbreak of) WWII]]**

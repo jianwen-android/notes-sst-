@@ -8,7 +8,7 @@
 	- **Nazi Germany**
 		- [[Chancellor to Dictator]]
 		- [[Facism vs Nazism]]
-		- [[Hitler]]
+		- [[Nazi Germany]]
 		- **[[Hitler's impact]]**
 
 		- [[Nazi party]]

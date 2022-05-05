@@ -1,10 +1,11 @@
 # Hitler Overview
 
 %% Begin Waypoint %%
-- **[[Hitler]]**
+- **[[Nazi Germany]]**
 	- [[Chancellor to Dictator]]
 	- [[Facism vs Nazism]]
 	- **[[Hitler's impact]]**
+
 	- [[Nazi party]]
 	- **[[The Rise of Hitler]]**
 		- [[Propaganda]]
