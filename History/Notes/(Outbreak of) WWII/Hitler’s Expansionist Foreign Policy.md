@@ -1,8 +1,11 @@
 # Hitler’s Expasionist Foreign Policy
 
 Created: February 3, 2022 1:11 PM
+
 Status: Reviewed
+
 Topic: WWII
+
 Updated: February 18, 2022 3:55 PM
 
 <aside>
@@ -46,7 +49,6 @@ Updated: February 18, 2022 3:55 PM
 - Hitler sent soldiers, equipment and war planes to support Spanish Nationalist forces vs. Communists in the Spanish Civil War in 1937
 - He justified involvement using a common hatred for communism
 - Britain, France & the League therefore took no action
-- 
 
 # Step 4
 
@@ -109,7 +111,7 @@ German troops marched into demilitarised Rhineland
 
 - “well this is German territory”
 - British politician: ‘two hoots’ about Rhineland
-- not enough to go to war over (appeasment)
+- not enough to go to war over ([[Appeasement Policy]])
 
 # Anschluss (German takeover of Austria)
 
@@ -141,7 +143,6 @@ German troops marched into demilitarised Rhineland
     - However there were people who did not agree with the takeover
         - Vienna: 76,000 “potential enemies of the Nazi regime” were arrested
 - 12 March: Hitler visits
-
 ---
 
 ### Was Hitler a peacemaker? (No)

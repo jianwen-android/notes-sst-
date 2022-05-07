@@ -1,6 +1,6 @@
 # US's role
 
-## Pre-pearl harbour
+## Pre-pearl harbour (Indirect involvement)
 
 * USA was in isolation since the end of WWI
 * 1937 Neutrality Act
@@ -12,9 +12,7 @@
 * Imposed **military & economic sanctions** on Axis Powers
 * Expanded size of army & navy; utilised navy to **provide escort** for Allied convoys
 
-### Indirect involvement
-
-#### 1. Cash and carry policy
+### 1. Cash and carry policy
 
 * Sept 1939 - Revised Neutrality Act
 * Maintain neutrality while providing military aid to BR and FRA
@@ -24,7 +22,7 @@
 	* France - fell in June 1940
 	* German U-boats sink supply ships crossing the Atlantic
 
-#### 2. Lend-lease act
+### 2. Lend-lease act
 
 * March 1941 - To protect US interests, the President is allowed to supply weapons, food & equipment to any countries whose defence was vital, eg. Britain, USSR
 * Payment could be deferred
@@ -33,22 +31,38 @@
 * Effectiveness:
 	* Kept Allies afloat in the war
 
-#### 3. Escort roles
+*Helped keep Britain and USSR in the war before their entry*
 
-#### 4. Economic sanctions
-
-*Helped keep Britain and USSR in the war*
-
-## Post-pearl harbour
-
-### Direct involvement
+## Post-pearl harbour (Direct involvement)
 
 | Direct Involvement in WWI ( 8 Dec 1941-1945)        | Questions to consider                                                       | Consequences                              |
 | --------------------------------------------------- | --------------------------------------------------------------------------- | ----------------------------------------- |
 | Contributions of vast resources & manpower          | What did the USA contribute to the Allies in terms of resources & manpower? | How did it lead to the defeat of Germany? |
 | Collboration with the Allies in military strategies | What did the USA do to help the Allies gain control of the sea?             | How did it lead to the defeat of Germany? |
 
- # Germany's role (self-inflicted)
+### Contribution of vast resources and manpower
+
+USA contributed:
+
+1. Military equipment
+2. Military personal ([[#Collaboration between Allies on military strategies|Strategy]])
+3. Resources (AMERICA!!!)
+	- oil.
+4. Money (AMERICA!!!)
+
+### Collaboration between Allies on military strategies
+
+- Helped achieve control of air and sea
+- Air superiority
+	- Larger airforce than Germany and Japan
+	- Long-range bombing of enemy infrastructure
+	- Disrupted German production of war materials
+- Sea superiority
+	- American Navy overtook escort duties (escort ships)
+	- Better anti-submarine weapons
+	- Mass production of warships
+
+# Britain's role
 
 ## Battle of Britain, 1940
 
@@ -66,6 +80,28 @@
 -   German fighters only had enough fuel to fly for 30 min over England and had to return to France
 -   German pilots who bailed out over Brtain became prisoners
 
+## Spirit
+
+1. Evacuation
+	- moving vulnerable citizens away from cities
+	- e.g. children
+2. Conscription
+	- Ensuring Britain had enough soldiers & workers by recruiting civilians
+	- e.g. Women 20 years or older worked in industry/auxiliary armed forces
+3. Controlling Information
+	- Keeping up morale by propaganda & censorship
+	- e.g. They were not allowed to report news as is
+4. Rationing
+	- Keeping Britain fed & supplied despite the U-boat blockade by Germany
+
+## Consequences
+
+- Bombings strengthened the morale & resolve of the British instead of weakening it.
+- Public support ensured that the nation was united in support of the government’s efforts
+- Germany was not able to force Britain to surrender during the Battle of Britain
+
+# Germany's role (Self-inflicted)
+
 ## Operation Barbarossa
 
 - Hitler turned his attention to the USSR after his failed attempt to conquer Britain
@@ -78,11 +114,9 @@
 - Refusing to retreat
 - Not sending winter supplies to soldiers fighting in the winter
 
-In the early years, mistakes were not as critical. With Hitler increasingly interfering with battles, more mistakes were made
+*In the early years, mistakes were not as critical. With Hitler increasingly interfering with battles, more mistakes were made*
 
-# USSR resistance
-
-What did the USSR do during the winter of 1941-1942 to enable a more effective resistance against the German invasion?
+# USSR's role
 
 ## Soviet Reorganisation
 
@@ -140,26 +174,8 @@ Sept 1942– Jan 1943
 - The Battle of Kursk marked the decisive end of the German offensive capability on the Eastern Front and cleared the way for the great Soviet offensives of 1944–45.
 - The USSR began to ‘liberate’ Nazi-occupied Eastern Europe and pushed all the way to Berlin, GER.
 
-# Britain's role
-
-## Spirit
-
-1. Evacuation
-	- moving vulnerable citizens away from cities
-	- e.g. children
-2. Conscription
-	- Ensuring Britain had enough soldiers & workers by recruiting civilians
-	- e.g. Women 20 years or older worked in industry/auxiliary armed forces
-3. Controlling Information
-	- Keeping up morale by propaganda & censorship
-	- e.g. They were not allowed to report news as is
-4. Rationing
-	- Keeping Britain fed & supplied despite the U-boat blockade by Germany
-
- ## Consequences
-- Bombings strengthened the morale & resolve of the British instead of weakening it.
-- Public support ensured that the nation was united in support of the government’s efforts
-- Germany was not able to force Britain to surrender during the Battle of Britain
+ Britain's role
 
 # Other resistance forces
+
 - Provided intelligence and sabotage

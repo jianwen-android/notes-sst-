@@ -19,7 +19,7 @@ Updated: September 23, 2021 11:38 PM
     - 1st President: Friedrich Ebert
     - 1st Chancellor: Philipp Scheidemann
 
-# The weimar constitution
+# The Weimar Constitution
 
 - Adapted on 11 Aug 1919
 - Spelt out the "basic rights and obligations" of government officials and the citizens they served
@@ -152,7 +152,7 @@ Frequent attempts to overthrow the Weimar Republic by the left & right wing poli
 - By joining them in Sep 1926, indicated that they were on better terms
 - Bitter feelings aroused by war *subsided*
 
-### Getting the usa to agree to an even better deal about reparation payments
+### Getting the USA to agree to an even better deal about reparation payments
 
 - The Dawes Plan 1924 in which USA would invest 40 million pounds in Germany
 - Followed by the **Young Plan***, made in **1929**
@@ -161,7 +161,7 @@ Frequent attempts to overthrow the Weimar Republic by the left & right wing poli
 - Spread over 59 annual payments
 
 <aside>
-* 💀  Yo Stressman literally had a stroke and died bruhv
+💀     Yo Stressman literally had a stroke and died bruhv
 
 </aside>
 

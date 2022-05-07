@@ -1,8 +1,11 @@
 # Nazi-Soviet Pact
 
 Created: February 3, 2022 1:11 PM
+
 Status: Reviewed
+
 Topic: WWII
+
 Updated: February 19, 2022 1:10 AM
 
 - Signed **23 August 1939**
@@ -41,7 +44,7 @@ Updated: February 19, 2022 1:10 AM
 # Reaction
 
 1. Japan and Italy
-    1. mad cause the axis alliance was formed on the basis of being anti-communist
+    - mad cause the axis alliance was formed on the basis of being anti-communist
 2. Invasion of Poland
     - Hitler demanded for return of Danzig and building of railroad across Polish corridor to East Prussia
     - 1 Sept Hitler orders invasion of Poland

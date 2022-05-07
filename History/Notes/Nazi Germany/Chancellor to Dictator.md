@@ -28,7 +28,7 @@ Ez steps Hitler used to create absolute power in 1, 2, 3!
 - Use uniformed followers to break up meetings of other parties and beat up opponents (SA & SS)
 - Extreme Nazi violence throughout the campaign, especially against the Communist
 
-## The reichstag fire
+## The Reichstag fire
 
 - A week before the elections, the Reichstag building in Berlin went up in flames
 - Hitler blamed the fire on the communists
@@ -50,7 +50,7 @@ Ez steps Hitler used to create absolute power in 1, 2, 3!
 - Nazis obtained 44%
 - With the help of the Nationalist party, managed to scrap through an overall majority of 51%
 
-## The enabling act
+## The Enabling act
 
 - Hitler now schemed to have the Reichstag give up its powers and rule as a dictator
 - To do this, the Reichstag had to pass an **"Enabling Act"** which required 2/3 majority
@@ -58,10 +58,10 @@ Ez steps Hitler used to create absolute power in 1, 2, 3!
 
 ### 4 ways to get the enabling act approved
 
-1. Used SA & SS to intimidate the REichstag
+1. Used SA & SS to intimidate the Reichstag
 2. Banned communist deputies from coming to the Reichstag so they could not vote
 3. Persuaded the Centre Party to vote for the Act by giving vague promises, e.g. not interfere in Catholic Church/schools
-4. Using the votes of his allies, the Nationalist Party
+4. Using the votes of his allies, the Nationalist Party took over Germany as the only political party
 
 ### This is so sad (death of democracy)
 
@@ -76,7 +76,7 @@ Ez steps Hitler used to create absolute power in 1, 2, 3!
 
 # Getting rid of all opposition
 
-## The night of the long knives 1934
+## The Night of the Long Knives (1934)
 
 - Germany army officers were unimpressed with Hitler & SA
 - Ernst Rohm, leader of the SA, was disappointed
@@ -85,23 +85,23 @@ Ez steps Hitler used to create absolute power in 1, 2, 3!
     - Had control of 4 million men
     - Started to create trouble for Hitler
 - Hitler wanted to have complete power within his own party
-- Decided to get rid of him and many of his followers
+	- Decided to get rid of him and many of his followers
 - Hitler called the leaders of the SA to a special conference
-- During the night, he had them dragged out of bed by SS and shot
-- Accused Rohm of plotting against him
+	- During the night, he had them dragged out of bed by SS and shot
+	- Accused Rohm of plotting against him
 - On the same night, many other political opponents all over Germany suffered the same fate
 - Gained acceptance with the military
 - No public protests - demonstrated Hitler's power and the people's fear
 - 30th June: This became known as the Night of the Long Knives
 
 <aside>
-💗 Ernst was hella gay lol
+💗  Ernst was hella gay lol
 
 </aside>
 
 # Combining roles of authority
 
-- 2 months later, President Hindenberg died (democracy died with him. Why?)
+- 2 months later, President Hindenberg died (democracy died with him 😭 )
 - Hitler combined the jobs of Chancellor and President
 - He also became commander in chief of the armed forces
-- He was now the supreme *dictator* of Germany: *Fuhrer*
+- He was now the supreme *dictator* of Germany: ***Fuhrer***

@@ -9,7 +9,7 @@
 		- [[Chancellor to Dictator]]
 		- [[Facism vs Nazism]]
 		- [[Nazi Germany]]
-		- **[[Hitler's impact]]**
+		- **[[Hitler's Impact]]**
 
 		- [[Nazi party]]
 		- **[[The Rise of Hitler]]**
