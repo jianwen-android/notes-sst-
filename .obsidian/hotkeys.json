@@ -97,22 +97,8 @@
     }
   ],
   "hotkeysplus-obsidian:clear-current-line": [],
-  "hotkeysplus-obsidian:insert-line-above": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "ArrowUp"
-    }
-  ],
-  "hotkeysplus-obsidian:insert-line-below": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "ArrowDown"
-    }
-  ],
+  "hotkeysplus-obsidian:insert-line-above": [],
+  "hotkeysplus-obsidian:insert-line-below": [],
   "hotkeysplus-obsidian:duplicate-lines-down": [
     {
       "modifiers": [
@@ -167,6 +153,34 @@
         "Mod"
       ],
       "key": "M"
+    }
+  ],
+  "obsidian-excalidraw-plugin:insert-link-to-element": [],
+  "workspace:close-others": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "W"
+    }
+  ],
+  "format-hotkeys-obsidian:fho-head-decrease": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "-"
+    }
+  ],
+  "format-hotkeys-obsidian:fho-heading-increase": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "="
     }
   ]
 }
