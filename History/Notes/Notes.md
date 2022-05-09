@@ -5,21 +5,10 @@
 	- **[[(Axis Defeat in) WWII]]**
 	- **[[(Outbreak of) WWII]]**
 	- **[[Military Japan]]**
-	- **Nazi Germany**
-		- [[Chancellor to Dictator]]
-		- [[Facism vs Nazism]]
-		- [[Nazi Germany]]
-		- **[[Hitler's Impact]]**
-
-		- [[Nazi party]]
-		- **[[The Rise of Hitler]]**
-			- [[Propaganda]]
-		- **[[Weimar republic]]**
-
-	- **Soviet Union**
-		- [[Communism v Capitalism v Socialism]]
-		- [[Stalin]]
-		- [[The Rise of Stalin]]
+	- **[[Nazi Germany]]**
+	- **[[Soviet Union]]**
 	- **[[WWI]]**
+	- **WWII (Part 2)**
+		- [[Holocaust]]
 
 %% End Waypoint %%

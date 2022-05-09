@@ -6,7 +6,7 @@
 		- [[7.1 Assimilation]]
 		- [[7.2 Integration]]
 		- [[7.3 Healthcare]]
-	- **Globalisation**
+	- **[[Globalisation]]**
 		- [[8.1 Driving forces of Globalisation]]
 		- [[8.2 Cultural Impact of Globalisation]]
 	- [[Key principles]]
