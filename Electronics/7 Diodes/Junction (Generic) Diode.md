@@ -11,7 +11,7 @@
 - prevent "kickback" current when turning off a big load, from flowing through the load
 - ensures that the load will not be damaged by reverse current
 
-## [[Bridge Rectifiers]]
+## [[7.4 Bridge Rectifiers]]
 
 - connected in 4s for full bridge, 2s for half bridge
 - converts AC to DC by ensuring that there is no negative voltage
