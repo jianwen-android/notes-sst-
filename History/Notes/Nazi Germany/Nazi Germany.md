@@ -2,8 +2,7 @@
 
 %% Begin Waypoint %%
 - **[[Nazi Germany]]**
-	- **3.3 Impact of Nazi Rule**
-		- [[Hitler's Impact]]
+	- **[[3.3 Impact of Nazi Rule]]**
 	- [[Chancellor to Dictator]]
 	- [[Facism vs Nazism]]
 	- [[Nazi party]]
