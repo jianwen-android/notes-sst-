@@ -16,3 +16,6 @@ a) & b)
 	1. Draw all your arrowheads for light rays (dotted lines for "image" light rays)
 	2. Label your image and object
 	3. Correct location/drawing
+2. Critical angle
+	- angle of incidence in the optically denser medium at which the angle of refraction in the optically less dense medium is 90 degrees.
+	- for total internal reflection to occur, the light ray must be travelling in an optically denser medium, striking its boundary with an optically less dense medium at an angle of incidence bigger than the critical angle of the optically denser medium
