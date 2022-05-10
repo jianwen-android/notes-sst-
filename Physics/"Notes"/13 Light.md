@@ -13,6 +13,6 @@ a) & b)
 # Things to note
 
 1. Drawing ray diagrams
-	1. Draw all your arrowheads for light rays
+	1. Draw all your arrowheads for light rays (dotted lines for "image" light rays)
 	2. Label your image and object
 	3. Correct location/drawing
