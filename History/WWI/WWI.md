@@ -2,10 +2,9 @@
 
 %% Begin Waypoint %%
 - **[[WWI]]**
-	- [[Background for WWI]]
-	- [[Causes of WWI]]
-	- **[[Differing Aims of motivations of countries involved]]**
+	- **[[Differing Aims of countries involved]]**
 	- [[League of Nations]]
+	- [[Outbreak of WWI]]
 	- [[Paris Peace Conference]]
 	- [[Treaty of Versailles]]
 
