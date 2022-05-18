@@ -1,5 +1,3 @@
-# Early axis successes
-
 Created: March 30, 2022 12:48 PM
 
 Status: Open
@@ -8,7 +6,7 @@ Topic: WWII (Part 2)
 
 Updated: March 30, 2022 1:34 PM
 
-*poggers*
+> *poggers*
 
 Stats from 1939-1945
 
