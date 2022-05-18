@@ -1,8 +1,9 @@
-# Invasion of Abyssinia
-
 Created: January 20, 2022 1:12 PM
+
 Status: Reviewed
+
 Topic: WWII
+
 Updated: February 3, 2022 1:32 PM
 
 Dec 1934: Dispute between Abyssinia & Italy (in Somalia). Abyssinian Empeoer Haile Selassie appealed to the League for help.

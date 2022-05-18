@@ -2,12 +2,13 @@
 
 %% Begin Waypoint %%
 - **[[Electronics]]**
+	- **2. Resistors**
+		- [[Resistors]]
 	- **[[6 Capacitors]]**
 	- **[[7 Diodes]]**
 	- **[[ICs]]**
 	- **[[Input Output Transducers]]**
 	- **[[Kirchhoff laws (Voltage & Current)]]**
-	- **[[Resistors]]**
 	- **[[Transistors]]**
 
 %% End Waypoint %%

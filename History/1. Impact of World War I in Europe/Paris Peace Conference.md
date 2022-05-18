@@ -1,10 +1,4 @@
-Created: April 15, 2021 9:50 AM
-
-Status: Reviewed
-
-Topic: WWI
-
-Updated: August 31, 2021 10:19 AM
+#todo somehow move into league of nations
 
 # Paris Peace conference, 1919-20
 
