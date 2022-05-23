@@ -1,4 +1,5 @@
 # Diversity Overview
+
 %% Begin Waypoint %%
 - **[[Diversity]]**
 	- [[7.1 Assimilation]]
@@ -6,3 +7,5 @@
 	- [[7.3 Healthcare]]
 
 %% End Waypoint %%
+
+#todo "assimilate" (HAHAHA) elliots pdf into our notes
