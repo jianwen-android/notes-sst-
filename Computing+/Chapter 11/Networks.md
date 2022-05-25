@@ -10,3 +10,6 @@
     - Data files can be stored on a central server for ease of access and backup purposes
 - Communication:
     - Computers in the same network are foten able to share instant messages and emails for communication
+
+# Disadvantages
+1. 
