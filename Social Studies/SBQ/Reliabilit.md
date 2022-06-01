@@ -1,3 +1,0 @@
-# Reliability
-
-Type: SBQ

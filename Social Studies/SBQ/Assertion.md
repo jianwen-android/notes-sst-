@@ -1,3 +1,0 @@
-# Assertion
-
-Type: SBQ
