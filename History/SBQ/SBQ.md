@@ -4,9 +4,7 @@
 - **[[SBQ]]**
 	- [[Assertion]]
 	- [[Comparison]]
-	- [[Evaluation]]
 	- [[Purpose]]
-	- [[Reliability]]
 	- [[Utility]]
 
 %% End Waypoint %%
