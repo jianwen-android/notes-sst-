@@ -6,7 +6,7 @@ Topic: WWII
 
 Updated: March 3, 2022 12:34 AM
 
-[[League of Nations|Structure of the League of Nations]]
+[[1.2 League of Nations|Structure of the League of Nations]]
 
 Which 1 is the most important?
 
