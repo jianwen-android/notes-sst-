@@ -2,9 +2,8 @@
 
 %% Begin Waypoint %%
 - **[[Diversity]]**
-	- [[7.1 Assimilation]]
-	- [[7.2 Integration]]
-	- [[7.3 Healthcare]]
+	- **Experiences and Effects of Diversity**
+	- **[[Responding to a Diverse Society]]**
 
 %% End Waypoint %%
 
