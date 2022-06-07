@@ -1,6 +1,6 @@
 # "Notes" Overview
 %% Begin Waypoint %%
-- **[["Notes"]]**
+- **[[Quick Notes]]**
 	- [[12 General wave properties]]
 	- [[13 Light]]
 	- [[15 Sound]]
