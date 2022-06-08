@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "e46958a1271fa855",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d5d3ebc14daaa8a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Math/A Math/Differentiation.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f7eec695668f724d",
+    "type": "split",
+    "children": [
+      {
+        "id": "44425670bd2573f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7030630782447a9e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e51921fc37cb2b5a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "#todo",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aa9ae07514c2a635",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "3430f06b38e4cefa",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 389.99999809265137
+  },
+  "right": {
+    "id": "8a40e4f0aab1babd",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cf3828318a930c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18da8d3ddab6bc59",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Math/A Math/Differentiation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "74d80c5483c8ac7b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Math/A Math/Differentiation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "354316300fc37ae9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2da1e03e4997492c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Math/A Math/Differentiation.md"
+              }
+            }
+          },
+          {
+            "id": "e15867dbafc305c8",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "67da66784d2a4b0b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3d5d3ebc14daaa8a",
+  "lastOpenFiles": [
+    "Math/A Math/Differentiation.md",
+    "Math/A Math/A Math.md",
+    "Math/Math.md",
+    "Physics/Notes/1.md",
+    "Physics/Notes/Notes.md",
+    "Physics/Practical/Practical.md",
+    "Physics/Quick Notes/Quick Notes.md",
+    "Physics/Physics.md",
+    "Computing+/Computing+.md",
+    "Computing+/Chapter 11/Chapter 11.md"
+  ]
+}
