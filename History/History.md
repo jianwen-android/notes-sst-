@@ -11,7 +11,6 @@
 	- **[[Military Japan]]**
 	- **[[SBQ]]**
 	- **[[SEQ]]**
-	- **WWII (Part 2)**
-		- [[Holocaust]]
+	- **[[WWII (Part 2)]]**
 
 %% End Waypoint %%

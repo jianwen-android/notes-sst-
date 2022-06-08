@@ -1,3 +1,5 @@
+# Computing+ Overview
+
 %% Begin Waypoint %%
 - **[[Computing+]]**
 	- **[[Chapter 2]]**

@@ -2,12 +2,9 @@
 
 %% Begin Waypoint %%
 - **[[Social Studies]]**
-	- **[[Citizenship]]**
-	- **[[Diversity]]**
-	- **[[Globalisation]]**
-		- [[8.1 Driving forces of Globalisation]]
-		- [[8.2 Cultural Impact of Globalisation]]
-	- [[Key principles]]
+	- **[[1. Citizenship]]**
+	- **[[2. Diversity]]**
+	- **[[3. Globalisation]]**
 	- **[[Practice papers]]**
 	- **[[SRQ]]**
 	- [[Surprise]]

@@ -2,7 +2,7 @@
 
 %% Begin Waypoint %%
 - **[[Physics]]**
-	- **Notes**
+	- **[[Notes]]**
 	- **[[Practical]]**
 	- **[[Quick Notes]]**
 
