@@ -1,37 +1,34 @@
 {
   "main": {
-    "id": "8f99b4f9985c04f3",
+    "id": "e46958a1271fa855",
     "type": "split",
     "children": [
       {
-        "id": "a277c6ba5f714bbb",
+        "id": "3d5d3ebc14daaa8a",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Social Studies/Social Studies.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "9425e728d385fd3d",
+    "id": "f7eec695668f724d",
     "type": "split",
     "children": [
       {
-        "id": "aabe2057b955bfb8",
+        "id": "44425670bd2573f3",
         "type": "tabs",
         "children": [
           {
-            "id": "91045df7a33c5bc0",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          },
-          {
-            "id": "1e654692a84dfd0d",
+            "id": "7030630782447a9e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,12 +36,12 @@
             }
           },
           {
-            "id": "52a8e8b8624fc1ad",
+            "id": "e51921fc37cb2b5a",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,34 +51,42 @@
             }
           },
           {
-            "id": "02bc0dfbdead5b6b",
+            "id": "aa9ae07514c2a635",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "3430f06b38e4cefa",
             "type": "leaf",
             "state": {
               "type": "starred",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 357
+    "width": 389.99999809265137
   },
   "right": {
-    "id": "db09af21c4831091",
+    "id": "8a40e4f0aab1babd",
     "type": "split",
     "children": [
       {
-        "id": "7860c40b4689614f",
+        "id": "0cf3828318a930c7",
         "type": "tabs",
         "children": [
           {
-            "id": "068d9e57392813f0",
+            "id": "18da8d3ddab6bc59",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Social Studies/Social Studies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,18 +98,19 @@
             }
           },
           {
-            "id": "62364c08e1a068ac",
+            "id": "74d80c5483c8ac7b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Social Studies/Social Studies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "0f6289903f41ba14",
+            "id": "354316300fc37ae9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -115,26 +121,28 @@
             }
           },
           {
-            "id": "35027e4c6af9a43b",
+            "id": "2da1e03e4997492c",
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "Social Studies/Social Studies.md"
+              }
+            }
+          },
+          {
+            "id": "e15867dbafc305c8",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
               "state": {}
             }
           },
           {
-            "id": "042b4bd3f8737556",
+            "id": "67da66784d2a4b0b",
             "type": "leaf",
             "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "73b8a32c2e069ace",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
@@ -143,20 +151,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 433,
+    "width": 300,
     "collapsed": true
   },
-  "active": "a277c6ba5f714bbb",
+  "active": "3d5d3ebc14daaa8a",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Progress.md",
     "Social Studies/Social Studies.md",
-    "Computing+/Computing+.md",
-    "Computing+/Chapter 11/Chapter 11.md",
-    "English/English.md",
-    "History/History.md",
+    "Social Studies/Citizenship/Citizenship.md",
+    "Social Studies/Practice papers/Practice papers.md",
+    "Social Studies/Practice papers/2018 O Level/2018 O Level.md",
+    "Physics/Notes/Notes.md",
     "Math/Math.md",
-    "Physics/Physics.md",
-    "Social Studies/SBQ/SBQ.md"
+    "Math/A Math/A Math.md",
+    "Math/A Math/Differentiation.md",
+    "Physics/Notes/1.md",
+    "Physics/Practical/Practical.md"
   ]
 }
