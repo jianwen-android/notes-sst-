@@ -12,3 +12,4 @@
 > - [ ] investigate "conceptual notes"
 > 	- [ ] https://www.youtube.com/watch?v=MYJsGksojms
 > 	- [ ]  https://www.youtube.com/watch?v=jAPn6yqrDxQ
+> - [ ] social studies keywords list per keyword (list atas keywords and explain in simple jianwen language)
