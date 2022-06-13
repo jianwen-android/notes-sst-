@@ -6,7 +6,7 @@
 	- **[[2. Diversity]]**
 	- **[[3. Globalisation]]**
 	- **[[Practice papers]]**
-	- **SBQ**
+	- **[[SBQ]]**
 	- **[[SRQ]]**
 	- [[Surprise]]
 
