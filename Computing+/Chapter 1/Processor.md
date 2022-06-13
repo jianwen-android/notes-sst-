@@ -1,0 +1,26 @@
+# Processor
+
+- AKA Central Processing Unit (CPU)
+> [!INFO] Aritmetic Logic Unit
+> Part of the processor that processes data by performing basic mathematical and logical operations
+
+> [!INFO] Control unit
+> Part of the processor that follows instructions and decides when data should be stored, received or transmitted by different parts of the computer
+
+## Main functions
+
+1.  The arithmetic logic unit (ALU) processes data by performing basic mathematical and logical operations such as addition, subtraction, multiplication and division. This unit performs the actual work of performing calculations and transforming data.
+    
+2.  The control unit follows instructions and decides when data should be stored, received or transmitted by different parts of the computer (including the ALU). This unit makes sure that data is transported to where it needs to be, and that it is processed in the correct order.
+
+> [!INFO]
+> When we say that a processor runs or executes instructions, it means that the processor follows or performs instructions. A series of instructions is called a program, or simply software.
+
+## Processor speed
+
+- Described by the number of instructions that the processor can perform in one second
+	- e.g. a 1 MHz (megahertz) processor can perform one million instructions per second while a 1 GHz (gigahertz) processor can perform one billion instructions per second
+	- the larger the number and unit, the faster and more powerful the processor.
+- There are also “multi-core” processors that contain multiple processing units inside a single package
+	- e.g. a “dual-core” package has two such processing units while a “quad-core” package has four
+	- These “multi-core” processors can perform more than one instruction at the same time, and thus are more powerful than “single-core” processors.
