@@ -23,4 +23,6 @@
 	- the larger the number and unit, the faster and more powerful the processor.
 - There are also “multi-core” processors that contain multiple processing units inside a single package
 	- e.g. a “dual-core” package has two such processing units while a “quad-core” package has four
-	- These “multi-core” processors can perform more than one instruction at the same time, and thus are more powerful than “single-core” processors.
+	- These “multi-core” processors can perform more than one instruction at the same time, and thus are more powerful than “single-core” processors
+
+#todo do the rest
