@@ -2,6 +2,6 @@
 %% Begin Waypoint %%
 - **[[Chapter 1]]**
 	- [[1.1 Computer Architecture]]
-	- [[Processor]]
+	- [[1.2 Processor]]
 
 %% End Waypoint %%

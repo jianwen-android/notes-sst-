@@ -25,5 +25,6 @@
   "readableLineLength": false,
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "fileSortOrder": "alphabetical"
 }
