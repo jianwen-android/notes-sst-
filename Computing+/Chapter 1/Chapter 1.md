@@ -3,5 +3,6 @@
 - **[[Chapter 1]]**
 	- [[1.1 Computer Architecture]]
 	- [[1.2 Processor]]
+	- [[1.3 Memory]]
 
 %% End Waypoint %%
