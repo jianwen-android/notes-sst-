@@ -6,7 +6,7 @@
 	- [[11.3 Factors Affecting Choice of Transmission Medium]]
 	- [[11.4 Identifiers]]
 	- [[11.5 Network Hardware and Their Functions]]
-	- [[11.6 Netwrok Topologies]]
+	- [[11.6 Network Topologies]]
 	- [[11.7 Error checking methods in Data Transmission]]
 
 %% End Waypoint %%
