@@ -8,8 +8,16 @@
 
 ## US-Soviet mistrust & rivalry
 
-
 ## Idealogy conflict between the USA and the Sviet Union
 
-- USA was democratic and capitalist
-- Russia was authoritarian and communist
+### USA
+
+- belief in **self-determination** (freedom)
+- by the people, of the people, for the people
+- free market
+
+### Soviet Union
+
+- belief in a utopian society after world wide revolution (equality for all)
+- communist party centralizes all power; One party state
+- command economy

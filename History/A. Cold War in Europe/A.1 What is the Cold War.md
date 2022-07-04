@@ -14,3 +14,10 @@
 - criticised and accused one another in the media using propaganda
 - threats of military war
 - proxy wars - sent troops/ advisers to other states/ groups to disrupt the aims & plans of their opponents
+
+## Duration
+
+- Some historians argue that the Cold War was divided into 3 periods:
+	- 1948 - 53 (After WWII)
+	- 1958 - 63 (After Stalin's death)
+	- 1979 - 85 (After the invasion of Afghanistan)
