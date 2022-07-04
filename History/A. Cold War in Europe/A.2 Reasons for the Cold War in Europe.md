@@ -40,7 +40,9 @@
 
 
 ## Power vacuum in Europe
-
-## Post-WWII rise of USA & USSR as superpowers
-
-## US-Soviet mistrust & rivalry
+- Europe was devastated by WWII
+- 40 million dead
+- Buildings, infrastructures reduced to rubble
+- Refugees of war relocating to find new homes
+- Agricultural & industrial outputs havled
+- Govts bankrupt
