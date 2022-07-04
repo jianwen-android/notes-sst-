@@ -25,6 +25,19 @@
 - Led to deep mistrust/ conflicts between both systems
 - E.g. Post-WWII Communist parties in Russia, Italy, Germany, Poland, Greece, etc.
 
+## History of Distrust & Rivalry Between West and Soviet Union
+
+|           |                                |                                                                  |
+| --------- | ------------------------------ | ---------------------------------------------------------------- |
+| 1917      | The Bolsheviks Revolution      |                                                                  |
+| 1918-1921 | The Russia Civil War           | USA sent military (5k soldiers) and other forms of aid to Whites |
+| 1920-1930 | USSR excluded from LON         | USA refused to recognise USSR as a country;                      |
+| 1938      | Munich Conference              |                                                                  |
+| 1939      | Stalin signed Nazi Soviet Pact |                                                                  |
+| 1941      | Nazi Invasion of USSR          | USA provided economic aid & military supplies                    |          |                                |                                                                  |
+
+![[Screenshot 2022-07-04 at 9.27.28 AM.png]]
+
 ## Power vacuum in Europe
 
 ## Post-WWII rise of USA & USSR as superpowers
