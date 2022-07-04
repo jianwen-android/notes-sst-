@@ -2,8 +2,14 @@
 
 # Reasons for the Cold War
 
-![[Screenshot 2022-07-04 at 8.38.42 AM.png]]
+## Power vacuum in Europe
+
+## Post-WWII rise of USA & USSR as superpowers
+
+## US-Soviet mistrust & rivalry
+
 
 ## Idealogy conflict between the USA and the Sviet Union
+
 - USA was democratic and capitalist
 - Russia was authoritarian and communist
