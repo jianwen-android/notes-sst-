@@ -38,11 +38,18 @@
 
 ### The Yalta Conference
 
-
 ## Power vacuum in Europe
+
 - Europe was devastated by WWII
 - 40 million dead
 - Buildings, infrastructures reduced to rubble
 - Refugees of war relocating to find new homes
 - Agricultural & industrial outputs havled
 - Govts bankrupt
+
+
+- Govts & empires collapsed
+- Germany, Italy, France & Britian were no longer able to dominate politics/post-war decisions (textbook pg 12)
+- Needed outside help to rebuild
+- This allowed USA & USSR to compete for a role in reconstructing Europe, increasing their political & economic influence
+
