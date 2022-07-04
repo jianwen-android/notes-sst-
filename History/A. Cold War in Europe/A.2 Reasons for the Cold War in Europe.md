@@ -36,7 +36,6 @@
 | 1939      | Stalin signed Nazi Soviet Pact |                                                                  |
 | 1941      | Nazi Invasion of USSR          | USA provided economic aid & military supplies                    |          |                                |                                                                  |
 
-![[Screenshot 2022-07-04 at 9.27.28 AM.png]]
 
 ## Power vacuum in Europe
 
