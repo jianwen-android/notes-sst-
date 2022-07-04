@@ -18,6 +18,13 @@
 
 ![[Screenshot 2022-07-04 at 9.13.34 AM.png]]
 
+### Why were the 2 systems unable to co-exist?
+
+- Marx's theory that all Capitalist class will one day be over-pushed by Working class (Class struggle)
+- Capitalist fear of the Domino Theory - must prevent at any cost
+- Led to deep mistrust/ conflicts between both systems
+- E.g. Post-WWII Communist parties in Russia, Italy, Germany, Poland, Greece, etc.
+
 ## Power vacuum in Europe
 
 ## Post-WWII rise of USA & USSR as superpowers
