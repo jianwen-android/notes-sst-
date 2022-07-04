@@ -53,3 +53,7 @@
 - Needed outside help to rebuild
 - This allowed USA & USSR to compete for a role in reconstructing Europe, increasing their political & economic influence
 
+
+- USA emerged from WWII virtually unscathed - with a powerful military & economy
+- USSR. built a sphere of incluence
+![[Screenshot 2022-07-04 at 10.37.46 AM.png]]
