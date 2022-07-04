@@ -36,6 +36,8 @@
 | 1939      | Stalin signed Nazi Soviet Pact |                                                                  |
 | 1941      | Nazi Invasion of USSR          | USA provided economic aid & military supplies                    |          |                                |                                                                  |
 
+### The Yalta Conference
+
 
 ## Power vacuum in Europe
 
