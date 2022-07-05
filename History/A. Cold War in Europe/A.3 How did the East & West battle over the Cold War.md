@@ -6,7 +6,7 @@
 
 ## Role of external powers in the conflict - USA, USSR, China
 
-# Cuban Missile Crissi (1962)
+# Cuban Missile Crisis (1962)
 
 ## Cuba's defence against USA
 

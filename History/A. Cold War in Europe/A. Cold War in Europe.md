@@ -5,5 +5,6 @@
 	- [[A.2 Reasons for the Cold War in Europe]]
 	- [[A.3 How did the East & West battle over the Cold War]]
 	- [[A.4 Why did the Cold War come to an end]]
+	- [[Containment policy]]
 
 %% End Waypoint %%
