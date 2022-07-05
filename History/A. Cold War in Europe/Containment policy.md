@@ -54,3 +54,8 @@ The US provided economic aid for the reconstruction of war-torn Europe, cause:
 
 1. Believed that economic recovery would stop spread of communism
 2. A properous Europe would be a major market for the US-
+
+- 16 Western European states accepted the aid
+What type of aid?
+- US $13 billion over 4 years
+- Technical asssistance - e.g. chemical, engineering & steel industries
