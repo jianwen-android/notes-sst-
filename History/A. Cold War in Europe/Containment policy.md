@@ -68,3 +68,17 @@ What type of aid?
 - boycotted the Paris conference
 - accepting aid = weakening control over Eastern Europe
 - form of US domination: Dependence on US $
+
+marshall plan helped western Europe to recover politially & economically
+- Western Europe indebted to USA
+- made capitalism more attractive to Eastern European countries
+- undermined Soviet authority
+
+## Soviet counter to containment
+- tightened control over Eastern Europe
+- established Cominform (Communist Information Bureau) in September 1947
+- coordinated all communist parties' policies & tactics; minimize trade & contact with non-communist countries
+- close supervision of all leaders
+
+- January 1949 - set up Comecon (Council of Mutual Economic Assistance) to coordinate Cominform's economic policies
+- H/w, could not match the Marshall Plan in terms of economic aid
