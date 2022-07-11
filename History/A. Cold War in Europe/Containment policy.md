@@ -50,6 +50,8 @@ Formalized set of policies America should use should there be any communist thre
 
 # Marshall Plans
 
+- US recovery program
+
 The US provided economic aid for the reconstruction of war-torn Europe, cause:
 
 1. Believed that economic recovery would stop spread of communism
@@ -70,11 +72,13 @@ What type of aid?
 - form of US domination: Dependence on US $
 
 marshall plan helped western Europe to recover politially & economically
+
 - Western Europe indebted to USA
 - made capitalism more attractive to Eastern European countries
 - undermined Soviet authority
 
 ## Soviet counter to containment
+
 - tightened control over Eastern Europe
 - established Cominform (Communist Information Bureau) in September 1947
 - coordinated all communist parties' policies & tactics; minimize trade & contact with non-communist countries
