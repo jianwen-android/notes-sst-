@@ -141,3 +141,5 @@
 - Stalin established a ring of satellites states through the use of ‘salami tactics’ (often formed coalitions, win, slice away bits of coalition through suspicious means until Soviet piece left)
 	- To Stalin, this was a defensive measure to protect USSR & its sphere of influence
 	- To Western powers, this was USSR aggressively expanding global communist influence
+
+#todo this is a lot of words
