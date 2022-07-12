@@ -74,64 +74,42 @@
 -   Now that Germany was defeated, no more common enemy
 -   Major changes that affected relationships b/w the leaders
 -   Aug ‘45
-    
-
 -   Britain: Churchill lost in an election to Clement Attlee halfway through Potsdam Conference
-    
 -   Attlee was a conservative focussed on rebuilding Britain
-    
 
--   Problematic Changes:
-    
+### Problematic Changes
 
--   1, Stalin armies were occupying most of Eastern Europe
-    
+#### 1. Stalin armies were occupying most of Eastern Europe
 
 -   Soviet troops did not withdraw after freeing the countries: Finland, Poland, Czechoslovakia, Hungary, Bulgaria, Romania
-    
 -   Stalin sets up communist govt in poland despite protests
-    
 -   Insisted it was a defensive measure
-    
 
--   2. America had a new president
-    
+#### 2. America had a new president
 
 -   12 April 1945, Roosevelt died. Replaced by Harry Truman
-    
 -   Roosevelt was willing to recognize Soviet sphere of influence while Truman was unwilling
-    
 -   Anti-Communist, suspicious of Stalin
-    
 -   Felt Stalin was trying to take over Europe
-    
 -   Critisized soviet policy in Poland and cut off the lend lease aid program
-    
 
--   3. Allies had tested an atomic bomb
-    
+#### 3. Allies had tested an atomic bomb
 
 -   16 July 1945, Truman informed Stalin about tests (bomb was a veiled threat to USSR to gain leverage in negotiations) and no longer needed Soviet help against Japan
-    
 -   Stalin felt threatened & was more determined to challenge US
-    
 -   USSR successfully detonated its 1st atomic bomb in August 1949, sparking an arms race
-    
 
--   Effect of Disputes
-    
+### Effect of Disputes
 
 -   The Potsdam Conference ended without complete agreement on these issues
-    
 -   Over 9 months, Stalin dominated Eastern Europe
-    
 -   All had Communist governments
-    
 -   These countries became satellite states, with policies heavily influenced by USSR
-    
 -   The West criticised USSR for the suppression of freedom and hostile takeovers
 
 # Power vacuum in Europe
+
+## What was the state of Europe?
 
 - Europe was devastated by WWII
 - 40 million dead
@@ -139,14 +117,27 @@
 - Refugees of war relocating to find new homes
 - Agricultural & industrial outputs havled
 - Govts bankrupt
-
-
 - Govts & empires collapsed
+
+### (Past) Great powers?
+
 - Germany, Italy, France & Britian were no longer able to dominate politics/post-war decisions (textbook pg 12)
 - Needed outside help to rebuild
+
+## What was the role of USA & USSR
+
 - This allowed USA & USSR to compete for a role in reconstructing Europe, increasing their political & economic influence
 
 
 - USA emerged from WWII virtually unscathed - with a powerful military & economy
 - USSR. built a sphere of incluence
 ![[Screenshot 2022-07-04 at 10.37.46 AM.png]]
+
+- Both started to assert themselves trying to shape post-war Europe
+- USA and USSR clashed over security needs and ideological beliefs
+- USSR feared encirclement by capitalist Europe, which would threaten its security and survival
+- USA feared loss of influence & having to face a continent that was ideologically hostile
+- Both sought to strengthen its economic & political influence in Europe
+- Stalin established a ring of satellites states through the use of ‘salami tactics’ (often formed coalitions, win, slice away bits of coalition through suspicious means until Soviet piece left)
+	- To Stalin, this was a defensive measure to protect USSR & its sphere of influence
+	- To Western powers, this was USSR aggressively expanding global communist influence
