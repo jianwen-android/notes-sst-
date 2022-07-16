@@ -8,8 +8,7 @@
 	- **[[4 & 6. Outbreak of World War II]]**
 	- **[[5 & 7. Axis Defeat in World War II]]**
 	- **[[A. Cold War in Europe]]**
-	- **B. Korean War**
-		- [[Untitled]]
+	- **[[B. Korean War]]**
 	- **[[Essay Thinking Pages]]**
 	- **[[Military Japan]]**
 	- **[[SBQ]]**
