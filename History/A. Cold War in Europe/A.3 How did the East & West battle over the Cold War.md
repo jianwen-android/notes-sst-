@@ -93,6 +93,17 @@ marshall plan helped western Europe to recover politially & economically
 
 ## Timeline
 
+### German recovery
+
+- German economy crippled & in chaos
+- Could not feed Germans unless industries rebuilt
+	- US, BR, FRA combined their zones in 1946 & controlled trade, foreign relations, economy
+	- New laws & $ currency introduced in 1948
+	- Antagonised Stalin
+- Stalin wanted Germany destroyed/crippled but the Allies were helping to rebuild Germany
+
+### Soviet Response
+
 - Stalin was angered by the actions of the Western powers to reunify Germany
 	- therefore, decided to blockade the 3 western zones of Berlin
 - Official reason - "Prevent devalued Reichsmarks from entering Soviet zone"
@@ -107,7 +118,7 @@ marshall plan helped western Europe to recover politially & economically
 	- as part of his Doctrine, he promised to help others against communism
 - Berlin became a symbol of freedom behind the 'iron curtain'
 
-### Soviet response (?)
+### Soviet response (or lack of)
 
 - The Soviets did not interfere with the flying in of supplies
 	- act of aggression/war
@@ -156,4 +167,4 @@ marshall plan helped western Europe to recover politially & economically
 - to counter NATO
 	- USSR signed a mutual defence treaty with her Eastern European satellites
 	- Military complement to Cominform & Comecon
-	- H/w, it was seen as an attempt by the USSR to strengthen hold over satellite states
+	- H/w, it was seen as an attempt by the USSR to strengthen hold over satellite states #question h/w?

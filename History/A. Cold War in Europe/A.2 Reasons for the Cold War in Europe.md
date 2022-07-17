@@ -66,7 +66,7 @@
 -   US and Britain worried about Eastern Europe falling to communism
     
 
-## The Postadam Conference (Jul - Aug ‘45)
+## The Postadam Conference (Jul - Aug 1945)
 
 -   30 Apr 1945: Hitler commited suicide
 -   European front won    
@@ -82,7 +82,7 @@
 #### 1. Stalin armies were occupying most of Eastern Europe
 
 -   Soviet troops did not withdraw after freeing the countries: Finland, Poland, Czechoslovakia, Hungary, Bulgaria, Romania
--   Stalin sets up communist govt in poland despite protests
+-   Stalin sets up communist govt in Poland despite protests
 -   Insisted it was a defensive measure
 
 #### 2. America had a new president
@@ -127,19 +127,24 @@
 ## What was the role of USA & USSR
 
 - This allowed USA & USSR to compete for a role in reconstructing Europe, increasing their political & economic influence
-
-
-- USA emerged from WWII virtually unscathed - with a powerful military & economy
-- USSR. built a sphere of incluence
-![[Screenshot 2022-07-04 at 10.37.46 AM.png]]
-
+	- USA emerged from WWII virtually unscathed - with a powerful military & economy
+	- USSR built a sphere of incluence
 - Both started to assert themselves trying to shape post-war Europe
 - USA and USSR clashed over security needs and ideological beliefs
-- USSR feared encirclement by capitalist Europe, which would threaten its security and survival
-- USA feared loss of influence & having to face a continent that was ideologically hostile
 - Both sought to strengthen its economic & political influence in Europe
+
+### USSR
+
+- feared encirclement by capitalist Europe;
+	- which would threaten its security & survival
+
+### USA
+
+- feared loss of influence and having to face a continent that was ideologically hostile
+
+## Result
+
 - Stalin established a ring of satellites states through the use of ‘salami tactics’ (often formed coalitions, win, slice away bits of coalition through suspicious means until Soviet piece left)
 	- To Stalin, this was a defensive measure to protect USSR & its sphere of influence
 	- To Western powers, this was USSR aggressively expanding global communist influence
-
-#todo this is a lot of words
+- USA containment
