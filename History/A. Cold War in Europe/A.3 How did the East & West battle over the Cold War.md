@@ -50,6 +50,8 @@ Formalized set of policies America should use should there be any communist thre
 - e.g. Greece, Turkey
 - Domino Theory & Containment
 
+- the United States would provide political, military and economic assistance to all democratic nations under threat from external or internal authoritarian forces
+
 ## Marshall Plans
 
 - US recovery program
