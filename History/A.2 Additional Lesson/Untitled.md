@@ -32,6 +32,7 @@
 	- Boycott of 1980 Moscow Olympics & 1984 Los Angeles
 
 # 1985-1991
+
 - Gorbachev's appointment in 1985 brought about the end of Cold War
 - Cut spending on arms, withdrew army from Afghanistan & declared Red Army would not be used to support Communist govts. in Eastern Europe
 - Reunification of Germany in 1990 & collapse of USSR in 1991
