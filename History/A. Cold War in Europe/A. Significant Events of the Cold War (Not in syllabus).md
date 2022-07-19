@@ -1,5 +1,11 @@
 # 1948-1953
 
+- Berlin Blockade; Chinese Civil War; Korean War;
+- US: Pres. Truman replaced by Eisenhower in 1952
+	- Eisenhower was a WW2 war hero, and so many people thought that it would be suitable for him to become president in a time of such contention
+- USSR: Stalin died in Mar 1953
+- Arms Race
+
 # 1953-1958 (Peaceful coexistance)
 
 - Destalinisation and Nikita Krushchev
