@@ -4,5 +4,8 @@
 - **[[A Math]]**
 	- [[Differentiation]]
 	- [[Integration]]
+	- **Mensuration**
+		- [[Surface Area]]
+		- [[Volume]]
 
 %% End Waypoint %%
