@@ -94,3 +94,12 @@
 - On the day North Korea attacked South Korea, the UN called for a cease0fire and withdrawal of North Korea
 - On 27 June, when North Korea ignored the UN resolution, UN condemened the invasion & sent the UN forced
 - UN Join Command led by General Douglas MacArthur
+
+# Counter attack of South Korea
+
+- Battle of Incheon
+	- While North Korean fighting force was in the Southeast, MacArthur ordered a strike at Incheon
+	- The strike was successful, South Korea restired Seoul on 26 September
+- South invasion of North
+	- South Korean forces then began the invasion of North Korea with UN forces, took Pyongyang on 19 Oct
+	- Advanced up to Yalu River
