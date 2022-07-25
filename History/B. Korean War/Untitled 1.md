@@ -81,3 +81,16 @@
 - Stalin approached Mao to ensure Chna's support for the North
 - Stalin finally approved Kim's request to invade South Korea
 - USSR & China  provided weapons & advisors
+
+# Advance of North Korea
+
+- On 25 Jun 1950, North Korean forces crossed the 38th parallel
+- South Korea was unprepared, lacked combat planes and weapons to oppose those of North korea
+- by 28 Jun, Seoul, South Korea's capital was captured by Northern troops
+- North Korea drove their troops down to Nakdong River. By Aug, US & South Korean forces pushed back to Pusan perimter
+
+# United Nations acts
+
+- On the day North Korea attacked South Korea, the UN called for a cease0fire and withdrawal of North Korea
+- On 27 June, when North Korea ignored the UN resolution, UN condemened the invasion & sent the UN forced
+- UN Join Command led by General Douglas MacArthur
