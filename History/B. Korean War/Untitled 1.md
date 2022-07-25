@@ -60,12 +60,18 @@
 ## Strategic imbalance
 
 - Both US & USSR had differing views on the importance of Korea
+
+### USSR
+
 - USSR saw Korea as important to its expansion of global influence
 - China was the only Soviet ally in the Asia-pacific in 1949 after CCP victory over KMT
 - Korea would act as counterbalance to US influence in Japan
 - Other developments
-	- USSR achieved **atomic parity** in August 1949:no more fear of USA when supporting North Korea
+	- USSR achieved **atomic parity** in August 1949
+		- no more fear of US when supporting North Korea
 	- Sino-Soviet allieance: USSR could avoid direct intervention in Korea, with China available to help
+
+### US
 
 - US saw Korea as less important than the Western bloc
 - In a key speech on the US defense perimeter in Jan 1950, Korea was not mentioned by the US Secretary of State about which countries US was prepared to defend in the Asia-Pacific
