@@ -10,7 +10,7 @@
 
 ## Start of Cold War
 
-- US and USSR met from 46-47 to determine hwo to govern Korea
+- US and USSR met from 1946-1947 to determine hwo to govern Korea
 - no agreeement reached
 - US feared USSR dominance over Korea
 - 1948 - UN temporary commission on Korea held elections south of 38th parallel
@@ -47,13 +47,14 @@
 - Created a cult of personality in North Korea
 - Sought to unify Korea - appealed to Stalin 3 times to help rebuild North Korea and wage war against South
 
-## Military imbalance in North Korea's favour
+## Military imbalance (in North Korea's favour)
 
 - by 1949, both US & USSR withdrew from the Korean Peninsula, as agreed in the Potsdam Conference
 - However, USSR left a well-trained and equipped North Korean army with Soviet  tanks and artillery
 - US did not want the South to launch a full-scale invasion of North Korea & left behind a small force, poorly trained & poorly equipped
 - Kim needed USSR approval to invade South Korea
-- At this point, Stalin did not want any direct involvement in Korea: Prevent being entagled in war with the US
+- At this point, Stalin did not want any direct involvement in Korea
+	- Prevent being entagled in war with the US
 	- US still had atomic advantage at this time
 
 ## Strategic imbalance
