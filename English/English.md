@@ -3,6 +3,8 @@
 %% Begin Waypoint %%
 - **[[English]]**
 	- [[Biases]]
+	- **Comprehension**
+		- [[Unusual yet effective]]
 	- [[Exposition]]
 	- [[Oral]]
 
