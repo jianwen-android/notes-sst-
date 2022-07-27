@@ -43,3 +43,9 @@ WHILE condition //is true
 	action
 ENDWHILE
 ```
+
+# Common functions
+
+## Split number into 1 digit
+
+#TODO mr pang floor and ceiling divide symbol?
