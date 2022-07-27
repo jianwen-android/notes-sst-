@@ -4,7 +4,7 @@
 - **[[English]]**
 	- [[Biases]]
 	- **Comprehension**
-		- [[Unusual yet effective]]
+		- [[Irony (Unusual yet Effective)]]
 	- [[Exposition]]
 	- [[Oral]]
 
