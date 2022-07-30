@@ -1,4 +1,4 @@
-q# Syntax
+# Syntax
 
 ## Input/Output
 
