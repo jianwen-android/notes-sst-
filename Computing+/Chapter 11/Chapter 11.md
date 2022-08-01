@@ -8,6 +8,6 @@
 	- [[11.5 Network Hardware and Their Functions]]
 	- [[11.6 Network Topologies]]
 	- [[11.7 Error checking methods in Data Transmission]]
-	- [[Computing+/Chapter 11/Flashcards]]
+	- [[Chapter 11 Flashcards]]
 
 %% End Waypoint %%

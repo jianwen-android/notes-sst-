@@ -6,6 +6,6 @@
 	- [[7.3 Threats to privacy and security]]
 	- [[7.4 Intellectual property]]
 	- [[7.5 Impact of technology on Everyday life]]
-	- [[Flashcards]]
+	- [[Chaopter 7 Flashcards]]
 
 %% End Waypoint %%
