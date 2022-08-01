@@ -1,12 +1,15 @@
-# Computer network
+---
+sr-due: 2022-08-02
+sr-interval: 1
+sr-ease: 230
+---
 
-> [!INFO] Computer network
-> A system of two or more computers that are connected together by a transmission medium for the exchange of data.
+#flashcard #review 
 
- >[!INFO] Transmission medium
- >A means of connecting two or more computers together, such as using copper cables, radio waves or light pulses, so that they may exchange data and interact with each other
+# Computer Network
+## Advantages
 
-# Advantages
+Shared resource
 
 - Shared resources
     - A network allows a group of computers to make use of ==shared resources== such as ==printers or files==
