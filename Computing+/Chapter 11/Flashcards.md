@@ -18,8 +18,9 @@ Shared Internet access
 ?
 Depending on the network’s configuration, every user who ==logs on== to the network may have ==access to the Internet==.
 
-- Shared software: Software:
-    - Can be stored on the central server of a network and deployed to other computers over a network
+Shared software
+?
+Can be stored on the central server of a network and deployed to other computers over a network
 - Shared storage:
     - Data files can be stored on a central server for ease of access and backup purposes
 - Communication:
