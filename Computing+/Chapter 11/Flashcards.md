@@ -11,15 +11,11 @@ sr-ease: 230
 ## Advantages
 
 Shared resources
-
-??
-
+?
 A network allows a group of computers to make use of ==shared resources== such as ==printers or files==
 
 Shared Internet access
-
-??
-
+?
 Depending on the network’s configuration, every user who ==logs on== to the network may have ==access to the Internet==.
 
 - Shared software: Software:
