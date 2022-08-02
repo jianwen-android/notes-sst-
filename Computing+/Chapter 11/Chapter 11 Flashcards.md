@@ -19,7 +19,7 @@ Depending on the network’s configuration, every user who logs on to the networ
 <!--SR:!2022-08-04,3,258-->
 
 ==Shared software== can be stored on the central server of a network and deployed to other computers over a network
-<!--SR:!2022-08-02,1,218-->
+<!--SR:!2022-08-05,3,238-->
 
 ==Data files== can be stored on a central server for ease of access and backup purposes
 <!--SR:!2022-08-04,3,258-->
@@ -36,7 +36,7 @@ There are ==subsequent costs== associated with administering and maintaining the
 <!--SR:!2022-08-03,2,238-->
 
 As files are shared through a network, there is the risk of ==virus or worm attacks spreading throughout the network even with just one infected computer==.
-<!--SR:!2022-08-02,1,210-->
+<!--SR:!2022-08-04,2,210-->
 
 Data may become lost due to ==hardware failures or errors==. Using a network means regular data backups are needed.
 <!--SR:!2022-08-02,1,218-->
