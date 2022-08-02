@@ -54,7 +54,7 @@
 - US did not want the South to launch a full-scale invasion of North Korea & left behind a small force, poorly trained & poorly equipped
 - Kim needed USSR approval to invade South Korea
 - At this point, Stalin did not want any direct involvement in Korea
-	- Prevent being entagled in war with the US
+	- Prevent being entangled in war with the US
 	- US still had atomic advantage at this time
 
 ## Strategic imbalance
@@ -69,13 +69,13 @@
 - Other developments
 	- USSR achieved **atomic parity** in August 1949
 		- no more fear of US when supporting North Korea
-	- Sino-Soviet allieance: USSR could avoid direct intervention in Korea, with China available to help
+	- Sino-Soviet alliance: USSR could avoid direct intervention in Korea, with China available to help
 
 ### US
 
 - US saw Korea as less important than the Western bloc
 - In a key speech on the US defense perimeter in Jan 1950, Korea was not mentioned by the US Secretary of State about which countries US was prepared to defend in the Asia-Pacific
-- US prioritized Japan, Taiwan, the Philipines, the Ryukyu & Aleutian islands
+- US prioritised Japan, Taiwan, the Philippines, the Ryukyu & Aleutian islands
 - If an attack occurred on other areas not identified by the Americans, the locals should rely on themselves to resist it and wait for the UN to help.
 
 # Events leading up to the War
@@ -97,8 +97,8 @@
 
 # 2. United Nations acts
 
-- On the day North Korea attacked South Korea, the UN called for a cease0fire and withdrawal of North Korea
-- On 27 June, when North Korea ignored the UN resolution, UN condemened the invasion & sent the UN forced
+- On the day North Korea attacked South Korea, the UN called for a ceasefire and withdrawal of North Korea
+- On 27 June, when North Korea ignored the UN resolution, UN condemned the invasion & sent the UN forced
 - UN Join Command led by General Douglas MacArthur
 
 # 3. Counter attack of South Korea

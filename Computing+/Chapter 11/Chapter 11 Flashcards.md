@@ -4,7 +4,7 @@ sr-interval: 4
 sr-ease: 230
 ---
 
-#review 
+#flashcards #Computing #Chapter11 #review
 
 # Computer Network
 

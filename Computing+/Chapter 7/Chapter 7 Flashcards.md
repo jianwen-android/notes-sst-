@@ -1,4 +1,10 @@
-#flashcards
+---
+sr-due: 2022-08-03
+sr-interval: 1
+sr-ease: 226
+---
+
+#flashcards #Computing #Chapter7 #review
 # Data corruption and loss
 
 What is corruption::When computer data becomes changed or is made unreadable

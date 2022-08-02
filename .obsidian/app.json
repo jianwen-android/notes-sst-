@@ -27,5 +27,6 @@
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
   "fileSortOrder": "alphabetical",
-  "spellcheck": true
+  "spellcheck": true,
+  "defaultViewMode": "preview"
 }
