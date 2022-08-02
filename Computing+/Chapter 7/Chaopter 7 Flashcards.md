@@ -2,12 +2,15 @@
 # Data corruption and loss
 
 What is corruption::When computer data becomes changed or is made unreadable
+<!--SR:!2022-08-03,1,230-->
 
 What is data loss::When information is destroyed and cannot be recovered
+<!--SR:!2022-08-03,1,230-->
 
 What is a backup::Copy of data that is made in case the original is damaged or lost
 
 What is an Uninterrupted Power Supply::Device that provides enough emergency power for a computer to properly shut down in case of a power failure
+<!--SR:!2022-08-03,1,224-->
 
 What are the effects of data corruption
 ?
@@ -33,6 +36,7 @@ How does human error cause data corruption
 ?
  - **Storage device may be accidentally damaged during transport**
  - Multiple users working on the same file may accidentally overwrite each other's data
+<!--SR:!2022-08-03,1,230-->
 
 What are preventative measures against human error
 ?

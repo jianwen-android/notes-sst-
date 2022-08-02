@@ -88,20 +88,20 @@
 - Stalin finally approved Kim's request to invade South Korea
 - USSR & China  provided weapons & advisors
 
-# Advance of North Korea
+# 1. Advance of North Korea
 
 - On 25 Jun 1950, North Korean forces crossed the 38th parallel
 - South Korea was unprepared, lacked combat planes and weapons to oppose those of North korea
 - by 28 Jun, Seoul, South Korea's capital was captured by Northern troops
 - North Korea drove their troops down to Nakdong River. By Aug, US & South Korean forces pushed back to Pusan perimter
 
-# United Nations acts
+# 2. United Nations acts
 
 - On the day North Korea attacked South Korea, the UN called for a cease0fire and withdrawal of North Korea
 - On 27 June, when North Korea ignored the UN resolution, UN condemened the invasion & sent the UN forced
 - UN Join Command led by General Douglas MacArthur
 
-# Counter attack of South Korea
+# 3. Counter attack of South Korea
 
 - Battle of Incheon
 	- While North Korean fighting force was in the Southeast, MacArthur ordered a strike at Incheon
@@ -109,3 +109,27 @@
 - South invasion of North
 	- South Korean forces then began the invasion of North Korea with UN forces, took Pyongyang on 19 Oct
 	- Advanced up to Yalu River
+
+# 4. Intervention of China (Oct 1950)
+- China warned USA that if UN forces came near Yalu River, China would intervene;
+- Chinese forces enter Korea when MacArthur ignores the warning
+
+# 5. Advance of North Korea II
+- Intervention by China suddenly changed the picture
+- Mao Zedong ordered invasion of Seoul on 31st December
+- UN and South Korean armies began a general withdrawal
+- With the South armies withdrawal, North Korea restored Seoul on 4th January 1951
+
+# 6. Counterattack of South Korea II
+- General MacArthur sacked in April 1951 for insubordination
+- Chinese armies were weakened with the long advance
+- South Korea restored Seoul in May, advanced to 38th parallel
+
+# Events of the Korean War
+- UN had argued that Communist China to agree on armistice
+- But China insisted that there would be no discussion of armistice until UN forces withdraw from Korea
+- However, communist failed to advance South Korea, losing 100,000 people in April 1951
+- Talk for amistice began 10th July 1951, at Kaesong
+- The talk continued; a bitter fighting continued
+- Stalin's death in March 1953 made China and North Korea less confident
+- After 2 years of negotiation, an armistice finally signed in July 27, 1953
