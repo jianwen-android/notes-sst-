@@ -3,10 +3,10 @@ sr-due: 2022-08-05
 sr-interval: 4
 sr-ease: 230
 date created: Monday, August 1st 2022, 4:02:25 pm
-date modified: Tuesday, August 2nd 2022, 8:40:46 am
+date modified: Tuesday, August 2nd 2022, 8:27:26 pm
 ---
 
-#flashcards #Computing #Chapter11 #review
+#flashcards/Computing/Chapter11 #review
 
 # Computer Network
 
@@ -25,7 +25,7 @@ Depending on the network’s configuration, every user who logs on to the networ
 <!--SR:!2022-08-04,3,258-->
 
 Computers in the same network are often able to ==share instant messages and emails for communication==.
-<!--SR:!2022-08-02,1,218-->
+<!--SR:!2022-08-05,3,238-->
 
 ## Disadvantages
 
@@ -39,7 +39,7 @@ As files are shared through a network, there is the risk of ==virus or worm atta
 <!--SR:!2022-08-04,2,210-->
 
 Data may become lost due to ==hardware failures or errors==. Using a network means regular data backups are needed.
-<!--SR:!2022-08-02,1,218-->
+<!--SR:!2022-08-03,1,198-->
 
 If the server fails, the network will not be able to function, thus ==affecting work processes==.
 <!--SR:!2022-08-03,2,238-->
@@ -47,7 +47,7 @@ If the server fails, the network will not be able to function, thus ==affecting 
 # Types of Computer Networks
 
 An area network is a ==network of connected computing devices==
-<!--SR:!2022-08-02,1,218-->
+<!--SR:!2022-08-04,2,218-->
 
 ## Geographical Size
 
@@ -111,6 +111,7 @@ What are the advantages and disadvantages of a client-server network
 - Disadavantages
 	- Higher initial cost due to the need for a server
 	- Administrative costs needed for the maintenance of server and clients
+<!--SR:!2022-08-03,1,217-->
 
 ### Peer to Peer (P2P)
 
@@ -138,6 +139,7 @@ What are the advantages and disavantages of a peer to peer network
 - Disadvantages
 	- More effort is required to access and back up resources as they are stored locally within each computer instead of centrally in a server
 	- Security is an issue as access rights are not administered by a central server
+<!--SR:!2022-08-03,1,217-->
 
 # Factors affecting choice of transmission mediums
 
@@ -145,6 +147,7 @@ What are the considerations behind wired and wireless transmission mediums (cost
 ?
 Initially cheaper but becomes more expensive as network grows in size due to the cost of cables
 Initially expensive due to the cost of wireless networking equipment but becomes more cost-effective as network grows in size
+<!--SR:!2022-08-03,1,217-->
 
 What are the considerations behind wired and wireless transmission mediums (speed of transmission and bandwidth)
 ?
@@ -155,6 +158,7 @@ What are the considerations behind wired and wireless transmission mediums (reli
 ?
 More reliable as data transmission is unaffected by interference
 Less reliable due to potential interference from radio waves and microwaves or blockage from physical obstructions
+<!--SR:!2022-08-03,1,217-->
 
 What are the considerations behind wired and wireless transmission mediums (security)
 ?
@@ -165,6 +169,7 @@ What are the considerations behind wired and wireless transmission mediums (mobi
 ?
 Lower as network connections are fixed at specific spots and users cannot move to other locations
 Higher as users can move about freely within the range of the wireless network                                                                             
+<!--SR:!2022-08-04,2,237-->
 
 
 What are the considerations behind wired and wireless transmission mediums (scalability)
@@ -176,5 +181,6 @@ What are the considerations behind wired and wireless transmission mediums (phys
 ?
 Tends to look more disorganised due to cables running across floors
 More organised without cables
+<!--SR:!2022-08-04,2,237-->
 
 # Identifiers

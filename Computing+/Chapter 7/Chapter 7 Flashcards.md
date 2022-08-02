@@ -3,10 +3,10 @@ sr-due: 2022-08-03
 sr-interval: 1
 sr-ease: 226
 date created: Monday, August 1st 2022, 7:54:28 pm
-date modified: Tuesday, August 2nd 2022, 8:40:29 am
+date modified: Tuesday, August 2nd 2022, 8:28:17 pm
 ---
 
-#flashcards #Computing #Chapter7 #review
+#flashcards/Computing/Chapter7 #review
 
 # Data corruption and loss
 
