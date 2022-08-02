@@ -2,6 +2,8 @@
 sr-due: 2022-08-05
 sr-interval: 4
 sr-ease: 230
+date created: Monday, August 1st 2022, 4:02:25 pm
+date modified: Tuesday, August 2nd 2022, 8:40:46 am
 ---
 
 #flashcards #Computing #Chapter11 #review
@@ -41,7 +43,6 @@ Data may become lost due to ==hardware failures or errors==. Using a network mea
 
 If the server fails, the network will not be able to function, thus ==affecting work processes==.
 <!--SR:!2022-08-03,2,238-->
-
 
 # Types of Computer Networks
 
@@ -112,6 +113,7 @@ What are the advantages and disadvantages of a client-server network
 	- Administrative costs needed for the maintenance of server and clients
 
 ### Peer to Peer (P2P)
+
 What is a peer to peer network and its characteristics
 ?
 - all computers considered equal

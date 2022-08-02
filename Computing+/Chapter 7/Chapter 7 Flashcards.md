@@ -2,9 +2,12 @@
 sr-due: 2022-08-03
 sr-interval: 1
 sr-ease: 226
+date created: Monday, August 1st 2022, 7:54:28 pm
+date modified: Tuesday, August 2nd 2022, 8:40:29 am
 ---
 
 #flashcards #Computing #Chapter7 #review
+
 # Data corruption and loss
 
 What is corruption::When computer data becomes changed or is made unreadable
@@ -51,6 +54,7 @@ What are preventative measures against human error
  - Set up rules when collaborating with multiple users to prevent them from writing to the same file at the same time
 
 ### Power failure
+
 How does power failure cause data corruption
 ?
 - if power supply fails, data in the process of being written may become corrupted
@@ -62,6 +66,7 @@ What are preventative measures against power failure
 - Set up a backup power supply or uninterruptible power supply (UPS) so storage devices can complete any write operations in case of a power failure.
 
 ### Hardware failure or damage
+
 How does hardware failure or damage cause data corruption
 ?
 • All magnetic, optical and solid-state storage devices can fail, either due to overuse, manufacturing defects or age.
@@ -73,6 +78,7 @@ What are preventative measures against hardware failure or damage
 - Check storage devices regularly and replace them immediately when signs of failure are detected.
 
 ### Malicious software or viruses
+
 How does malicious software or viruses cause data corruption
 ?
 • Some malicious software (see section 7.3) may purposely damage and corrupt data as a way of attacking the computer.
