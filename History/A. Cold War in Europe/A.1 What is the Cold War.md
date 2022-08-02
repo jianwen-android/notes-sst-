@@ -1,3 +1,7 @@
+---
+date created: Monday, July 4th 2022, 8:48:19 am
+date modified: Tuesday, July 5th 2022, 11:32:18 pm
+---
 > [!Quote] Hitlers's predictions
 > With the defeat of the Reich & pending the emergence of nationalism (in Asia, Africa, South America), there will remain only 2 Great Powers capable of confronting each other - the US & Soviet Russia. The laws of history & geography will compel these Powers to a trial of strength either military or in the fields of economics & ideology
 > 

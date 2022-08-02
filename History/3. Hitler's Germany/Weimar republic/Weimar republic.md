@@ -1,3 +1,8 @@
+---
+date created: Sunday, April 10th 2022, 9:04:57 pm
+date modified: Thursday, May 5th 2022, 9:36:05 pm
+---
+
 # Weimar republic
 
 Created: August 25, 2021 12:47 PM

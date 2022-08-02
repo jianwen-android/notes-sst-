@@ -1,3 +1,8 @@
+---
+date created: Sunday, April 10th 2022, 9:04:58 pm
+date modified: Wednesday, May 18th 2022, 2:12:08 pm
+---
+
 # Treaty of Versailles (TOV)
 
 Created: February 8, 2021 4:09 PM

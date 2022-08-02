@@ -1,3 +1,7 @@
+---
+date created: Sunday, April 10th 2022, 9:04:58 pm
+date modified: Wednesday, May 18th 2022, 10:37:53 pm
+---
 Created: January 20, 2022 1:12 PM
 
 Status: Reviewed
@@ -23,7 +27,7 @@ Even if they did embargo, Americans have been and could have kept selling oil to
 
 # Measures taken by the Britain and France
 
-...?
+…?
 
 # The Hoare-Laval Pact
 

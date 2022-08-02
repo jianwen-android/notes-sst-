@@ -1,3 +1,8 @@
+---
+date created: Sunday, April 10th 2022, 9:04:58 pm
+date modified: Sunday, April 10th 2022, 9:04:58 pm
+---
+
 # Communism v Capitalism v Socialism
 
 Created: March 29, 2021 10:34 AM

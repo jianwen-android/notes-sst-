@@ -1,3 +1,8 @@
+---
+date created: Sunday, April 10th 2022, 9:04:58 pm
+date modified: Thursday, May 5th 2022, 9:46:28 pm
+---
+
 # Hitler’s Expasionist Foreign Policy
 
 Created: February 3, 2022 1:11 PM
@@ -77,7 +82,7 @@ Updated: February 18, 2022 3:55 PM
     Chamberlain rejects. Britain and France preps for war
 - Italy chairs the Munich Conference on 29 Sept 1938, inviting Britain, France & Germany to a meeting in order to avoid war
 - Sudetenland was conceded to Germany; Britain & Germany re-affirm their friendship and desire to never to go war
-- Chamberlain went home a public hero - ‘peace with honour.... peace in our time’
+- Chamberlain went home a public hero - ‘peace with honour…. peace in our time’
 - Churchill called the Munich Agreement - ‘a total, unmitigated defeat’
 - Czechoslovakia & USSR were not consulted; Britain informed Czech leaders if they did not accept the Agreement, they would face Germany along
 - Edvard Benes resigned; German soldiers marched into Sudetenland on 1 October

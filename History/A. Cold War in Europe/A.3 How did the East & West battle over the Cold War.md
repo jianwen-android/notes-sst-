@@ -1,3 +1,8 @@
+---
+date created: Tuesday, July 19th 2022, 8:33:27 am
+date modified: Tuesday, July 19th 2022, 8:33:27 am
+---
+
 # Containment policy (America)
 
 ## Kennan's Long Telegram
@@ -44,7 +49,7 @@ Formalized set of policies America should use should there be any communist thre
 ### Speech
 
 - 12 March 1947
-- ".... it must be the policy of the US to support free peoples who are resisting attempted subjugation by armed minorities or by outside pressures"
+- "…. it must be the policy of the US to support free peoples who are resisting attempted subjugation by armed minorities or by outside pressures"
 - pretty much an open criticism and challenged Communism
 - urged US to provide financial/military aid to any nations threatened by "armed minorities or by outside pressure"
 - e.g. Greece, Turkey

@@ -1,3 +1,8 @@
+---
+date created: Tuesday, August 2nd 2022, 8:37:32 am
+date modified: Tuesday, August 2nd 2022, 8:50:08 am
+---
+
 # Both South and North Korea was in ruin
 
 - Over 2,000,000 people of South Korea and UN lost their lives and 2,500,000 people of North Korea and China died

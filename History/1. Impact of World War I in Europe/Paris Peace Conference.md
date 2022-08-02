@@ -1,3 +1,7 @@
+---
+date created: Sunday, April 10th 2022, 9:04:58 pm
+date modified: Wednesday, May 18th 2022, 10:48:39 pm
+---
 #todo somehow move into league of nations
 
 # Paris Peace conference, 1919-20

@@ -1,3 +1,7 @@
+---
+date created: Wednesday, June 15th 2022, 9:35:03 am
+date modified: Thursday, July 14th 2022, 7:46:43 pm
+---
 > [!Question] How did the Cold War impact the world order in the post-1945 years
 
 # Idealogy conflict between the USA and the Soviet Union
@@ -36,16 +40,16 @@
 
 # Breaking down of Wartime alliances
 
--   The alliance between USSR, USA & Britain lasted from 1941 - 1945
--   It was clearly a temporary relationship of convenience / mutual benefit
--   Several disagreements broke out during negotiations for a post-war settlement
--   1945: Conflict during conferences to solve WWII Issues
+- The alliance between USSR, USA & Britain lasted from 1941 - 1945
+- It was clearly a temporary relationship of convenience / mutual benefit
+- Several disagreements broke out during negotiations for a post-war settlement
+- 1945: Conflict during conferences to solve WWII Issues
 
 ## The Yalta conference (feb ‘45)
 
--   Germany was losing the war
--   Allied leaders met to plan what would happen to Europe
--   Stalin, Roosevelt & Churchill had differences but agreed on SOME important matters.
+- Germany was losing the war
+- Allied leaders met to plan what would happen to Europe
+- Stalin, Roosevelt & Churchill had differences but agreed on SOME important matters.
 
 ### Important terms agreed on
 
@@ -58,54 +62,54 @@
 
 ### Positive Effects:
 
--   Allies learn lesson of Versailles
--   International cooperation through United Nations Organisation
+- Allies learn lesson of Versailles
+- International cooperation through United Nations Organisation
 
 ### Problems:
 
--   US and Britain worried about Eastern Europe falling to communism
+- US and Britain worried about Eastern Europe falling to communism
     
 
 ## The Postadam Conference (Jul - Aug 1945)
 
--   30 Apr 1945: Hitler commited suicide
--   European front won    
--   2nd Conference held in potsdam (Berlin)
--   Now that Germany was defeated, no more common enemy
--   Major changes that affected relationships b/w the leaders
--   Aug ‘45
--   Britain: Churchill lost in an election to Clement Attlee halfway through Potsdam Conference
--   Attlee was a conservative focussed on rebuilding Britain
+- 30 Apr 1945: Hitler commited suicide
+- European front won    
+- 2nd Conference held in potsdam (Berlin)
+- Now that Germany was defeated, no more common enemy
+- Major changes that affected relationships b/w the leaders
+- Aug ‘45
+- Britain: Churchill lost in an election to Clement Attlee halfway through Potsdam Conference
+- Attlee was a conservative focussed on rebuilding Britain
 
 ### Problematic Changes
 
 #### 1. Stalin armies were occupying most of Eastern Europe
 
--   Soviet troops did not withdraw after freeing the countries: Finland, Poland, Czechoslovakia, Hungary, Bulgaria, Romania
--   Stalin sets up communist govt in Poland despite protests
--   Insisted it was a defensive measure
+- Soviet troops did not withdraw after freeing the countries: Finland, Poland, Czechoslovakia, Hungary, Bulgaria, Romania
+- Stalin sets up communist govt in Poland despite protests
+- Insisted it was a defensive measure
 
 #### 2. America had a new president
 
--   12 April 1945, Roosevelt died. Replaced by Harry Truman
--   Roosevelt was willing to recognize Soviet sphere of influence while Truman was unwilling
--   Anti-Communist, suspicious of Stalin
--   Felt Stalin was trying to take over Europe
--   Critisized soviet policy in Poland and cut off the lend lease aid program
+- 12 April 1945, Roosevelt died. Replaced by Harry Truman
+- Roosevelt was willing to recognize Soviet sphere of influence while Truman was unwilling
+- Anti-Communist, suspicious of Stalin
+- Felt Stalin was trying to take over Europe
+- Critisized soviet policy in Poland and cut off the lend lease aid program
 
 #### 3. Allies had tested an atomic bomb
 
--   16 July 1945, Truman informed Stalin about tests (bomb was a veiled threat to USSR to gain leverage in negotiations) and no longer needed Soviet help against Japan
--   Stalin felt threatened & was more determined to challenge US
--   USSR successfully detonated its 1st atomic bomb in August 1949, sparking an arms race
+- 16 July 1945, Truman informed Stalin about tests (bomb was a veiled threat to USSR to gain leverage in negotiations) and no longer needed Soviet help against Japan
+- Stalin felt threatened & was more determined to challenge US
+- USSR successfully detonated its 1st atomic bomb in August 1949, sparking an arms race
 
 ### Effect of Disputes
 
--   The Potsdam Conference ended without complete agreement on these issues
--   Over 9 months, Stalin dominated Eastern Europe
--   All had Communist governments
--   These countries became satellite states, with policies heavily influenced by USSR
--   The West criticised USSR for the suppression of freedom and hostile takeovers
+- The Potsdam Conference ended without complete agreement on these issues
+- Over 9 months, Stalin dominated Eastern Europe
+- All had Communist governments
+- These countries became satellite states, with policies heavily influenced by USSR
+- The West criticised USSR for the suppression of freedom and hostile takeovers
 
 # Power vacuum in Europe
 

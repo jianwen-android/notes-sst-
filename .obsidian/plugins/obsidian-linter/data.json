@@ -54,7 +54,7 @@
       "Removes empty list markers, i.e. list items without content.": true
     },
     "Proper Ellipsis": {
-      "Replaces three consecutive dots with an ellipsis.": false
+      "Replaces three consecutive dots with an ellipsis.": true
     },
     "Trailing spaces": {
       "Removes extra spaces after every line.": false,
@@ -65,10 +65,10 @@
       "Bottom": true
     },
     "Paragraph blank lines": {
-      "All paragraphs should have exactly one blank line both before and after.": true
+      "All paragraphs should have exactly one blank line both before and after.": false
     },
     "Space after list markers": {
-      "There should be a single space after list markers and checkboxes.": false
+      "There should be a single space after list markers and checkboxes.": true
     },
     "Compact YAML": {
       "Removes leading and trailing blank lines in the YAML front matter.": false
@@ -84,7 +84,7 @@
       "Ensures that there is exactly one line break at the end of a document.": false
     }
   },
-  "lintOnSave": false,
+  "lintOnSave": true,
   "displayChanged": true,
   "foldersToIgnore": []
 }

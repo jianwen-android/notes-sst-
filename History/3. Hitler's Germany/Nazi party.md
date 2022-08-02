@@ -1,3 +1,8 @@
+---
+date created: Sunday, April 10th 2022, 9:04:57 pm
+date modified: Sunday, April 10th 2022, 9:04:57 pm
+---
+
 # Nazi party
 
 Created: September 15, 2021 1:15 PM

@@ -1,3 +1,7 @@
+---
+date created: Sunday, April 10th 2022, 9:04:58 pm
+date modified: Thursday, June 2nd 2022, 11:10:53 am
+---
 Created: January 17, 2022 12:45 PM
 
 Status: Reviewed
@@ -10,7 +14,7 @@ Updated: March 3, 2022 12:34 AM
 
 Which 1 is the most important?
 
-1.  Weaknesses of the League
+1. Weaknesses of the League
 2. Hitler’s expansionist policy
 3. Policy of Appeasement
 
@@ -41,7 +45,7 @@ Which 1 is the most important?
 
 Unwillingness to disarm and compromise meant that no meaningful progress could be made by the League towards disarmament
 
-This led to a general atmosphere of distrust and tension that would ultimately lead to...
+This led to a general atmosphere of distrust and tension that would ultimately lead to…
 
 # Examples of failures
 
