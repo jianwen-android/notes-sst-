@@ -84,7 +84,7 @@
 - North Korea was militarily superior to South Korea
 - April 1950: Kim Il Sung visited Stalin again to persuade Stalin to approve his invasion plans
 - Due to the US Defense Perimeter speech, Stalin believed that US would not get involved in Korea
-- Stalin approached Mao to ensure Chna's support for the North
+- Stalin approached Mao to ensure China's support for the North
 - Stalin finally approved Kim's request to invade South Korea
 - USSR & China  provided weapons & advisors
 
@@ -93,7 +93,7 @@
 - On 25 Jun 1950, North Korean forces crossed the 38th parallel
 - South Korea was unprepared, lacked combat planes and weapons to oppose those of North korea
 - by 28 Jun, Seoul, South Korea's capital was captured by Northern troops
-- North Korea drove their troops down to Nakdong River. By Aug, US & South Korean forces pushed back to Pusan perimter
+- North Korea drove their troops down to Nakdong River. By Aug, US & South Korean forces pushed back to Pusan perimeter
 
 # 2. United Nations acts
 
@@ -105,7 +105,7 @@
 
 - Battle of Incheon
 	- While North Korean fighting force was in the Southeast, MacArthur ordered a strike at Incheon
-	- The strike was successful, South Korea restired Seoul on 26 September
+	- The strike was successful, South Korea restored Seoul on 26 September
 - South invasion of North
 	- South Korean forces then began the invasion of North Korea with UN forces, took Pyongyang on 19 Oct
 	- Advanced up to Yalu River
@@ -129,7 +129,21 @@
 - UN had argued that Communist China to agree on armistice
 - But China insisted that there would be no discussion of armistice until UN forces withdraw from Korea
 - However, communist failed to advance South Korea, losing 100,000 people in April 1951
-- Talk for amistice began 10th July 1951, at Kaesong
+- Talk for armistice began 10th Jul 1951, at Kaesong
 - The talk continued; a bitter fighting continued
 - Stalin's death in March 1953 made China and North Korea less confident
 - After 2 years of negotiation, an armistice finally signed in July 27, 1953
+
+## Stalemate & Armistice Talks (Pg 60-62)
+- April 1951: Truman wished to limit the Korean War; only objective achieved was saving South Korea from communism & returning to 38th parallel
+- General MacArthur defied orders and prepared to invade China; threatened to use nuclear weapons. Criticised Truman publicly
+- 11 Apr: Truman sacked MacArthur & replaced him with General Ridgeway
+- USA, USSR, UN & China wanted ceasefire due to heavy casualties
+- However, both Korean leaders insisted on continuing the war
+- South Korean forces pushed North but without UN support, suffered defeat
+- Kim was pressured by USSR & China to participate in armistice talks in July 1951
+- Talks stall over disagreements on where Korea should be divided & how to deal with POWs
+- Fighting dragged on till 1953
+- Jan 1953 Truman replaced by Eisenhower - election promise to end Korean War; threatened to use nuclear weapons if armistice not signed
+- Mar 1953 Stalin died: USSR, China & North Korea signed armistice to reduce losses
+- 27 Jul 1953 Armistice signed: DMZ (DeMilitarised Zone) established to divide Korea

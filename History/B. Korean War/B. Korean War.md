@@ -1,7 +1,7 @@
 # B. Korean War Overview
 %% Begin Waypoint %%
 - **[[B. Korean War]]**
-	- [[Untitled 1]]
+	- [[B.1 Events of the Koeran War]]
 	- [[Untitled]]
 
 %% End Waypoint %%
