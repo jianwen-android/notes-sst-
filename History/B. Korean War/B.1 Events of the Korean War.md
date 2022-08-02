@@ -111,21 +111,25 @@
 	- Advanced up to Yalu River
 
 # 4. Intervention of China (Oct 1950)
+
 - China warned USA that if UN forces came near Yalu River, China would intervene;
 - Chinese forces enter Korea when MacArthur ignores the warning
 
 # 5. Advance of North Korea II
+
 - Intervention by China suddenly changed the picture
 - Mao Zedong ordered invasion of Seoul on 31st December
 - UN and South Korean armies began a general withdrawal
 - With the South armies withdrawal, North Korea restored Seoul on 4th January 1951
 
 # 6. Counterattack of South Korea II
+
 - General MacArthur sacked in April 1951 for insubordination
 - Chinese armies were weakened with the long advance
 - South Korea restored Seoul in May, advanced to 38th parallel
 
 # Events of the Korean War
+
 - UN had argued that Communist China to agree on armistice
 - But China insisted that there would be no discussion of armistice until UN forces withdraw from Korea
 - However, communist failed to advance South Korea, losing 100,000 people in April 1951
@@ -135,6 +139,7 @@
 - After 2 years of negotiation, an armistice finally signed in July 27, 1953
 
 ## Stalemate & Armistice Talks (Pg 60-62)
+
 - April 1951: Truman wished to limit the Korean War; only objective achieved was saving South Korea from communism & returning to 38th parallel
 - General MacArthur defied orders and prepared to invade China; threatened to use nuclear weapons. Criticised Truman publicly
 - 11 Apr: Truman sacked MacArthur & replaced him with General Ridgeway
