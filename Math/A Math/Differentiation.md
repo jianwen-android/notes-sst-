@@ -1,3 +1,8 @@
+---
+date created: Tuesday, April 19th 2022, 11:50:48 pm
+date modified: Wednesday, April 20th 2022, 11:49:29 pm
+---
+
 # Rules
 
 ##  Power Rule
