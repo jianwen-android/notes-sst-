@@ -1,6 +1,6 @@
 ---
 date created: Tuesday, August 2nd 2022, 8:37:32 am
-date modified: Tuesday, August 2nd 2022, 8:50:08 am
+date modified: Wednesday, August 3rd 2022, 9:08:48 am
 ---
 
 # Both South and North Korea was in ruin
@@ -27,4 +27,11 @@ date modified: Tuesday, August 2nd 2022, 8:50:08 am
 
 # Escalation of military tensions between communist & Western bloc in Europe
 
-- Korean War led to militarisation of NATO
+- Korean war led to demilitarisation of NATO
+- Members believed military strategies and plans needed to counter communist bloc and contain commnism 
+- NATO command structure established; plans drafted to expand NATO’s forces
+- Military exercises conducted 
+- USA defence expenditure grew from 33% of budget in 1950 to 60% in 1953
+- NATO members also embarked on rearmament 
+- Expanded membership to include Greece, Turkey, W. Germany 
+- Challenged by the Warsaw Pact
