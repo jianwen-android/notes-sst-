@@ -33,13 +33,13 @@ Installing a network could be ==costly== due to the high setup and equipment cos
 <!--SR:!2022-08-04,3,258-->
 
 There are ==subsequent costs== associated with administering and maintaining the network.
-<!--SR:!2022-08-03,2,238-->
+<!--SR:!2022-08-10,7,258-->
 
 As files are shared through a network, there is the risk of ==virus or worm attacks spreading throughout the network even with just one infected computer==.
 <!--SR:!2022-08-04,2,210-->
 
 Data may become lost due to ==hardware failures or errors==. Using a network means regular data backups are needed.
-<!--SR:!2022-08-03,1,198-->
+<!--SR:!2022-08-04,1,178-->
 
 If the server fails, the network will not be able to function, thus ==affecting work processes==.
 <!--SR:!2022-08-03,2,238-->
@@ -147,7 +147,7 @@ What are the considerations behind wired and wireless transmission mediums (cost
 ?
 Initially cheaper but becomes more expensive as network grows in size due to the cost of cables
 Initially expensive due to the cost of wireless networking equipment but becomes more cost-effective as network grows in size
-<!--SR:!2022-08-03,1,217-->
+<!--SR:!2022-08-05,2,217-->
 
 What are the considerations behind wired and wireless transmission mediums (speed of transmission and bandwidth)
 ?
@@ -158,7 +158,7 @@ What are the considerations behind wired and wireless transmission mediums (reli
 ?
 More reliable as data transmission is unaffected by interference
 Less reliable due to potential interference from radio waves and microwaves or blockage from physical obstructions
-<!--SR:!2022-08-03,1,217-->
+<!--SR:!2022-08-04,1,197-->
 
 What are the considerations behind wired and wireless transmission mediums (security)
 ?
