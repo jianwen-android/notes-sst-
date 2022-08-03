@@ -3,6 +3,6 @@
 - **[[B. Korean War]]**
 	- [[B.1 Events of the Korean War]]
 	- [[B.2 Impact of Korean War]]
-	- [[Untitled]]
+	- [[China]]
 
 %% End Waypoint %%
