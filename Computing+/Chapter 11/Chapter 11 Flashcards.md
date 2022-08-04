@@ -3,7 +3,7 @@ sr-due: 2022-08-05
 sr-interval: 4
 sr-ease: 230
 date created: Monday, August 1st 2022, 4:02:25 pm
-date modified: Thursday, August 4th 2022, 10:28:56 am
+date modified: Thursday, August 4th 2022, 10:40:31 am
 ---
 
 #flashcards/Computing/Chapter11 #review
@@ -97,19 +97,14 @@ A ==wireless access point (WAP)== is network hardware that provides a connection
 
 ### Client-server network
 
-What is a client-server network and its characteristics
+What is a client-server network
 ?
 - 1 or more high capacity computers act as servers
 - the remaining computers are clients
 - high entry cost
 	- specialised high performance servers needed
-- **typically high bandwidth
-	- **limited by the capability of the server**
-- **high security**
-	- **rights can be controlled centrally at the server**
-- **storage is centralised**
-	- **carried out only at server**
-	- **usually managed by a network admin**
+- Each server contains data and other resources to be shared with clients. 
+- The server also fulfils requests from clients.
 
 
 What are the advantages of a client-server network
@@ -132,15 +127,8 @@ What is a peer to peer network and its characteristics
 	- load is distributed equally
 	- each computer can act as a client and a server
 	- communicating directly with other computers in the network
-**- low cost network
-	- basic computers can act as servers to share resources**
-- bandwidth varies depending on how data needs to be transmitted
-	- reduced if large requests have to be handled by 1 computer
-	- increased if large requests are divided and handled by multiple computers simultaneously
-- low security
-	- handled by each computer, not by a central server
-- **storage is decentralised 
-	- **can be carried out by individual users at each computer**
+- Users are able to share files and resources located on their computers as well as access shared resources found on other computers in the network. 
+- These networks are low in cost.
 
 What are the advantages of a peer to peer network
 ?
@@ -152,6 +140,10 @@ What are the disadvantages of a peer to peer network
 - More effort is required to access and back up resources as they are stored locally within each computer instead of centrally in a server
 - Security is an issue as access rights are not administered by a central server
 <!--SR:!2022-08-07,3,217-->
+
+## Key terms
+
+==Bandwidth== is the average number of bits of data that can be transmitted from a source to a destination over the network in one second; usually measured in megabits per second (Mbps) or gigabits per second (Gbps)
 
 # Factors affecting choice of transmission mediums
 
