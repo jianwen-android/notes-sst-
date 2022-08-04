@@ -3,7 +3,7 @@ sr-due: 2022-08-05
 sr-interval: 4
 sr-ease: 230
 date created: Monday, August 1st 2022, 4:02:25 pm
-date modified: Thursday, August 4th 2022, 10:09:15 am
+date modified: Thursday, August 4th 2022, 10:28:56 am
 ---
 
 #flashcards/Computing/Chapter11 #review
@@ -39,7 +39,7 @@ As files are shared through a network, there is the risk of ==virus or worm atta
 <!--SR:!2022-08-08,4,210-->
 
 Data may become lost due to ==hardware failures or errors==. Using a network means regular data backups are needed.
-<!--SR:!2022-08-04,1,178-->
+<!--SR:!2022-08-06,2,178-->
 
 If the server fails, the network will not be able to function, thus ==affecting work processes==.
 <!--SR:!2022-08-12,8,258-->
@@ -47,7 +47,7 @@ If the server fails, the network will not be able to function, thus ==affecting 
 # Types of Computer Networks
 
 An area network is a ==network of connected computing devices==
-<!--SR:!2022-08-04,2,218-->
+<!--SR:!2022-08-08,4,218-->
 
 ## Geographical Size
 
@@ -55,33 +55,41 @@ A ==Local Area Network (LAN)== is a network within a small geographical area, ty
 <!--SR:!2022-08-15,11,278-->
 
 A ==Metropolitan Area Network (MAN)== is a network spanning across two or more buildings, but usually within the same town and city
-<!--SR:!2022-08-04,3,258-->
+<!--SR:!2022-08-14,10,278-->
 
 A ==Wide Area Network (WAN)== is a network covering a large-scale geographical area, typically spanning across multiple geographical locations
 <!--SR:!2022-08-14,10,278-->
 
 ## Transmission mediums
 
-What is a wired network, its advantages and disadvantages, as well as its most used network protocol for LANs and MANs
+What is a wired network
 ?
 - A wired network is a network of devices connected by a physical medium, such as cables
-- Advantages
-	- Data transfer is typically faster
-	- data transfer is more secure in a wired network
-- Disadvantages
-	- The number of devices/the distance between devices increase, the cost of setting up the network increases as well.
-- Ethernet is the most used wired network protocol for LANs and MANs
-<!--SR:!2022-08-03,2,238-->
 
-What is a wireless network, its advantages and disadvantages, as well as its most used network protocol
+What are the advantages of a wired network
+?
+- Data transfer is typically faster
+- data transfer is more secure in a wired network
+<!--SR:!2022-08-06,2,237-->
+
+What are the disadvantages of a wired network
+?
+- The number of devices/the distance between devices increase, the cost of setting up the network increases as well.
+
+==Ethernet== is the most used wired network protocol for LANs and MANs
+
+What is a wireless network
 ?
 - A wireless network is a network of devices in which signals in the form of electromagnetic waves, such as radio waves and microwaves, which are transmitted without the use of a physical medium. 
 	- becoming increasingly popular in homes and businesses
-- Advantages
-	- Users can be connected to a wireless network as long as they are within range of the network coverage.
-	- lower in cost
-	- easy to configure and manage
-- The most common wireless network protocol is Wi-Fi, which uses radio waves to transmit data.
+
+What are the advantages of a wireless network
+?
+- Users can be connected to a wireless network as long as they are within range of the network coverage.
+- lower in cost
+- easy to configure and manage
+
+ The most common wireless network protocol is ==Wi-Fi==, which uses radio waves to transmit data.
 
 A ==wireless access point (WAP)== is network hardware that provides a connection between wireless devices up to 100 metres away and can connect to wired networks.
 
@@ -111,9 +119,10 @@ What are the advantages of a client-server network
 - Security may be enhanced with the use of specialised software or operating system features that are designed for servers
 
 What are the disadvantages of a client-server network
+?
 - Higher initial cost due to the need for a server
 - Administrative costs needed for the maintenance of server and clients
-<!--SR:!2022-08-03,1,217-->
+<!--SR:!2022-08-07,3,217-->
 
 ### Peer to Peer (P2P)
 
@@ -127,21 +136,22 @@ What is a peer to peer network and its characteristics
 	- basic computers can act as servers to share resources**
 - bandwidth varies depending on how data needs to be transmitted
 	- reduced if large requests have to be handled by 1 computer
-	- increased if large requests are divded and handled by multiple computers simultaneously
+	- increased if large requests are divided and handled by multiple computers simultaneously
 - low security
 	- handled by each computer, not by a central server
 - **storage is decentralised 
 	- **can be carried out by individual users at each computer**
 
-What are the advantages and disavantages of a peer to peer network
+What are the advantages of a peer to peer network
 ?
-- Advantages
-	- Cheaper to set up as there is no cost related to dedicated servers
-	- Easy to set up as no specialised software or operating system features are needed
-- Disadvantages
-	- More effort is required to access and back up resources as they are stored locally within each computer instead of centrally in a server
-	- Security is an issue as access rights are not administered by a central server
-<!--SR:!2022-08-03,1,217-->
+- Cheaper to set up as there is no cost related to dedicated servers
+- Easy to set up as no specialised software or operating system features are needed
+
+What are the disadvantages of a peer to peer network
+?
+- More effort is required to access and back up resources as they are stored locally within each computer instead of centrally in a server
+- Security is an issue as access rights are not administered by a central server
+<!--SR:!2022-08-07,3,217-->
 
 # Factors affecting choice of transmission mediums
 
@@ -178,6 +188,7 @@ What are the considerations behind wired and wireless transmission mediums (scal
 ?
 More cumbersome to add new devices to the network as physical constraints and the running of cables need to be considered
 Easier to add new devices to the network as the router can be easily configured        
+<!--SR:!2022-08-05,1,217-->
 
 What are the considerations behind wired and wireless transmission mediums (physical organisation)
 ?
@@ -190,6 +201,7 @@ More organised without cables
 ## Port numbers
 
 Port numbers are used in combination with an ==IP Address==
+<!--SR:!2022-08-07,3,257-->
 
 What are port numbers
 ?
@@ -198,6 +210,7 @@ What are port numbers
 - clients and servers can run programs that use port numbers to identify themselves
 
 Port numbers range from 0 to ==65,535==
+<!--SR:!2022-08-06,2,237-->
 
 ## Service Set Identifiers (SSID)
 

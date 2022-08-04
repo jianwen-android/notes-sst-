@@ -76,6 +76,7 @@ What are preventative measures against power failure
 How does hardware failure or damage cause data corruption
 ?
 • All magnetic, optical and solid-state storage devices can fail, either due to overuse, manufacturing defects or age.
+<!--SR:!2022-08-05,1,209-->
 
 
 What are preventative measures against hardware failure or damage
