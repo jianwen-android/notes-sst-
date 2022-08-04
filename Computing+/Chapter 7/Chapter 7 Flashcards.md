@@ -28,6 +28,7 @@ What are the effects of data corruption
 	- if corrupted data is related to other data in the computer, then both the corrupted data and its related data may be lost
 	- e.g. losing header data means that you will not be able to understand what the cell data means and both are lost
 - if the corrupted data cannot be recovered or replaced, this also results in data loss.
+<!--SR:!2022-08-05,1,214-->
 
 ## Data corruption
 
@@ -39,6 +40,7 @@ What are the causes of data corruption
 2. Power failure
 3. Hardware failure or damage
 4. Malicious software or viruses
+<!--SR:!2022-08-06,2,234-->
 
 ### Human error
 
@@ -61,11 +63,13 @@ How does power failure cause data corruption
 ?
 - if power supply fails, data in the process of being written may become corrupted
 - data stored in volatile memory but not yet written to a storage device will be lost
+<!--SR:!2022-08-06,2,229-->
 
 What are preventative measures against power failure
 ?
 - Make regular backups of data.
 - Set up a backup power supply or uninterruptible power supply (UPS) so storage devices can complete any write operations in case of a power failure.
+<!--SR:!2022-08-06,2,234-->
 
 ### Hardware failure or damage
 
@@ -78,12 +82,14 @@ What are preventative measures against hardware failure or damage
 ?
 - Make regular backups of data.
 - Check storage devices regularly and replace them immediately when signs of failure are detected.
+<!--SR:!2022-08-05,1,214-->
 
 ### Malicious software or viruses
 
 How does malicious software or viruses cause data corruption
 ?
 • Some malicious software (see section 7.3) may purposely damage and corrupt data as a way of attacking the computer.
+<!--SR:!2022-08-05,1,214-->
 
 What are preventative measures against malicious software or viruses
 ?
@@ -91,3 +97,4 @@ What are preventative measures against malicious software or viruses
 - Avoid opening email/chat attachments or files from unknown sources.
 - Install and configure a firewall to prevent them from spreading through the network.
 - Install anti-spyware and anti-virus software, as well as perform regular scans and updates.
+<!--SR:!2022-08-05,1,214-->
