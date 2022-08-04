@@ -65,6 +65,7 @@ A ==Wide Area Network (WAN)== is a network covering a large-scale geographical a
 What is a wired network
 ?
 - A wired network is a network of devices connected by a physical medium, such as cables
+<!--SR:!2022-08-06,2,237-->
 
 What are the advantages of a wired network
 ?
@@ -226,6 +227,7 @@ What is a Network Interface Controller (NIC)
 - for example, network PCIE in computers or WiFi chip in phones (built in)
 
 Network Interface Controller (NIC) have ==6 (48 bits)== bytes
+<!--SR:!2022-08-07,3,257-->
 
 ## Network hub
 
