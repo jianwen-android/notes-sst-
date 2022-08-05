@@ -19,13 +19,13 @@ Depending on the network’s configuration, every user who logs on to the networ
 <!--SR:!2022-08-13,9,278-->
 
 ==Shared software== can be stored on the central server of a network and deployed to other computers over a network
-<!--SR:!2022-08-05,3,238-->
+<!--SR:!2022-08-16,11,258-->
 
 ==Data files== can be stored on a central server for ease of access and backup purposes
 <!--SR:!2022-08-17,13,278-->
 
 Computers in the same network are often able to ==share instant messages and emails for communication==.
-<!--SR:!2022-08-05,3,238-->
+<!--SR:!2022-08-13,8,258-->
 
 ## Disadvantages
 
@@ -152,7 +152,7 @@ What are the considerations behind wired and wireless transmission mediums (cost
 ?
 Initially cheaper but becomes more expensive as network grows in size due to the cost of cables
 Initially expensive due to the cost of wireless networking equipment but becomes more cost-effective as network grows in size
-<!--SR:!2022-08-05,2,217-->
+<!--SR:!2022-08-11,6,237-->
 
 What are the considerations behind wired and wireless transmission mediums (speed of transmission and bandwidth)
 ?
@@ -181,7 +181,7 @@ What are the considerations behind wired and wireless transmission mediums (scal
 ?
 More cumbersome to add new devices to the network as physical constraints and the running of cables need to be considered
 Easier to add new devices to the network as the router can be easily configured        
-<!--SR:!2022-08-05,1,217-->
+<!--SR:!2022-08-07,2,217-->
 
 What are the considerations behind wired and wireless transmission mediums (physical organisation)
 ?
