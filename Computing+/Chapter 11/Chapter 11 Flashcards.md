@@ -3,7 +3,7 @@ sr-due: 2022-08-05
 sr-interval: 4
 sr-ease: 230
 date created: Monday, August 1st 2022, 4:02:25 pm
-date modified: Thursday, August 4th 2022, 10:40:31 am
+date modified: Friday, August 5th 2022, 10:40:10 am
 ---
 
 #flashcards/Computing/Chapter11 #review
@@ -113,6 +113,7 @@ What are the advantages of a client-server network
 - Centralised control of data and resources
 - Easy to schedule backups of all shared files at regular intervals
 - Security may be enhanced with the use of specialised software or operating system features that are designed for servers
+<!--SR:!2022-08-07,2,237-->
 
 What are the disadvantages of a client-server network
 ?
@@ -130,6 +131,7 @@ What is a peer to peer network and its characteristics
 	- communicating directly with other computers in the network
 - Users are able to share files and resources located on their computers as well as access shared resources found on other computers in the network. 
 - These networks are low in cost.
+<!--SR:!2022-08-06,1,217-->
 
 What are the advantages of a peer to peer network
 ?
@@ -145,6 +147,7 @@ What are the disadvantages of a peer to peer network
 ## Key terms
 
 ==Bandwidth== is the average number of bits of data that can be transmitted from a source to a destination over the network in one second; usually measured in megabits per second (Mbps) or gigabits per second (Gbps)
+<!--SR:!2022-08-06,1,217-->
 
 # Factors affecting choice of transmission mediums
 
@@ -231,9 +234,10 @@ Network Interface Controller (NIC) have ==6 (48 bits)== bytes
 
 ## Network hub
 
+What is a network hub
+?
 - simplest way to connect multiple devices to the same network
-	- acts a loudspeaker
-	- it broadcasts the data to all its connected devices
+	- acts a loudspeaker by broadcasting the data to all its connected devices
 	- does not identify specific devices
 		- thus, it does not selectively forward/select data to its intended recipient sunlike switch
 	- when a hub receives a packet 
@@ -245,10 +249,12 @@ Network Interface Controller (NIC) have ==6 (48 bits)== bytes
 
 # Network switch
 
+What is a network switch
+?
 - constructs a single network by connecting multiple similar networks together
 	- typically connects multiple [[11.2 Types of Computer Networks#Local Area Network LAN|LANs]], which use the same protocol, together to create a combined network that can cover a larger physical area
-- a switch monitors the **MAC addressses** (permanent) of the devices connected to it
-	- compared to a network hub, the switch will be able to decide whether it should forward or drop a packet that it receives #question what does that mean??
+- a switch monitors the **MAC addresses** (permanent) of the devices connected to it
+	- compared to a network hub, the switch will be able to decide whether it should forward or drop a packet that it receives
 	- (self note) so this means that if a switch receives a packet from computer A and sees that the destination MAC address is for another computer B connected to it, the switch will forward that packet to only computer B
 
 # Router
