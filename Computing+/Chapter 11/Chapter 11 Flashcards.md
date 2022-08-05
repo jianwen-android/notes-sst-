@@ -174,7 +174,7 @@ What are the considerations behind wired and wireless transmission mediums (mobi
 ?
 Lower as network connections are fixed at specific spots and users cannot move to other locations
 Higher as users can move about freely within the range of the wireless network                                                                             
-<!--SR:!2022-08-05,1,217-->
+<!--SR:!2022-08-08,3,237-->
 
 
 What are the considerations behind wired and wireless transmission mediums (scalability)
