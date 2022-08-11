@@ -1,6 +1,6 @@
 ---
 date created: Thursday, August 11th 2022, 9:43:04 am
-date modified: Thursday, August 11th 2022, 10:38:42 am
+date modified: Thursday, August 11th 2022, 10:54:45 am
 ---
 - organise ideas critically and creatively
 
@@ -95,3 +95,23 @@ date modified: Thursday, August 11th 2022, 10:38:42 am
 ## Comparison and contrast
 
 - What is the difference between A and B, therefore why is A better than B and why your point is true
+
+## Counter argument and rebuttals
+
+- introduce and problematise the counter-argument
+	- "Some may argue that…"
+	- "An alternative viewpoint that may have been mentioned is that"
+	- make sure you are showing that this is not your points
+- introduce your rebuttal using contrast connectors
+	- "But"
+	- "However"
+	- "Nevertheless"
+
+### You are wrong
+
+- completely disprove the counter-argument
+
+### Even if you are right
+
+- yea you may be right
+- but my point is applies to more people/better/more important etc.
