@@ -9,6 +9,9 @@
 		- [[Explain]]
 		- [[Intended effect on readers]]
 		- [[Irony (Unusual yet Effective)]]
+		- [[Siummary writing]]
+	- **[[Continuous writing]]**
+		- [[Expository]]
 	- [[Exposition]]
 	- [[Oral]]
 
