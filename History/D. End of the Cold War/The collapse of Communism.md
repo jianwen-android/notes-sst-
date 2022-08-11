@@ -1,6 +1,6 @@
 ---
 date created: Thursday, August 11th 2022, 1:18:37 pm
-date modified: Thursday, August 11th 2022, 1:25:23 pm
+date modified: Thursday, August 11th 2022, 1:28:07 pm
 ---
 - why did it happen so fast
 
@@ -11,9 +11,9 @@ date modified: Thursday, August 11th 2022, 1:25:23 pm
 1. **Joseph Stalin**
 2. **Khrushchev**
 3. Brehznev
-4. Andropov (1.5 years)
-5. Chernenko (1 year)
-6. Gorbachev 
+4. Andropov (1.5 years before dying)
+5. Chernenko (1 year before dying)
+6. Gorbachev (this time the Soviet Union dies)
 
 ## Why the Communist system working
 
