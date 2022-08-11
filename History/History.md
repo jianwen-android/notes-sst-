@@ -1,3 +1,8 @@
+---
+date created: Thursday, July 21st 2022, 10:25:15 am
+date modified: Thursday, July 21st 2022, 10:25:36 am
+---
+
 # History Overview
 
 %% Begin Waypoint %%
@@ -9,6 +14,7 @@
 	- **[[5 & 7. Axis Defeat in World War II]]**
 	- **[[A. Cold War in Europe]]**
 	- **[[B. Korean War]]**
+	- **[[C. Cuban Missile Crisis]]**
 	- **[[Military Japan]]**
 	- **[[SBQ]]**
 	- **[[SEQ]]**
