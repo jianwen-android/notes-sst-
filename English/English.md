@@ -12,6 +12,7 @@
 		- [[Siummary writing]]
 	- **[[Continuous writing]]**
 		- [[Expository]]
+		- [[Reflective or Hybrid Writing]]
 	- [[Exposition]]
 	- [[Oral]]
 
