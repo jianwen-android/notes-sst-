@@ -9,7 +9,7 @@
 		- [[Explain]]
 		- [[Intended effect on readers]]
 		- [[Irony (Unusual yet Effective)]]
-		- [[Siummary writing]]
+		- [[Summary writing]]
 	- **[[Continuous writing]]**
 		- [[Expository]]
 		- [[Reflective or Hybrid Writing]]
