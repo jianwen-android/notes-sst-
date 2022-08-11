@@ -1,6 +1,6 @@
 ---
 date created: Thursday, August 11th 2022, 9:43:04 am
-date modified: Thursday, August 11th 2022, 10:20:23 am
+date modified: Thursday, August 11th 2022, 10:30:59 am
 ---
 - organise ideas critically and creatively
 
@@ -64,15 +64,15 @@ date modified: Thursday, August 11th 2022, 10:20:23 am
 
 - reiterate your point
 
-## Type of points
+# Type of evidence
 
-### Anecdotal evidence
+## Anecdotal evidence
 
 - personal experiences or stories
 	- storytelling
 - credible through the use of details
 
-### Statistics
+## Statistics
 
 - use numerical data, case studies, research studies
 - if you forget the number
@@ -81,3 +81,13 @@ date modified: Thursday, August 11th 2022, 10:20:23 am
 	- estimated….
 	- just over/under….
 	- roughly…
+
+# Modes of reasoning
+
+## Cause and effect
+
+- when action A, action B
+
+## Deductive reasoning
+
+- if A is true, and since B is a subset of A, it follows that B must be true
