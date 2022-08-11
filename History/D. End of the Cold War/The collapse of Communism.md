@@ -1,6 +1,6 @@
 ---
 date created: Thursday, August 11th 2022, 1:18:37 pm
-date modified: Thursday, August 11th 2022, 2:05:05 pm
+date modified: Thursday, August 11th 2022, 2:13:43 pm
 ---
 
 > [!question] Why did it happen so fast?
@@ -133,6 +133,19 @@ date modified: Thursday, August 11th 2022, 2:05:05 pm
 - Half of the industries operated at a loss
 
 ## Social conditions
+
+### Under Khrushchev
+
+- Tried to provide more freedom, consumer goods & invited a comparison of capitalism & communism (successfully introduced housing initiative)
+- State system could not cope with his changes & upset many people
+- People increasingly disillusioned 
+	- destalinisation backfired
+
+### Growing anti-Soviet feelings in republics & within communist bloc
+- USSR created out of 15 countries
+- Varying ethnic groups with unique languages, customs and religion
+- Resented being ruled by the Communist party
+- Control established using Soviet troops, which was another costly financial drain
 
 ## Political conditions
 
