@@ -1,6 +1,6 @@
 ---
 date created: Thursday, August 11th 2022, 9:43:04 am
-date modified: Thursday, August 11th 2022, 9:58:00 am
+date modified: Thursday, August 11th 2022, 10:07:11 am
 ---
 - organise ideas critically and creatively
 
@@ -27,9 +27,46 @@ date modified: Thursday, August 11th 2022, 9:58:00 am
 
 # Scope
 
+## What
+
 - tied to context words
 	- limiting of your stance
 	- e.g. I only like ice cream **in the summer**
 - circumstances or conditionals help you to prove your argument
 	- shows the examiner that you have been thinking critically about the question
 - helps you to limit sweeping statements
+![[Screenshot 2022-08-11 at 10.02.27 AM.png| 800]]
+
+## Why is it important
+
+- suitable scope can allow you to delve deeply into your argument
+- make them more meaningful
+
+# PEEEL
+
+## Point
+
+- why you are taking that stance
+
+## Explanation
+
+- expand the point by explaining why that points leads to your stance
+
+## Evidence
+
+- concrete evidence for why your point is true
+
+## Evaluation
+
+- how is your evidence relevant/valid etc.
+
+## Link
+- reiterate your point
+
+## Type of points
+
+### Anecdotal evidence
+
+- personal experiences or stories
+	- storytelling
+- credible through the use of details
