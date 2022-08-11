@@ -1,6 +1,6 @@
 ---
 date created: Thursday, August 11th 2022, 9:43:04 am
-date modified: Thursday, August 11th 2022, 10:07:11 am
+date modified: Thursday, August 11th 2022, 10:17:35 am
 ---
 - organise ideas critically and creatively
 
@@ -58,9 +58,10 @@ date modified: Thursday, August 11th 2022, 10:07:11 am
 
 ## Evaluation
 
-- how is your evidence relevant/valid etc.
+- how is your evidence relevant/valid **to the overarching theme of the essay** etc.
 
 ## Link
+
 - reiterate your point
 
 ## Type of points
@@ -70,3 +71,7 @@ date modified: Thursday, August 11th 2022, 10:07:11 am
 - personal experiences or stories
 	- storytelling
 - credible through the use of details
+
+### Statistics
+
+- use numerical data, case studies, research studies
