@@ -1,6 +1,6 @@
 ---
 date created: Thursday, August 11th 2022, 9:43:04 am
-date modified: Thursday, August 11th 2022, 10:30:59 am
+date modified: Thursday, August 11th 2022, 10:35:35 am
 ---
 - organise ideas critically and creatively
 
@@ -82,7 +82,7 @@ date modified: Thursday, August 11th 2022, 10:30:59 am
 	- just over/under….
 	- roughly…
 
-# Modes of reasoning
+# Modes of reasoning (Explanation)
 
 ## Cause and effect
 
