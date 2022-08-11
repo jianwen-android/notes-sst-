@@ -1,6 +1,6 @@
 ---
 date created: Thursday, August 11th 2022, 11:18:49 am
-date modified: Thursday, August 11th 2022, 11:51:28 am
+date modified: Thursday, August 11th 2022, 11:55:32 am
 ---
 
 # Cycle 
@@ -33,8 +33,8 @@ date modified: Thursday, August 11th 2022, 11:51:28 am
 4. express a character's thoughts and emotions
 5. to set a mood
 
-### Introducing emotion and description
-
+### Introducing emotion and feelings
+- 
 ### Using Lit. devices
 
 ## Analysis
