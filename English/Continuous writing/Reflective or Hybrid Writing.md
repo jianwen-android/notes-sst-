@@ -1,6 +1,6 @@
 ---
 date created: Thursday, August 11th 2022, 11:18:49 am
-date modified: Thursday, August 11th 2022, 11:25:25 am
+date modified: Thursday, August 11th 2022, 11:51:28 am
 ---
 
 # Cycle 
@@ -33,7 +33,12 @@ date modified: Thursday, August 11th 2022, 11:25:25 am
 4. express a character's thoughts and emotions
 5. to set a mood
 
-- [ ] ## 
+### Introducing emotion and description
 
-# Introducing emotion and description
-# Using Lit. devices
+### Using Lit. devices
+
+## Analysis
+
+- explores the "how", "why", and "what if"
+- most important/interesting/useful/relevant about the object, event, experience or idea (topic)
+- how can you explain or justify its importance (topic)
