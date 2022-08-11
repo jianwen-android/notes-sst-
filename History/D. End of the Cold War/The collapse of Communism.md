@@ -1,6 +1,6 @@
 ---
 date created: Thursday, August 11th 2022, 1:18:37 pm
-date modified: Thursday, August 11th 2022, 1:48:45 pm
+date modified: Thursday, August 11th 2022, 2:05:05 pm
 ---
 
 > [!question] Why did it happen so fast?
@@ -68,6 +68,69 @@ date modified: Thursday, August 11th 2022, 1:48:45 pm
 ### Communist
 
 - what the government decides, the government gets
+- much of the money spent was not beneficial to the citizens
+
+#### Poor/slow decisions by central government
+
+- did not make good decisions
+	- unaware of ground conditions in different parts of USSR
+- factory managers had to wait for government decisions for everything (what to produce)
+
+#### No quality control
+
+- focus was on heavy industries
+	- not possible to measure quality
+- consumer goods produced were often
+
+#### No incentive to work hard/alcoholism
+
+- No rewards to work harder
+- Jobs were guaranteed for life; subsidised health care, housing & education
+- Vodka was cheap & easily obtained
+- Many workers went to work drunk
+
+#### Excessive budget allocated for military
+
+- Almost 50% of government spending was on military
+- Investment not used to upgrade technology in agricultural sector/industries
+- Poor transportation & distribution system
+	- factories located far from raw materials; farm productions rotted while waiting for transport
+
+### Under Khrushchev
+
+- The command economy had reached its maximum potential under Stalin's leadership
+	- Stalin had already introduced industrialisation and collectivisation
+	- So Khrushchev had to come up with new ideas
+- Khrushchev tried to introduce a number of economic reforms but had failed to boost the stagnant economy
+
+#### Agriculture
+
+- Vrigin lands scheme
+	- solve food shortages by growing wheat in central USSR
+	- e.g. Siberia
+- involved huge manpower & costs but the climate 
+- Involved huge manpower & costs but the climate & soil were unsuitable; Lacked transportation
+- Massive failure
+
+#### Industries
+
+- broke up central control & introduced a council of national economy to manage 100 districts 
+	- tried to improve efficiency
+- rate of industrial growth dropped consistently
+- problems blamed on Khrushchev
+
+### Under Brezhnev
+
+- Politburo voted Khrushchev out of power over economic & political problems
+- Abandoned economic experiments; returned to Stalinist style of control economy
+- Heavy emphasis on heavy industry again
+- However, economy continued to slide – required loans from the West! (during détente)
+
+### Gorbachev’s challenges
+
+- ‘Global over-stretch’: Gave financial & military aid to left-wing regimes in Africa; spent millions on Red Army to support Warsaw Pact allies & US$ 3b a year to Eastern European states (thru COMECON); fighting in Afghanistan still on-going 
+- Economy stagnated since 1975, req’d technological & financial aid from the West 
+- Half of the industries operated at a loss
 
 ## Social conditions
 
