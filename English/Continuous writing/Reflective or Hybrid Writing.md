@@ -33,4 +33,7 @@ date modified: Thursday, August 11th 2022, 11:25:25 am
 4. express a character's thoughts and emotions
 5. to set a mood
 
-## A
+- [ ] ## 
+
+# Introducing emotion and description
+# Using Lit. devices
