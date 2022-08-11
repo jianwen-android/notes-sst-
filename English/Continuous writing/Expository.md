@@ -1,6 +1,6 @@
 ---
 date created: Thursday, August 11th 2022, 9:43:04 am
-date modified: Thursday, August 11th 2022, 10:35:35 am
+date modified: Thursday, August 11th 2022, 10:38:42 am
 ---
 - organise ideas critically and creatively
 
@@ -91,3 +91,7 @@ date modified: Thursday, August 11th 2022, 10:35:35 am
 ## Deductive reasoning
 
 - if A is true, and since B is a subset of A, it follows that B must be true
+
+## Comparison and contrast
+
+- What is the difference between A and B, therefore why is A better than B and why your point is true
