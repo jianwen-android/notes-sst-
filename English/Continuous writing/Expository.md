@@ -1,6 +1,6 @@
 ---
 date created: Thursday, August 11th 2022, 9:43:04 am
-date modified: Thursday, August 11th 2022, 10:17:35 am
+date modified: Thursday, August 11th 2022, 10:20:23 am
 ---
 - organise ideas critically and creatively
 
@@ -75,3 +75,9 @@ date modified: Thursday, August 11th 2022, 10:17:35 am
 ### Statistics
 
 - use numerical data, case studies, research studies
+- if you forget the number
+	- Use qualifiers: 
+	- approximately….
+	- estimated….
+	- just over/under….
+	- roughly…
