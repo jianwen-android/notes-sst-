@@ -12,6 +12,7 @@
 		- [[Language use]]
 		- [[Summary writing]]
 	- **[[Continuous writing]]**
+		- [[Conclusion for Expository]]
 		- [[Expository]]
 		- [[Reflective or Hybrid Writing]]
 	- [[Exposition]]
