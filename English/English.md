@@ -9,6 +9,7 @@
 		- [[Explain]]
 		- [[Intended effect on readers]]
 		- [[Irony (Unusual yet Effective)]]
+		- [[Language use]]
 		- [[Summary writing]]
 	- **[[Continuous writing]]**
 		- [[Expository]]
