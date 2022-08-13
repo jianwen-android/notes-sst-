@@ -15,7 +15,7 @@ date modified: Thursday, July 21st 2022, 10:25:36 am
 	- **[[A. Cold War in Europe]]**
 	- **[[B. Korean War]]**
 	- **[[C. Cuban Missile Crisis]]**
-	- **D. End of the Cold War**
+	- **[[D. End of the Cold War]]**
 	- **[[Military Japan]]**
 	- **[[SBQ]]**
 	- **[[SEQ]]**
