@@ -12,8 +12,8 @@
 		- [[Language use]]
 		- [[Summary writing]]
 	- **[[Continuous writing]]**
-		- [[Conclusion for Expository]]
 		- [[Expository]]
+		- [[Intro and Conclusion writing]]
 		- [[Reflective or Hybrid Writing]]
 	- [[Exposition]]
 	- [[Oral]]
