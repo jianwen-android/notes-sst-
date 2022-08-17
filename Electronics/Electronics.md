@@ -2,7 +2,6 @@
 
 %% Begin Waypoint %%
 - **[[Electronics]]**
-	- **[[2. Resistors]]**
 	- **[[6 Capacitors]]**
 	- **[[7 Diodes]]**
 	- **[[ICs]]**
