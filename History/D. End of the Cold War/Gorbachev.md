@@ -1,6 +1,6 @@
 ---
 date created: Thursday, August 18th 2022, 8:09:17 am
-date modified: Thursday, August 18th 2022, 8:56:02 am
+date modified: Thursday, August 18th 2022, 8:56:04 am
 ---
 
 # Gorbachev
@@ -125,7 +125,7 @@ selection criteria
 - newly established governments established diplomatic ties with capitalist countries immediately
 	- those that broke free immediately joined the UN
 		- if they were invaded again by the USSR, UN could protect them
-- soviet republics were in unrest
+- soviet republics were in unrest (see [[#Multi-ethnic nature of Soviet Union]])
 	- those "countries" under the USSR (Ukraine, Kazakhstan etc.)
 
 # Reasons for failure
