@@ -3,7 +3,7 @@ date created: Thursday, August 18th 2022, 11:21:18 am
 date modified: Thursday, August 18th 2022, 11:25:44 am
 ---
 
-# Right hand rule
+# Right grip hand rule
 
 - shows you the direction of magnetic field lines produced (4 fingers) by current flowing through a conductor (thumb)
 - shows you the poles of a solenoid (thumb points to North), given the direction of current (4 fingers)
