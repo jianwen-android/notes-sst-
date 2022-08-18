@@ -6,6 +6,7 @@
   "baseFontSizeAction": false,
   "enabledCssSnippets": [
     "checkbox",
-    "twocolumns"
+    "twocolumns",
+    "timeline-snippet"
   ]
 }
