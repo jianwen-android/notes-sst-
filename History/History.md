@@ -16,6 +16,7 @@ date modified: Thursday, July 21st 2022, 10:25:36 am
 	- **[[B. Korean War]]**
 	- **[[C. Cuban Missile Crisis]]**
 	- **[[D. End of the Cold War]]**
+	- [[History Timeline]]
 	- **[[Military Japan]]**
 	- **[[SBQ]]**
 	- **[[SEQ]]**
