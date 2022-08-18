@@ -1,6 +1,6 @@
 ---
 date created: Sunday, April 10th 2022, 9:04:58 pm
-date modified: Sunday, April 10th 2022, 9:04:58 pm
+date modified: Tuesday, August 2nd 2022, 8:56:46 am
 ---
 
 # Communism v Capitalism v Socialism
