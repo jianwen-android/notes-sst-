@@ -3,15 +3,8 @@
 %% Begin Waypoint %%
 - **[[English]]**
 	- [[Biases]]
-	- **Comprehension**
-		- [[3 details]]
-		- [[Effect writer creates by]]
-		- [[Explain]]
-		- [[Intended effect on readers]]
-		- [[Irony (Unusual yet Effective)]]
-		- [[Language use]]
-		- [[Summary writing]]
-	- **[[Continuous writing]]**
+	- **[[Comprehension]]**
+	- **Continuous writing**
 		- [[Expository]]
 		- [[Intro and Conclusion writing]]
 		- [[Reflective or Hybrid Writing]]
