@@ -2,7 +2,10 @@
 
 %% Begin Waypoint %%
 - **[[A Math]]**
-	- [[Differentiation]]
+	- **Differentiation**
+		- [[Basic Rules]]
+		- [[Logarithm]]
+		- [[Trigonometry Functions]]
 	- [[Integration]]
 	- **Mensuration**
 		- [[Surface Area]]
