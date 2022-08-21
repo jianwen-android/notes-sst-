@@ -1,3 +1,8 @@
+---
+date created: Monday, April 25th 2022, 5:23:26 pm
+date modified: Monday, April 25th 2022, 8:28:44 pm
+---
+
 # Explanations
 
 ## Relationship
@@ -59,5 +64,3 @@
 
 - how accurate your data is to the teachers
 - no way to test for that
-
-![[Things to note]]

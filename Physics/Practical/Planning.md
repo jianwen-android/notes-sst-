@@ -1,6 +1,6 @@
 ---
 date created: Sunday, August 21st 2022, 3:57:54 pm
-date modified: Sunday, August 21st 2022, 4:07:05 pm
+date modified: Sunday, August 21st 2022, 4:09:50 pm
 ---
 
 # IDP and DP
@@ -50,6 +50,7 @@ date modified: Sunday, August 21st 2022, 4:07:05 pm
 # Relationship between variables
 
 - Typically linear
+	- directly proportional (only if there the line passes through the origin)
 
 ## Gradient (Linear)
 
