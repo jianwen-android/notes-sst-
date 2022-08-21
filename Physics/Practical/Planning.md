@@ -1,6 +1,6 @@
 ---
 date created: Sunday, August 21st 2022, 3:57:54 pm
-date modified: Sunday, August 21st 2022, 8:32:39 pm
+date modified: Sunday, August 21st 2022, 8:39:24 pm
 ---
 
 # IDP and DP
@@ -26,6 +26,11 @@ date modified: Sunday, August 21st 2022, 8:32:39 pm
 - State how **1** dependant variable will be measured ( show that by varying the independent variable, you will obtain different dependant variable values)
 - "Repeat steps a to b for further values of y" to obtain more values for the experiment
 - State apparatus used to measure values
+
+### For time related experiments
+
+- repeat the measurement of time 2 times
+- take the average
 
 ## Conclusion
 
