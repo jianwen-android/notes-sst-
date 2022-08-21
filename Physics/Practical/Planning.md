@@ -1,8 +1,14 @@
+---
+date created: Sunday, August 21st 2022, 3:57:54 pm
+date modified: Sunday, August 21st 2022, 4:03:26 pm
+---
+
 # IDP and DP
 
 - State explicit your independent variables (x - axis) and dependant variables (y - axis)
 - State 2 **measurable** values that should stay constant throughout the practical
 	- These values must also be significant to the experiment
+- check if you can express your relationship (if given) into a linear equation (for later)
 
 # Procedures
 
@@ -50,4 +56,4 @@
 	- Questions can be asking you to find the gradient
 	- Or find a constant that can be found through the gradient
 
-![[Things to note]]
+[[Things to note]]
