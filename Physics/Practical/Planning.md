@@ -1,6 +1,6 @@
 ---
 date created: Sunday, August 21st 2022, 3:57:54 pm
-date modified: Sunday, August 21st 2022, 4:09:50 pm
+date modified: Sunday, August 21st 2022, 8:32:39 pm
 ---
 
 # IDP and DP
@@ -25,6 +25,7 @@ date modified: Sunday, August 21st 2022, 4:09:50 pm
 - State **1** value for the independent variable for the procedure to test with first
 - State how **1** dependant variable will be measured ( show that by varying the independent variable, you will obtain different dependant variable values)
 - "Repeat steps a to b for further values of y" to obtain more values for the experiment
+- State apparatus used to measure values
 
 ## Conclusion
 
@@ -45,7 +46,7 @@ date modified: Sunday, August 21st 2022, 4:09:50 pm
 ## Risk and precautions
 
 - Should there be any form of risk, take note of them in the procedures
-- Provide solutions to minimize or mitigate these risks
+- Provide solutions to minimise or mitigate these risks
 
 # Relationship between variables
 
