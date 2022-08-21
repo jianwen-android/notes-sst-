@@ -1,6 +1,15 @@
+---
+date created: Tuesday, August 9th 2022, 4:19:12 pm
+date modified: Sunday, August 21st 2022, 2:54:22 pm
+---
+
 # Errors
 
 ## Parallax error
+
+- describe the parallax error (e.g. ruler is not placed against the object to be measured, resulting in a error when ….)
+- must be due to the setup of the experiment
+	- not because of you
 
 ## Human reaction time error
 
@@ -11,13 +20,13 @@
 
 - apparatus used is not precise enough
 	- e.g. using meter rule to measure diameter of a pendulum bob
-	- use a more precise one (e.g. vernier calliper)
+	- use a more precise one (e.g. Vernier calliper)
 
 ## Optics and light
 
 ### Lens
 
-- The middle of lens holder may not coincide with the center of the lens.
+- The middle of lens holder may not coincide with the centre of the lens.
 	- This affects the accurate measurement of l.
 	- The sharpness of image may not be consistent throughout the experiment as it is estimated by eye. This affects the accurate measurement of l.
 
@@ -38,10 +47,21 @@
 - error in resistance wire
     There may be kinks on the resistance wire which cause the length of resistance to be longer than 100.0cm. This will increase the voltmeter reading which is inaccurate
 
-# Miscellanous
+# Miscellaneous
 
-- Measurements should always be in DP relative to the instruement
+## Measuring
+
+- read off digital display if provided
+
+- (else), always find the width of the smallest division (lets call it *w*)
+	- if w<= 1mm, read to the smallest division
+	- if w> 1mm, read to half the smallest division
+
+## Calculations
+
+- Measurements should always be in DP relative to the instrument
 - SF Rule:
 	- Answer should be in the lowest SF when multiplying/dividing
 - DP Rule:
 	- Answer should be in the lowest DP when adding/subtracting
+

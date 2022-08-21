@@ -1,6 +1,6 @@
 # IDP and DP
 
-- State explicit your independant variables (x - axis) and dependant variables (y - axis)
+- State explicit your independent variables (x - axis) and dependant variables (y - axis)
 - State 2 **measurable** values that should stay constant throughout the practical
 	- These values must also be significant to the experiment
 
@@ -16,14 +16,14 @@
 
 ## Testing
 
-- State **1** value for the independant variable for the procedure to test with first
-- State how **1** dependant variable will be measured ( show that by varying the independant variable, you will obtain different dependant variable values)
+- State **1** value for the independent variable for the procedure to test with first
+- State how **1** dependant variable will be measured ( show that by varying the independent variable, you will obtain different dependant variable values)
 - "Repeat steps a to b for further values of y" to obtain more values for the experiment
 
 ## Conclusion
 
 - How do you obtain the unknown value? (usually using gradient)
-	- Mathematical manipulation of the gradient will usually require you to perform some operation on the independant or dependant variable
+	- Mathematical manipulation of the gradient will usually require you to perform some operation on the independent or dependant variable
 - Create a graph with c amount of rows
 	- Column headers should be e.g.
 | Time/s | Length/cm | Time^2/s^2 |
