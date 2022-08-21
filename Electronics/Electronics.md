@@ -6,7 +6,6 @@
 	- **[[7 Diodes]]**
 	- **[[ICs]]**
 	- **[[Input Output Transducers]]**
-	- **[[Kirchhoff laws (Voltage & Current)]]**
 	- **[[Transistors]]**
 
 %% End Waypoint %%
