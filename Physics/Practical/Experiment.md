@@ -1,6 +1,6 @@
 ---
 date created: Monday, April 25th 2022, 5:23:26 pm
-date modified: Sunday, August 21st 2022, 10:46:21 pm
+date modified: Sunday, August 21st 2022, 10:54:13 pm
 ---
 
 # Explanations
@@ -42,6 +42,8 @@ date modified: Sunday, August 21st 2022, 10:46:21 pm
 	- draw dotted lines (triangle for finding gradient)
 - circle any outliers and call them out with "outlier"
 - must be spread out across more than 1/2 the paper
+
+# Tables
 
 ## HUDA
 
