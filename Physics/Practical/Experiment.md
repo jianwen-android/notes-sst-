@@ -1,6 +1,6 @@
 ---
 date created: Monday, April 25th 2022, 5:23:26 pm
-date modified: Monday, April 25th 2022, 8:28:44 pm
+date modified: Sunday, August 21st 2022, 10:35:12 pm
 ---
 
 # Explanations
@@ -23,7 +23,8 @@ date modified: Monday, April 25th 2022, 8:28:44 pm
 ### Line
 
 - Draw a best fit line with equal number of points, above and below the line
-- Draw **all the way** from either y or x axis
+- Try and draw with a y-intercept
+- Draw **all the way** to either y or x axis
 
 ### Axis
 
