@@ -1,6 +1,6 @@
 ---
 date created: Sunday, August 21st 2022, 3:57:54 pm
-date modified: Sunday, August 21st 2022, 4:03:26 pm
+date modified: Sunday, August 21st 2022, 4:07:05 pm
 ---
 
 # IDP and DP
@@ -28,9 +28,9 @@ date modified: Sunday, August 21st 2022, 4:03:26 pm
 
 ## Conclusion
 
-- How do you obtain the unknown value? (usually using gradient)
+- How do you obtain the unknown value? (usually using gradient or y intercept)
 	- Mathematical manipulation of the gradient will usually require you to perform some operation on the independent or dependant variable
-- Create a graph with c amount of rows
+- Create a graph with the number of rows based on how many variables **measured and calculated**
 	- Column headers should be e.g.
 | Time/s | Length/cm | Time^2/s^2 |
 | ------ | --------- | ---------- |
@@ -38,6 +38,7 @@ date modified: Sunday, August 21st 2022, 4:03:26 pm
 - "If the suggested relationship is correct, a ___ graph will be obtained as shown"
 	- Craft a suitable graph using the appropriate **x** and **y** (from your manipulation) axis variables, and the suggested relationship between them
 	- Usually a linear graph
+	- y against x
 - "The value of ___ can be determined from the ___ of the graph"
 	- Usually from the gradient cause there's not much else you can get from a linear relationship
 
