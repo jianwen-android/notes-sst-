@@ -1,15 +1,14 @@
 ---
 date created: Tuesday, August 9th 2022, 4:19:11 pm
-date modified: Monday, August 22nd 2022, 3:51:44 pm
+date modified: Monday, August 22nd 2022, 4:43:56 pm
 ---
 
 # Note
 
 1. Explaining of problem solving techniques not required (?)
 2. Half of Chapter 4 is focused on Python programming (tested but trivial in theory paper)
-3. Explaning of symbols or psuedocode syntax is not required
-	1. Note that they can still ask you what a flowchart or psuedocode is supposed to do
-4. Chapter 9 is solely on logic gates (no explaining so everything has already been covered by Electronics)
+3. Explaining of symbols or pseudocode syntax is not required
+	1. Note that they can still ask you what a flowchart or pseudocode is supposed to do
 
 # Common Test
 
