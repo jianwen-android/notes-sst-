@@ -1,6 +1,6 @@
 ---
 date created: Sunday, May 8th 2022, 4:32:10 pm
-date modified: Tuesday, August 23rd 2022, 8:59:14 pm
+date modified: Tuesday, August 23rd 2022, 8:59:17 pm
 ---
 
 # Biasing
