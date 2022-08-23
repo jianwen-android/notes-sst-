@@ -5,7 +5,6 @@
 	- **[[6 Capacitors]]**
 	- **[[7 Diodes]]**
 	- **[[ICs]]**
-	- **[[Input Output Transducers]]**
 	- **[[Transistors]]**
 
 %% End Waypoint %%
