@@ -2,7 +2,7 @@
 %% Begin Waypoint %%
 - **[[Transistors]]**
 	- [[Amplifiers]]
-	- [[Darlingotn pairs]]
+	- [[Darlington pairs]]
 	- [[Switch]]
 
 %% End Waypoint %%
