@@ -1,6 +1,6 @@
 ---
 date created: Monday, April 25th 2022, 5:23:26 pm
-date modified: Monday, April 25th 2022, 8:28:44 pm
+date modified: Sunday, August 21st 2022, 10:54:13 pm
 ---
 
 # Explanations
@@ -23,7 +23,8 @@ date modified: Monday, April 25th 2022, 8:28:44 pm
 ### Line
 
 - Draw a best fit line with equal number of points, above and below the line
-- Draw **all the way** from either y or x axis
+- Try and draw with a y-intercept
+- Draw **all the way** to either y or x axis
 
 ### Axis
 
@@ -31,7 +32,7 @@ date modified: Monday, April 25th 2022, 8:28:44 pm
 - arrows for the axis
 - origin starting point (doesn't have to start from 0)
 - actual header / physical unit
-- plotted points must take up half of the paper
+- plotted points must take up 1/2 of the paper
 
 ### Plotted points
 
@@ -40,7 +41,9 @@ date modified: Monday, April 25th 2022, 8:28:44 pm
 	- write down the coordinates of the point beside
 	- draw dotted lines (triangle for finding gradient)
 - circle any outliers and call them out with "outlier"
-- must be spread out across more than
+- must be spread out across more than 1/2 the paper
+
+# Tables
 
 ## HUDA
 
