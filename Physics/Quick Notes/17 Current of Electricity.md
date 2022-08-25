@@ -1,6 +1,6 @@
 ---
 date created: Tuesday, May 10th 2022, 10:01:32 pm
-date modified: Tuesday, August 23rd 2022, 9:21:30 pm
+date modified: Tuesday, August 23rd 2022, 9:21:33 pm
 ---
 ![[Electronics]]
 
