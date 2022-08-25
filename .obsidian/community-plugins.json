@@ -17,10 +17,10 @@
   "waypoint",
   "dataview",
   "obsidian-annotator",
-  "obsidian-spaced-repetition",
   "hotkeysplus-obsidian",
   "obsidian-desmos",
   "multi-column-markdown",
   "obsidian-image-caption",
-  "obsidian-timelines"
+  "obsidian-timelines",
+  "obsidian-to-anki-plugin"
 ]
