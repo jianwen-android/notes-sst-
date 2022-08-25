@@ -3,7 +3,7 @@
   "autoCommitMessage": "{{hostname}}: {{date}}",
   "commitDateFormat": "DD-MM-YYYY HH:mm:ss",
   "autoSaveInterval": 2,
-  "autoPullInterval": 0,
+  "autoPullInterval": 1,
   "autoPullOnBoot": true,
   "disablePush": false,
   "pullBeforePush": true,
