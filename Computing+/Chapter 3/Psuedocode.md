@@ -1,3 +1,8 @@
+---
+date created: Monday, April 25th 2022, 3:54:21 pm
+date modified: Thursday, August 25th 2022, 11:35:38 pm
+---
+
 # Syntax
 
 ## Input/Output
@@ -31,7 +36,7 @@ ENDIF
 ### For loops
 
 ```
-FOR count 1 to n
+FOR variable 1 to n
     action
 NEXT variable //to increment count
 ```
