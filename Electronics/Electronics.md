@@ -2,6 +2,8 @@
 
 %% Begin Waypoint %%
 - **[[Electronics]]**
+	- **4. Circuit Theory**
+		- [[Definitions]]
 	- **[[6 Capacitors]]**
 	- **[[7 Diodes]]**
 	- **[[ICs]]**

@@ -16,7 +16,7 @@ A network allows a group of computers to make use of ==shared resources== such a
 <!--SR:!2022-08-16,12,278-->
 
 Depending on the network’s configuration, every user who logs on to the network may have ==access to the Internet==.
-<!--SR:!2022-08-13,9,278-->
+<!--SR:!2022-11-09,77,298-->
 
 ==Shared software== can be stored on the central server of a network and deployed to other computers over a network
 <!--SR:!2022-08-16,11,258-->
@@ -166,7 +166,7 @@ What are the considerations behind wired and wireless transmission mediums (reli
 ?
 More reliable as data transmission is unaffected by interference
 Less reliable due to potential interference from radio waves and microwaves or blockage from physical obstructions
-<!--SR:!2022-08-06,2,197-->
+<!--SR:!2022-09-15,22,197-->
 
 What are the considerations behind wired and wireless transmission mediums (security)
 ?
@@ -230,4 +230,4 @@ What is a Network Interface Controller (NIC)
 - for example, network PCIE in computers or WiFi chip in phones (built in)
 
 Network Interface Controller (NIC) have ==6 (48 bits)== bytes
-<!--SR:!2022-08-16,12,278-->
+<!--SR:!2022-08-31,7,258-->
