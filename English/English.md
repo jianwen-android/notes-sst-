@@ -4,12 +4,10 @@
 - **[[English]]**
 	- [[Biases]]
 	- **[[Comprehension]]**
-	- **Continuous writing**
-		- [[Expository]]
-		- [[Intro and Conclusion writing]]
-		- [[Reflective or Hybrid Writing]]
+	- **[[Continuous writing]]**
 	- [[Exposition]]
 	- [[Oral]]
+	- [[Situational Writing]]
 
 %% End Waypoint %%
 
