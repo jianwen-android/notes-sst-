@@ -1,6 +1,6 @@
 ---
 date created: Sunday, August 28th 2022, 3:10:20 pm
-date modified: Sunday, August 28th 2022, 5:09:17 pm
+date modified: Sunday, August 28th 2022, 5:19:43 pm
 ---
 
 # Question analysis
@@ -69,7 +69,6 @@ Cheers,
 Signature
 ```
 
-
 ## Formal email	
 
 ```
@@ -90,6 +89,7 @@ Yours sincerely/faithfully,
 ```
 
 ## Informal email
+
 ```
 To: (their email address)
 From: (your email address)
@@ -104,20 +104,61 @@ Cheers,
 
 (first name)
 ```
+
 ## Proposal
+
 ```
 Date
+
 Attention:(their full name)
           (their title)
           
-(heading with content words capitalized)
+(underlined heading with content words capitalized)
 
 (content)
 
 Proposed by: (your full name) (your title)
 ```
 
+## Report
+
 ```
-Report	"Date To: (person's full name) From: (your full name) Heading (what is the incident you are reporting on?) (content) (signature)"
-Speech	Heading (what are you making a speech for) Speech written by: (full name) (content)
-Article	Date Headline (summarizes point in a fun and casual manner) Written by: (full name) (content)
+Date
+
+To:(person's full name)
+From: (your full name)
+
+Heading (what is the incident you are reporting on?)
+
+(content)
+
+(signature)
+```
+
+## Speech
+
+```
+Heading (what are you making a speech for)
+
+Speech written by: (full name)
+
+(content)
+```
+
+## Article
+
+```
+Date
+
+Headline (summarizes point in a fun and casual manner)
+
+Written by: (full name)
+
+(content)
+```
+
+# How to write points
+
+## Look at the infographic
+
+- depending on the 
