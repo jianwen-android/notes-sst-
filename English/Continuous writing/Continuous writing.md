@@ -2,7 +2,7 @@
 %% Begin Waypoint %%
 - **[[Continuous writing]]**
 	- [[Expository]]
-	- [[Intro and Conclusion writing]]
-	- [[Reflective or Hybrid Writing]]
+	- [[Intro and Conclusion]]
+	- [[Reflective or Hybrid]]
 
 %% End Waypoint %%
