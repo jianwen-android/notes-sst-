@@ -1,6 +1,6 @@
 ---
 date created: Sunday, August 28th 2022, 3:10:20 pm
-date modified: Sunday, August 28th 2022, 6:32:15 pm
+date modified: Sunday, August 28th 2022, 6:37:14 pm
 ---
 
 # Question analysis
@@ -157,6 +157,8 @@ Written by: (full name)
 
 (content)
 ```
+
+#todo organise into Anki flashcards
 
 # How to write points
 
