@@ -13,6 +13,20 @@ date modified: Sunday, August 28th 2022, 3:11:10 pm
 
 # Proposal
 
+Date:
+
+Attention:     Addressee
+
+              Designation
+
+Subject (underlined and capitalise content words)
+
+Body of Proposal
+
+Proposed by:     Full Name
+
+Designation
+
 # Speech 
 
 - rare
