@@ -1,6 +1,6 @@
 ---
 date created: Sunday, August 28th 2022, 3:10:20 pm
-date modified: Sunday, August 28th 2022, 5:19:43 pm
+date modified: Sunday, August 28th 2022, 6:32:15 pm
 ---
 
 # Question analysis
@@ -9,6 +9,7 @@ date modified: Sunday, August 28th 2022, 5:19:43 pm
 
 - Purpose
 	- why are you writing
+	- usually (2) given below the question statement
 - Audience
 	- who are you writing to
 - Context
@@ -161,4 +162,8 @@ Written by: (full name)
 
 ## Look at the infographic
 
-- depending on the 
+- depending on the requirements and what you need to write,
+
+### Extract information
+
+- expand on ideas with clear examples
