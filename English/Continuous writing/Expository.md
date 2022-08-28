@@ -1,6 +1,6 @@
 ---
 date created: Thursday, August 11th 2022, 9:43:04 am
-date modified: Thursday, August 11th 2022, 10:54:45 am
+date modified: Sunday, August 28th 2022, 9:23:11 pm
 ---
 - organise ideas critically and creatively
 
@@ -94,9 +94,11 @@ date modified: Thursday, August 11th 2022, 10:54:45 am
 
 ## Comparison and contrast
 
-- What is the difference between A and B, therefore why is A better than B and why your point is true
+- What is the difference between A and B
+	- why is A better than B
+	- therefore why your point is true
 
-## Counter argument and rebuttals
+## Counter argument and rebuttals (1 paragraph at the end)
 
 - introduce and problematise the counter-argument
 	- "Some may argue that…"
