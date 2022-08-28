@@ -5,8 +5,6 @@
 	- [[Biases]]
 	- **[[Comprehension]]**
 	- **[[Continuous writing]]**
-	- [[Exposition]]
-	- [[Oral]]
 	- [[Situational Writing]]
 
 %% End Waypoint %%
