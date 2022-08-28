@@ -1,6 +1,6 @@
 ---
 date created: Sunday, August 28th 2022, 3:10:20 pm
-date modified: Sunday, August 28th 2022, 7:12:57 pm
+date modified: Sunday, August 28th 2022, 9:03:04 pm
 ---
 
 # Question analysis
@@ -118,7 +118,8 @@ Attention:(their full name)
 
 (content)
 
-Proposed by: (your full name) (your title)
+Proposed by: (your full name)
+			 (your title)
 ```
 
 ## Report
