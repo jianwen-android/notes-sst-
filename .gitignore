@@ -6,3 +6,6 @@
 # Trash from both OS
 .trash/
 .DS_Store
+
+# Mobile sync script
+.obsidian/sync.sh
