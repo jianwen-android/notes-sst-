@@ -1,6 +1,6 @@
 ---
 date created: Thursday, August 11th 2022, 9:43:04 am
-date modified: Sunday, August 28th 2022, 9:23:11 pm
+date modified: Sunday, August 28th 2022, 9:26:29 pm
 ---
 - organise ideas critically and creatively
 
@@ -116,4 +116,4 @@ date modified: Sunday, August 28th 2022, 9:23:11 pm
 ### Even if you are right
 
 - yea you may be right
-- but my point is applies to more people/better/more important etc.
+	- but my point is applies to more people/is better/is more important etc.
