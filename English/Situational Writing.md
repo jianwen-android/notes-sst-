@@ -1,6 +1,6 @@
 ---
 date created: Sunday, August 28th 2022, 3:10:20 pm
-date modified: Sunday, August 28th 2022, 6:40:19 pm
+date modified: Sunday, August 28th 2022, 7:10:55 pm
 ---
 
 # Question analysis
@@ -164,8 +164,10 @@ Written by: (full name)
 
 ## Look at the infographic
 
-- depending on the requirements and what you need to write,
+- depending on the requirements and what you need to write
 
 ### Extract information
 
-- expand on ideas with clear examples
+- bring in qualities/skills/ideas/any other sub points
+	- expand on them with clear personal examples
+	- explain how your examples are relevant
