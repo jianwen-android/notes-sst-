@@ -1,6 +1,6 @@
 ---
 date created: Sunday, August 28th 2022, 3:10:20 pm
-date modified: Sunday, August 28th 2022, 7:10:55 pm
+date modified: Sunday, August 28th 2022, 7:12:57 pm
 ---
 
 # Question analysis
@@ -129,7 +129,7 @@ Date
 To:(person's full name)
 From: (your full name)
 
-Heading (what is the incident you are reporting on?)
+(underlined heading with content words capitalized) (what is the incident you are reporting on?)
 
 (content)
 
