@@ -4,9 +4,7 @@
 - **[[E Math]]**
 	- **Geometric Proofs**
 		- [[Angles]]
-	- **Set language and notation**
-		- [[Set theory and notation]]
-		- [[sets]]
+	- **[[Set language and notation]]**
 
 %% End Waypoint %%
 
