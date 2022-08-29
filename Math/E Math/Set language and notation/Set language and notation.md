@@ -7,6 +7,7 @@ date modified: Monday, August 29th 2022, 8:45:41 pm
 
 %% Begin Waypoint %%
 - **[[Set language and notation]]**
+	- [[Set language]]
 	- [[sets]]
 
 %% End Waypoint %%
