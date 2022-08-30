@@ -41,7 +41,7 @@ selection criteria
 - free elections promised
 	- (you can only vote for communist people, only difference is voting between reformers/hardliners)
 - political prisoners were released
-- arrested and trialed corrupt officials
+- arrested and trialled corrupt officials
 - weapons reduction in cold war
 - promise of non-violent intervention in Easter bloc
 	- no red army
