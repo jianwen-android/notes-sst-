@@ -17,8 +17,5 @@ date modified: Thursday, July 21st 2022, 10:25:36 am
 	- **[[C. Cuban Missile Crisis]]**
 	- **[[D. End of the Cold War]]**
 	- **[[Military Japan]]**
-	- **[[SBQ]]**
-	- **[[SEQ]]**
-	- [[Untitled 1]]
 
 %% End Waypoint %%
