@@ -1,6 +1,6 @@
 ---
 date created: Sunday, April 10th 2022, 9:04:58 pm
-date modified: Thursday, May 5th 2022, 9:46:28 pm
+date modified: Tuesday, August 30th 2022, 8:23:25 pm
 ---
 
 # Hitler’s Expasionist Foreign Policy
@@ -69,13 +69,13 @@ Updated: February 18, 2022 3:55 PM
 ## Sudetenland & Czechoslovakia
 
 - Due to ToV, the population of Sudetenland was largely ethnic Germans
-- Hitler insitigated the Nazi Party in Sudetenland to stir up trouble
+- Hitler instigated the Nazi Party in Sudetenland to stir up trouble
 - When the Czech govt. suppressed the troublemakers, Hitler threatened to go to war to protect the ethnic Germans
 - Czechoslovakia had a modern army and all its defensive forts were in Sudetenland
 - Sudetenland also had important industrial resources
 - Czech President was willing to go to war with Germany; protected by Franco-Soviet Pact
 - However, Britain was keen to avert war
-- Neville Chamberlain went to Germany on his accord to meet HItler in Sept 1938
+- Neville Chamberlain went to Germany on his own accord to meet Hitler in Sept 1938
     - First meeting: Agreed on a plebiscite; allow people of Sudetenland to decide whom to belong to
     Chamberlain returns home and convinces France & Czechoslovakia to agree, albeit reluctantly
     - Second meeting: Hitler changes tune, demands for ALL of Sudetenland & all Germans to return;
@@ -86,8 +86,8 @@ Updated: February 18, 2022 3:55 PM
 - Churchill called the Munich Agreement - ‘a total, unmitigated defeat’
 - Czechoslovakia & USSR were not consulted; Britain informed Czech leaders if they did not accept the Agreement, they would face Germany along
 - Edvard Benes resigned; German soldiers marched into Sudetenland on 1 October
-- 16 March 1939: Germany invaded the rest of Czechosskovakia
-- Britain and France finallly reaised that Hitler could not be trusted, went to war with them
+- 16 March 1939: Germany invaded the rest of Czechoslovakia
+- Britain and France finally realised that Hitler could not be trusted, went to war with them
 
 # Rhineland
 
