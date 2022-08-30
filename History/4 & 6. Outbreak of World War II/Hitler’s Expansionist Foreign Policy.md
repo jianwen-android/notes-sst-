@@ -110,7 +110,7 @@ German troops marched into demilitarised Rhineland
 
 - protested but not fight
     - sticking and relying on best bud Britain
-- maginot line
+- Maginot line
 
 ### British
 
