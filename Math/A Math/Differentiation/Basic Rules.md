@@ -1,6 +1,6 @@
 ---
 date created: Tuesday, April 19th 2022, 11:50:48 pm
-date modified: Wednesday, April 20th 2022, 11:49:29 pm
+date modified: Tuesday, September 6th 2022, 7:14:32 pm
 ---
 
 # Rules
@@ -13,7 +13,7 @@ Where n is a real number
 
 ## Chain Rule
 
-$$ \frac{d}{dx} (ax^b + 5)^c = c\times(ax^b + 5)^{c-1}\times abx $$
+$$ \frac{d}{dx} (ax^b + c)^d = d\times(ax^b + c)^{d-1}\times abx^{b-1} $$
 
 Where a, b and c are real numbers
 
@@ -22,3 +22,5 @@ Where a, b and c are real numbers
 $$ \frac{d}{dx}f(x)g(x) = f'(x)g(x) + f(x)g'(x) $$
 
 ## Quotient Rule
+
+$$ \frac{d}{dx}\frac{f(x)}{g(x)} = \frac{f'(x)g(x) - f(x)g'(x)}{g(x)^2} $$

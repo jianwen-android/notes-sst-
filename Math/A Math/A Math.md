@@ -4,6 +4,7 @@
 - **[[A Math]]**
 	- **Differentiation**
 		- [[Basic Rules]]
+		- [[Exponentials]]
 		- [[Logarithm]]
 		- [[Trigonometry Functions]]
 	- [[Integration]]
