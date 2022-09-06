@@ -7,6 +7,8 @@
 		- [[Exponentials]]
 		- [[Logarithm]]
 		- [[Trigonometry Functions]]
+	- **Integration**
+		- [[Basic Rules]]
 	- [[Integration]]
 	- **Mensuration**
 		- [[Surface Area]]
