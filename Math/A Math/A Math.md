@@ -11,7 +11,6 @@
 		- [[Basic Rules]]
 		- [[Exponentials]]
 		- [[Trigonometric Functions]]
-	- [[Integration]]
 	- **Mensuration**
 		- [[Surface Area]]
 		- [[Volume]]
