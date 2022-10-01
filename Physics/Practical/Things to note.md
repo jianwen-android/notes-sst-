@@ -1,6 +1,6 @@
 ---
 date created: Tuesday, August 9th 2022, 4:19:12 pm
-date modified: Sunday, August 21st 2022, 4:02:03 pm
+date modified: Saturday, October 1st 2022, 11:51:48 pm
 ---
 
 # Errors
@@ -63,6 +63,11 @@ date modified: Sunday, August 21st 2022, 4:02:03 pm
 
 - affected by wind
 - unable to identify the maximum and the minimum points of the pendulum when oscillating
+
+### Heat and temperature
+
+- loss of thermal/kinetic energy to surroundings/due to friction
+	- provide insulation/lubricate surfaces respectively
 
 ### Electronics
 
