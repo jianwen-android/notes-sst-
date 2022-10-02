@@ -1,6 +1,6 @@
 ---
 date created: Sunday, August 21st 2022, 3:57:54 pm
-date modified: Sunday, August 21st 2022, 8:39:24 pm
+date modified: Sunday, October 2nd 2022, 8:03:20 pm
 ---
 
 # IDP and DP
@@ -38,15 +38,17 @@ date modified: Sunday, August 21st 2022, 8:39:24 pm
 	- Mathematical manipulation of the gradient will usually require you to perform some operation on the independent or dependant variable
 - Create a graph with the number of rows based on how many variables **measured and calculated**
 	- Column headers should be e.g.
+
 | Time/s | Length/cm | Time^2/s^2 |
 | ------ | --------- | ---------- |
-| 1      | 2         | 1^2           |
+| 1      | 2         | 1^2        |
+
 - "If the suggested relationship is correct, a ___ graph will be obtained as shown"
 	- Craft a suitable graph using the appropriate **x** and **y** (from your manipulation) axis variables, and the suggested relationship between them
 	- Usually a linear graph
 	- y against x
-- "The value of ___ can be determined from the ___ of the graph"
-	- Usually from the gradient cause there's not much else you can get from a linear relationship
+- "The value of \_ can be determined from the \_ of the graph"
+	- gradient or y-intercept
 
 ## Risk and precautions
 
@@ -63,5 +65,9 @@ date modified: Sunday, August 21st 2022, 8:39:24 pm
 - Typically a constant that needs to be found
 	- Questions can be asking you to find the gradient
 	- Or find a constant that can be found through the gradient
+
+## Gradient (At a point on a curve)
+
+- Draw a tangent to find the gradient at the point
 
 [[Things to note]]
