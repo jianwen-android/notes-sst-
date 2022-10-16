@@ -2,9 +2,7 @@
 
 %% Begin Waypoint %%
 - **[[E Math]]**
-	- **Geometric Proofs**
-		- [[Angles]]
-	- **[[Set language and notation]]**
+
 
 %% End Waypoint %%
 

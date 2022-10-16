@@ -4,26 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "26ec953200c74e66",
+        "id": "4938ecc5350153b9",
         "type": "tabs",
         "children": [
           {
-            "id": "711af56d80e3bf64",
+            "id": "6e708cc1570a9d53",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "English/Situational Writing Formats (Supplement).pdf"
+                "file": "Math/E Math/geometric-formulae-for-plane-geometry.pdf"
               }
             }
           },
           {
-            "id": "5fb9d1f42f0197d3",
+            "id": "d699df4b54e0ddad",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "pdf",
               "state": {
-                "currentVersion": "1.0.0"
+                "file": "Math/E Math/geometric-formulae-for-plane-geometry.pdf"
               }
             }
           }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Situational Writing Formats (Supplement).pdf",
+                "file": "Math/E Math/geometric-formulae-for-plane-geometry.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/Situational Writing Formats (Supplement).pdf",
+                "file": "Math/E Math/geometric-formulae-for-plane-geometry.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Situational Writing Formats (Supplement).pdf"
+                "file": "Math/E Math/geometric-formulae-for-plane-geometry.pdf"
               }
             }
           }
@@ -167,17 +167,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "5fb9d1f42f0197d3",
+  "active": "d699df4b54e0ddad",
   "lastOpenFiles": [
-    "English/Situational Writing.md",
-    "English/Continuous writing/Continuous writing.md",
+    "Math/E Math/Set language and notation.png",
+    "Math/E Math/geometric-formulae-for-plane-geometry.pdf",
+    "Math/E Math/Geometric Proofs/Angles.md",
+    "Math/E Math/Geometric Proofs/geometric-formulae-for-plane-geometry.pdf",
+    "Math/E Math/Set language and notation/Set language.md",
+    "Math/E Math/Set language and notation/Set language and notation.md",
+    "Math/E Math/E Math.md",
+    "Math/Math.md",
     "English/English.md",
-    "History/History.md",
-    "History Summarized/End of the Cold War/Why did the Cold War end/Long term developments contributing to the end of the Cold War.md",
-    "History Summarized/End of the Cold War/Why did the Cold War end/Short term developments contributing to the end of the Cold War.md",
-    "History Summarized/WWI/Untitled.md",
-    "History/D. End of the Cold War/Gorbachev.md",
-    "History/D. End of the Cold War/The collapse of Communism.md",
-    "History/D. End of the Cold War/D. End of the Cold War.md"
+    "English/Situational Writing Formats (Supplement).pdf"
   ]
 }
