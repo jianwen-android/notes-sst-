@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "98bb61536059da54",
+    "type": "split",
+    "children": [
+      {
+        "id": "26ec953200c74e66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "711af56d80e3bf64",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "English/Situational Writing Formats (Supplement).pdf"
+              }
+            }
+          },
+          {
+            "id": "5fb9d1f42f0197d3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.0"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0908777c4efe9ab3",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e213ce2fb03d3a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8dbdd0c30808e0e3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "981485568f98ddf2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ceac77169338f826",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 382.5
+  },
+  "right": {
+    "id": "9bc603d4fd61cca0",
+    "type": "split",
+    "children": [
+      {
+        "id": "cabd15150e970f7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0c57dae664eff89",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "English/Situational Writing Formats (Supplement).pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1d3ee378fc8d6e56",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "English/Situational Writing Formats (Supplement).pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5a6f7f1d3e01a7a3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9207d9f36ca366d1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "English/Situational Writing Formats (Supplement).pdf"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "7e12387f457c1ad6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d6f0adbfdb9e354",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computing+/Chapter 11/Chapter 11 Flashcards.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "5fb9d1f42f0197d3",
+  "lastOpenFiles": [
+    "English/Situational Writing.md",
+    "English/Continuous writing/Continuous writing.md",
+    "English/English.md",
+    "History/History.md",
+    "History Summarized/End of the Cold War/Why did the Cold War end/Long term developments contributing to the end of the Cold War.md",
+    "History Summarized/End of the Cold War/Why did the Cold War end/Short term developments contributing to the end of the Cold War.md",
+    "History Summarized/WWI/Untitled.md",
+    "History/D. End of the Cold War/Gorbachev.md",
+    "History/D. End of the Cold War/The collapse of Communism.md",
+    "History/D. End of the Cold War/D. End of the Cold War.md"
+  ]
+}
