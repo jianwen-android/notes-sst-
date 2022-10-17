@@ -21,9 +21,9 @@
             "id": "d699df4b54e0ddad",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "image",
               "state": {
-                "file": "Math/E Math/geometric-formulae-for-plane-geometry.pdf"
+                "file": "Math/E Math/Set language and notation.png"
               }
             }
           }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/E Math/geometric-formulae-for-plane-geometry.pdf",
+                "file": "Math/E Math/Set language and notation.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/E Math/geometric-formulae-for-plane-geometry.pdf",
+                "file": "Math/E Math/Set language and notation.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/E Math/geometric-formulae-for-plane-geometry.pdf"
+                "file": "Math/E Math/Set language and notation.png"
               }
             }
           }
@@ -169,8 +169,8 @@
   },
   "active": "d699df4b54e0ddad",
   "lastOpenFiles": [
-    "Math/E Math/Set language and notation.png",
     "Math/E Math/geometric-formulae-for-plane-geometry.pdf",
+    "Math/E Math/Set language and notation.png",
     "Math/E Math/Geometric Proofs/Angles.md",
     "Math/E Math/Geometric Proofs/geometric-formulae-for-plane-geometry.pdf",
     "Math/E Math/Set language and notation/Set language.md",
