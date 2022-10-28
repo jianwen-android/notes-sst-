@@ -16,8 +16,19 @@
                 "file": "Math/E Math/geometric-formulae-for-plane-geometry.pdf"
               }
             }
+          },
+          {
+            "id": "bb4942050d312f26",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,10 +164,7 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "5a3d069d19b54242",
+  "active": "bb4942050d312f26",
   "lastOpenFiles": [
     "Math/E Math/Set language and notation.png",
     "Math/E Math/E Math.md",
