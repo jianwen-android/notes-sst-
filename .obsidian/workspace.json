@@ -21,9 +21,12 @@
             "id": "bb4942050d312f26",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.0.3"
+                "file": "Computing+/Chapter 7/7.5 Impact of technology on Everyday life.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/E Math/geometric-formulae-for-plane-geometry.pdf",
+                "file": "Computing+/Chapter 7/7.5 Impact of technology on Everyday life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/E Math/geometric-formulae-for-plane-geometry.pdf",
+                "file": "Computing+/Chapter 7/7.5 Impact of technology on Everyday life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/E Math/geometric-formulae-for-plane-geometry.pdf"
+                "file": "Computing+/Chapter 7/7.5 Impact of technology on Everyday life.md"
               }
             }
           }
@@ -164,17 +167,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bb4942050d312f26",
+  "active": "8dbdd0c30808e0e3",
   "lastOpenFiles": [
-    "Math/E Math/Set language and notation.png",
-    "Math/E Math/E Math.md",
-    "Math/Math.md",
-    "English/English.md",
-    "English/Comprehension/Comprehension.md",
-    "English/2022 EL MYE Paper 1 Summary.pdf",
-    "English/2022 EL MYE Paper 2 Summary.pdf",
-    "English/O Level Grammar Rules.pdf",
-    "English/Biases.md",
-    "History/History.md"
+    "Computing+/Chapter 7/Chapter 7.md",
+    "Computing+/Chapter 11/11.7 Error checking methods in Data Transmission.md",
+    "Computing+/Chapter 11/11.6 Network Topologies.md",
+    "Computing+/Chapter 11/11.5 Network Hardware and Their Functions.md",
+    "Computing+/Chapter 11/11.3 Factors Affecting Choice of Transmission Medium.md",
+    "Computing+/Chapter 11/11.4 Identifiers.md",
+    "Computing+/Chapter 11/11.1 Computer Network.md",
+    "Computing+/Chapter 11/11.2 Types of Computer Networks.md",
+    "Computing+/Chapter 11/Chapter 11.md",
+    "Computing+/Chapter 6/6.2 Designing test cases.md"
   ]
 }
