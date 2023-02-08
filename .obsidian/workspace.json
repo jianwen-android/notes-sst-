@@ -21,6 +21,16 @@
             }
           },
           {
+            "id": "e2094e7fa3526d77",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              }
+            }
+          },
+          {
             "id": "d107d39fe76f3266",
             "type": "leaf",
             "state": {
@@ -33,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,7 +180,19 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bb4942050d312f26",
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "e2094e7fa3526d77",
   "lastOpenFiles": [
     "Social Studies/2. Diversity/2. Diversity.md",
     "Social Studies/2. Diversity/Experiences and Effects of Diversity/Experiences and Effects of Diversity.md",
