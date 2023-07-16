@@ -4,42 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "403c53d72ddb4b99",
+        "id": "f740d3f99e632dab",
         "type": "tabs",
         "children": [
           {
-            "id": "bb4942050d312f26",
+            "id": "8b881568ed741460",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Social Studies/Social Studies.md",
+                "file": "Math/Math.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "e2094e7fa3526d77",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.9"
-              }
-            }
-          },
-          {
-            "id": "d107d39fe76f3266",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Social Studies/Social Studies.md",
+                "file": "Math/Math.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Social Studies/Social Studies.md",
+                "file": "Math/Math.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Social Studies/Social Studies.md"
+                "file": "Math/Math.md"
               }
             }
           }
@@ -190,19 +171,23 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "audio-recorder:Start/stop recording": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "e2094e7fa3526d77",
+  "active": "8dbdd0c30808e0e3",
   "lastOpenFiles": [
+    "Math/E Math/E Math.md",
+    "Math/A Math/A Math.md",
+    "Math/Math.md",
+    "Social Studies/Social Studies.md",
     "Social Studies/2. Diversity/2. Diversity.md",
     "Social Studies/2. Diversity/Experiences and Effects of Diversity/Experiences and Effects of Diversity.md",
     "Social Studies/3. Globalisation/3. Globalisation.md",
     "Social Studies/1. Citizenship/1. Citizenship.md",
     "Social Studies/2. Deciding what is good for society/2. Deciding what is good for society.md",
-    "Social Studies/Social Studies.md",
     "English/English.md",
-    "Math/Math.md",
     "Computing+/Computing+.md",
     "Computing+/Chapter 11/Chapter 11.md"
   ]
